@@ -1,0 +1,1852 @@
+# Translation of Zerif Lite in Turkish
+# This file is distributed under the same license as the Zerif Lite package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-06-18 02:13:25+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: GlotPress/2.1.0-alpha\n"
+"Project-Id-Version: Zerif Lite\n"
+
+#. Theme Name of the plugin/theme
+msgid "Zerif Lite"
+msgstr "Zerif Lite"
+
+#. Description of the plugin/theme
+msgid "Zerif LITE is a free one page Wordpress theme. It's perfect for web agency business,corporate business,personal and parallax business portfolio, photography sites and freelancer.Is built on BootStrap with parallax support, is responsive, clean, modern, flat and minimal. Zerif Lite is ecommerce (WooCommerce) Compatible, WPML, RTL, Retina-Ready, SEO Friendly and with parallax, full screen image is one of the best business themes."
+msgstr "Zerif LITE ücretsiz, tek sayfalık bir WordPress temasıdır. Web ajansı, ticari işletmeler, kişisel ve paralaks iş portföyü, fotoğraf siteleri ve serbest meslek sahipleri için mükemmeldir. Paralaks desteği ile BootStrap üzerine inşa edilmiştir; duyarlı, temiz, modern, düz ve minimaldir. Zerif Lite e-ticaret (WooCommerce) uyumlu, WPML, RTL, Retinaya-hazır, SEO dostudur ve paralaks ile tam ekran görüntüsü konusunda en iyi ticari temalardan biridir."
+
+#. Template Name of the plugin/theme
+msgid "Full width with no title template"
+msgstr "Başlık olmayan tam genişlikli şablon"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:48
+msgid "Build a landing page with a drag-and-drop content builder"
+msgstr "Sürükle bırak içerik oluşturucu ile bir karşılama sayfası oluşturun"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:49
+msgid "In the below documentation you will find an easy way to build a great looking landing page using a drag-and-drop content builder plugin."
+msgstr "Aşağıdaki belgelerden sürükle bırak içerik oluşturucu eklentisi ile kolayca güzel gözüken bir karşılama sayfasını nasıl oluşturabileceğinizi öğrenebilirsiniz."
+
+#: inc/admin/welcome-screen/sections/getting-started.php:149
+msgid "Page Builder by SiteOrigin"
+msgstr "SiteOrigin sayfa oluşturucusu"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:150
+msgid "Build responsive page layouts using the widgets you know and love using this simple drag and drop page builder."
+msgstr "Bu basit sürükle bırak sayfa oluşturucusu ile bildiğiniz ve sevdiğiniz bileşenleri kullanarak duyarlı sayfa düzenleri oluşturun."
+
+#: inc/admin/welcome-screen/sections/getting-started.php:160
+msgid "Install Page Builder by SiteOrigin"
+msgstr "SiteOrigin Sayfa Oluşturucusunu yükleyin"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:252
+msgid "Easy Content Types"
+msgstr "Kolay İçerik Tipileri"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:253
+msgid "Custom Post Types, Taxonomies and Metaboxes in Minutes"
+msgstr "Dakikalar içinde özel yazı tipleri, terimler ve meta kutuları"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:263
+msgid "Download Easy Content Types"
+msgstr "Easy Content Types eklentisini indir"
+
+#: inc/admin/welcome-screen/sections/github.php:9
+msgid "How can I contribute?"
+msgstr "Nasıl katkı sağlayabilirim?"
+
+#: inc/admin/welcome-screen/sections/github.php:14
+msgid "Found a bug? Want to contribute with a fix or create a new feature?"
+msgstr "Bir hata mı buldunuz? Düzelterek ya da yeni bir özellik oluşturarak katkıda bulunmak ister misiniz?"
+
+#: inc/admin/welcome-screen/sections/github.php:25
+msgid "Are you a polyglot? Want to translate Zerif Lite into your own language?"
+msgstr "Bir çevirmen misiniz? Zerif Lite temasını dilinize çevirmek ister misiniz?"
+
+#: inc/admin/welcome-screen/sections/github.php:27
+msgid "Get involved at WordPress.org."
+msgstr "WordPress.org üzerinden bize katılın."
+
+#: content-large.php:66 content.php:63 sections/latest_news.php:80
+#: sections/latest_news.php:115
+msgid "[...]"
+msgstr "[...]"
+
+#: content-large.php:66 content.php:63 sections/latest_news.php:80
+#: sections/latest_news.php:115
+msgid "about "
+msgstr "Hakkında"
+
+#: inc/customizer.php:176 inc/customizer.php:410
+msgid "Footer Copyright"
+msgstr "Alt Alan Telif Hakkı"
+
+#: inc/customizer.php:194
+msgid "Footer Social Icons"
+msgstr "Alt alan sosyal simgeler"
+
+#: inc/customizer.php:264 inc/customizer.php:471
+msgid "Instagram link"
+msgstr "Instagram bağlantısı"
+
+#: inc/customizer.php:270
+msgid "Footer Content"
+msgstr "Alt alan içeriği"
+
+#: functions.php:196
+msgid "Footer area %d"
+msgstr "Alt alan %d"
+
+#: functions.php:102
+msgid "Get the one page template"
+msgstr "Tek sayfa şablonunu edin"
+
+#: functions.php:103
+msgid "If you just installed Zerif Lite, and are not able to see the one page template, you need to go to Settings -> Reading , Front page displays and select \"Your latest posts\"."
+msgstr "Eğer Zerif Lite temasını yeni yüklediniz ve tek sayfa şablonunu göremiyorsanız Ayarlar -> Okuma bölümüne gidip, Ön sayfa ayarında \"En son yazılarınız\" seçeneğini seçin."
+
+#: inc/admin/welcome-screen/sections/getting-started.php:272
+msgid "Revive Old Post"
+msgstr "Eski yazıları canlandır"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:273
+msgid "A plugin to share about your old posts on twitter, facebook, linkedin to get more hits for them and keep them alive."
+msgstr "Eski yazılarınızı twitter, facebook, linkedin üzerinde paylaşarak onları biraz olsun canlandırmak için bir eklenti."
+
+#: inc/admin/welcome-screen/sections/getting-started.php:283
+msgid "Install Revive Old Post"
+msgstr "Revive Old Post eklentisini yükle"
+
+#: inc/admin/welcome-screen/sections/child-themes.php:35
+msgid "Get now"
+msgstr "Şimdi al"
+
+#: inc/admin/welcome-screen/sections/child-themes.php:109
+#: inc/admin/welcome-screen/sections/child-themes.php:111
+msgid "ResponsiveBoat"
+msgstr "ResponsiveBoat"
+
+#: inc/admin/welcome-screen/sections/child-themes.php:118
+msgid "Get %s now"
+msgstr "%s şimdi al"
+
+#: inc/admin/welcome-screen/sections/child-themes.php:124
+msgid "ResponsiveBoat - Current theme"
+msgstr "ResponsiveBoat - Mevcut tema"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:72
+msgid "Add a search bar in the top menu"
+msgstr "Üst menüye arama çubuğu ekle"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:73
+msgid "Find out how to add a search bar in the top menu bar, in an easy way be following the link below."
+msgstr "Üst menü çubuğuna nasıl bir arama kutusu ekleyeceğinizi öğrenin. Tek yapmanız gereken alttaki bağlantıyı takip etmek."
+
+#: inc/admin/welcome-screen/sections/getting-started.php:122
+msgid "30 Experts Share: The Top *Non-Obvious* WordPress Plugins That'll Make You a Better Blogger"
+msgstr "30 uzman paylaştı: Sizi daha iyi bir blogger yapacak, çok da *Göz önünde olmayan\" WordPress eklentileri"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:123
+msgid " At the address below you will find a cool set of original WordPress plugins that can give you great benefits despite being a little lesser known out there."
+msgstr "Aşağıdaki listede çok bilinmemelerine sağmen oldukça işinize yarayacak bir set WordPress eklentileri mevcut."
+
+#: inc/admin/welcome-screen/sections/getting-started.php:124
+msgid "Read more"
+msgstr "Devamını Oku"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:55
+msgid "In the below documentation you will find an easy way to translate Zerif Lite into your native language or any other language you need for you site."
+msgstr "Aşağıdaki belgede Zerif Lite temasını kendi dilinize ya da istediğiniz herhangi bir dile nasıl kolayca çevirebileceğiniz yolları bulabilirsiniz."
+
+#: inc/admin/welcome-screen/sections/getting-started.php:116
+msgid "Configure the portfolio"
+msgstr "Portfolio sayfasını ayarla"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:117
+msgid "Set up your portfolio section in an easy way be following the link below."
+msgstr "Aşağıdaki bağlantıları takip ederek portfolyo bölümünü kolayca kurabilirsiniz."
+
+#: inc/customizer.php:1606 inc/customizer.php:1664
+msgid "Use pinterest layout?"
+msgstr "Pinterest görünümünü kullan"
+
+#: inc/customizer.php:1933
+msgid "For more advanced settings please go to Settings -> Pirate Forms"
+msgstr "Daha gelişmiş ayarlar içib Ayarlar -> Pirate Forms sayfasına gidin"
+
+#: inc/customizer.php:55 inc/customizer.php:2066
+msgid "View Documentation"
+msgstr "Belgeleri görüntüle"
+
+#: inc/admin/welcome-screen/sections/github.php:19
+msgid "Zerif Lite on GitHub"
+msgstr "Github üzerinde Zerif Lite"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:54
+#: inc/admin/welcome-screen/sections/github.php:30
+msgid "Translate Zerif Lite"
+msgstr "Zerif Lite temasını çevir"
+
+#: inc/admin/welcome-screen/sections/github.php:36
+msgid "Are you enjoying Zerif Lite?"
+msgstr "Zerif Lite temasından memnun musunuz?"
+
+#: inc/admin/welcome-screen/sections/github.php:38
+msgid "Rate our theme on %sWordPress.org%s. We'd really appreciate it!"
+msgstr "Temamızı oylar mısın? %sWordPress.org%s. Şimdiden teşekkür ederiz!"
+
+#: inc/admin/welcome-screen/welcome-screen.php:66
+msgid "Welcome! Thank you for choosing Zerif Lite! To fully take advantage of the best our theme can offer please make sure you visit our %swelcome page%s."
+msgstr "Hoşgeldiniz! Zerif Lite temasını tercih ettiğiniz için teşekkür ederiz. Temamızdan en iyi şekilde yararlanmak için lütfen %smerhaba sayfamızı%s ziyaret edin."
+
+#: inc/admin/welcome-screen/welcome-screen.php:67
+msgid "Get started with Zerif Lite"
+msgstr "Zerif Lite ile başla"
+
+#: inc/customizer.php:56
+msgid "View Theme Info"
+msgstr "Tema bilgilerini görüntüle"
+
+#: inc/admin/welcome-screen/welcome-screen.php:210
+msgid "Actions required"
+msgstr "Eylem gerekli"
+
+#: inc/admin/welcome-screen/welcome-screen.php:211
+msgid "Child themes"
+msgstr "Alt tema"
+
+#: inc/admin/welcome-screen/welcome-screen.php:212
+msgid "Contribute"
+msgstr "Katkıda bulunun"
+
+#: inc/admin/welcome-screen/welcome-screen.php:213
+msgid "Changelog"
+msgstr "Değişim listesi"
+
+#: inc/admin/welcome-screen/welcome-screen.php:214
+msgid "Free VS PRO"
+msgstr "Ücretsiz/PRO sürüm karşılaştırma"
+
+#: inc/customizer.php:164 inc/customizer.php:398
+msgid "Enable accessibility?"
+msgstr "Erişilebilirlik açılsın mı?"
+
+#: inc/customizer.php:625 inc/customizer.php:774
+msgid "Green button label"
+msgstr "Yeşil tuş etiketi"
+
+#: inc/customizer.php:659 inc/customizer.php:806
+msgid "Use parallax effect?"
+msgstr "Paralaks efekti açılsın mı?"
+
+#: inc/customizer.php:671 inc/customizer.php:818
+msgid "Image 1"
+msgstr "Görsel 1"
+
+#: inc/customizer.php:684 inc/customizer.php:831
+msgid "Image 2"
+msgstr "Görsel 2"
+
+#: inc/customizer.php:695 inc/customizer.php:842
+msgid "Video background"
+msgstr "Video arka planı"
+
+#: inc/customizer.php:869 inc/customizer.php:1477
+msgid "Content"
+msgstr "Açıklama"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:42
+msgid "Create a child theme"
+msgstr "Bir alt tema oluştur"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:43
+msgid "If you want to make changes to the theme's files, those changes are likely to be overwritten when you next update the theme. In order to prevent that from happening, you need to create a child theme. For this, please follow the documentation below."
+msgstr "Tema dosyalarında güncelleme yapmak istiyorsanız, tema güncellemesi geldiğinde bu değişikliklerinizin kaybolması muhtemeldir. Başınıza böyle bir şey gelmemesi için bir alt tema oluşturmanız gerekmektedir. Bunun için lütfen aşağıdaki belgeleri okuyun."
+
+#: inc/admin/welcome-screen/sections/getting-started.php:44
+#: inc/admin/welcome-screen/sections/getting-started.php:50
+#: inc/admin/welcome-screen/sections/getting-started.php:56
+#: inc/admin/welcome-screen/sections/getting-started.php:62
+#: inc/admin/welcome-screen/sections/getting-started.php:68
+#: inc/admin/welcome-screen/sections/getting-started.php:74
+#: inc/admin/welcome-screen/sections/getting-started.php:80
+#: inc/admin/welcome-screen/sections/getting-started.php:88
+#: inc/admin/welcome-screen/sections/getting-started.php:94
+#: inc/admin/welcome-screen/sections/getting-started.php:100
+#: inc/admin/welcome-screen/sections/getting-started.php:106
+#: inc/admin/welcome-screen/sections/getting-started.php:112
+#: inc/admin/welcome-screen/sections/getting-started.php:118
+msgid "View how to do this"
+msgstr "Bunun nasıl yapılacağını gör"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:78
+msgid "Slider in big title section"
+msgstr "Büyük başlık bölümü içinde Slider"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:79
+msgid "If you are in the position where you want to change the default appearance of the big title section, you may want to replace it with a nice looking slider. This can be accomplished by following the documention below."
+msgstr "Büyük başlıklı bölümü değiştirmek istiyorsanız, bu bölümün içine bir Slider eklemeyi düşünebilirsiniz. Bunun nasıl yapıldığını öğrenmek istiyorsanız aşağıdaki belgeleri inceleyebilirsiniz."
+
+#: inc/admin/welcome-screen/sections/getting-started.php:60
+msgid "Change dimensions for footer social icons"
+msgstr "Alt bölümdeki sosyal simgeler için boyutları değiştir"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:61
+msgid "In the below documentation you will find an easy way to change the default dimensions for you social icons."
+msgstr "Aşağıdaki belgelerde sosyal simgelerin varsayılan boyutlarını nasıl kolayca değiştirebileceğinizi bulabilirsiniz."
+
+#: inc/admin/welcome-screen/sections/getting-started.php:66
+msgid "Turn off the animations"
+msgstr "Animasyonları kapat"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:67
+msgid "You can turn off the animation effects you see when Zerif Lite loads a section in an easy way with just few changes. Check the documentation below."
+msgstr "Zerif Lite bir bölüm yüklerken gözüken animasyon efektlerini küçük bir kaç değişiklik ile kapatabilirsiniz. Aşağıdaki belgeyi inceleyin."
+
+#: inc/admin/welcome-screen/sections/getting-started.php:86
+msgid "Speed up your site"
+msgstr "Siteni hızlandır"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:87
+msgid "If you find yourself in the situation where everything on your site is running very slow, you might consider having a look at the below documentation where you will find the most common issues causing this and possible solutions for each of the issues."
+msgstr "Eğer sitenizdeki her şeyin yavaş çalıştığını düşünüyorsanız en temel problemler ile ilgili çözümlerin yer aldığı aşağıdaki belgeye bir göz atmanızı öneririz."
+
+#: inc/admin/welcome-screen/sections/getting-started.php:92
+msgid "Link Menu to sections"
+msgstr "Bölümler için bağlantı menüsü"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:93
+msgid "Linking the frontpage sections with the top menu is very simple, all you need to do is assign section anchors to the menu. In the below documentation you will find a nice tutorial about this."
+msgstr "Üst menüden ana sayfadaki bölümlere bağlantı vermek çok basit. Tek yapmanız gereken menüde bölüm işaretleyicilerini belirlemek. Aşağıda bu konu ile ilgili güzel bir eğitici bulunuyor."
+
+#: inc/admin/welcome-screen/sections/getting-started.php:98
+msgid "Change anchors"
+msgstr "Bağları değiştir"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:99
+msgid "To better suit your site's needs, you can change each section's anchor to what you want. The entire process is described below."
+msgstr "Sitenizin ihtiyaçlarını daha iyi karşılamak için her bölümün adresini istediğiniz gibi değiştirebilirsiniz. Tüm süreç aşağıda açıklanmıştır."
+
+#: inc/admin/welcome-screen/sections/getting-started.php:104
+msgid "Change the page template"
+msgstr "Sayfa şablonunu değiştir"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:105
+msgid "Zerif Lite has three page templates available, two for the blog and one for full width pages. To make sure you take full advantage of those page templates, make sure you read the documentation."
+msgstr "Zerif Lite içinde üç sayfa şablonu vardır, ikisi blog için ve bir tanesi tam genişlikli sayfalar için. Bu şablonların tüm avantajlarından yararlanmak için belgeleri okuduğunuzdan emin olun."
+
+#: inc/admin/welcome-screen/sections/getting-started.php:110
+msgid "Remove the opacity"
+msgstr "Saydamlığı kaldır"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:111
+msgid "You don't like the way Zerif Lite looks with its background opacity? No problem. Just remove it using the steps below."
+msgstr "Şeffaf arka planlı Zerif Liste görünümünü beğenmediniz mi? Sıkıntı değil. Aşağıdaki adımları izleyerek kaldırın."
+
+#: inc/admin/welcome-screen/sections/getting-started.php:134
+msgid "View full documentation"
+msgstr "Tüm belgeleri görüntüle"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:135
+msgid "Need more details? Please check our full documentation for detailed information on how to use Zerif Lite."
+msgstr "Daha fazla detay mı gerekli? Zerif Lite temasını nasıl kullanacağınız ile ilgili tüm belgelere bir göz atın."
+
+#: inc/admin/welcome-screen/sections/getting-started.php:136
+msgid "Read full documentation"
+msgstr "Tüm belgeleri oku"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:143
+msgid "Recommended plugins"
+msgstr "Önerilen eklentiler"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:170
+msgid "WP Product Review"
+msgstr "WP Product Review"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:171
+msgid "Easily turn your basic posts into in-depth reviews with ratings, pros and cons, affiliate links, rich snippets and user reviews."
+msgstr "Puanlama, artılar/eksiler, iş ortağı bağlantıları, zengin aparatlar ve kullanıcı görüşleri ile basit yazılarınızı kolayca zenginleştirin."
+
+#: inc/admin/welcome-screen/sections/getting-started.php:154
+#: inc/admin/welcome-screen/sections/getting-started.php:175
+#: inc/admin/welcome-screen/sections/getting-started.php:196
+#: inc/admin/welcome-screen/sections/getting-started.php:215
+#: inc/admin/welcome-screen/sections/getting-started.php:237
+#: inc/admin/welcome-screen/sections/getting-started.php:257
+#: inc/admin/welcome-screen/sections/getting-started.php:277
+#: inc/admin/welcome-screen/sections/getting-started.php:296
+msgid "Already activated"
+msgstr "Zaten etkin"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:181
+msgid "Install WP Product Review"
+msgstr "WP Product Review (Ürün inceleme) yükle"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:191
+msgid "Custom Login Customizer"
+msgstr "Özel Login Customizer (Giriş özelleştirici)"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:192
+msgid "Login Customizer plugin allows you to easily customize your login page straight from your WordPress Customizer! You can preview your changes before you save them!"
+msgstr "Login Customizer (Giriş özelleştirici) eklentisi giriş sayfanızı direkt olarak WordPress özelleştirici içinden özelleştirebilmenize olanak sağlar. Değişiklikleri kaydetmeden önce ön izleme yapabilirsiniz."
+
+#: inc/admin/welcome-screen/sections/getting-started.php:202
+msgid "Install Custom Login Customizer"
+msgstr "Özel Login Customizer (Giriş özelleştirici) eklentisini yükle"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:232
+msgid "Visualizer: Charts and Graphs"
+msgstr "Görselleştirici: Çizelgeler ve grafikler"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:233
+msgid "A simple, easy to use and quite powerful chart tool to create, manage and embed interactive charts into your WordPress posts and pages."
+msgstr "WordPress yazı ve sayfalarınıza interaktif çizelgeler gömmek için basit, kullanımı kolay ve oldukça güçlü bir çizelge aracı."
+
+#: inc/admin/welcome-screen/sections/getting-started.php:243
+msgid "Install Visualizer"
+msgstr "Görselleştiriciyi yükle"
+
+#: inc/admin/welcome-screen/sections/github.php:16
+msgid "GitHub is the place to go!"
+msgstr "Gidilecek yer GitHub!"
+
+#: inc/admin/welcome-screen/sections/free_pro.php:102
+msgid "You will benefit of our full support for any issues you have with the theme."
+msgstr "WordPress yazı ve sayfalarınıza interaktif çizelgeler gömmek için basit, kullanımı kolay ve oldukça güçlü bir çizelge aracı."
+
+#: inc/admin/welcome-screen/sections/free_pro.php:109
+msgid "Packages/Subscribe sections"
+msgstr "Paketler/Abonelik bölümleri"
+
+#: inc/admin/welcome-screen/sections/free_pro.php:110
+msgid "Add pricing tables for your products and use newsletter forms to attract the clients."
+msgstr "Ürünlerinize fiyat tabloları ekleyin ve bülten formları ile müşterilerinizi cezbedin."
+
+#: inc/admin/welcome-screen/sections/free_pro.php:117
+msgid "Change labels for the Contact Us section"
+msgstr "İletişim bölümünün etiketlerini değiştirin"
+
+#: inc/admin/welcome-screen/sections/free_pro.php:118
+msgid "Write an original text in each Contact us section field."
+msgstr "Her bir iletişim alanı için orijinal bir metin yazın."
+
+#: inc/admin/welcome-screen/sections/free_pro.php:125
+msgid "No credit footer link"
+msgstr "Alt kısımda emeği geçenler bağlantısı olmasın"
+
+#: inc/admin/welcome-screen/sections/free_pro.php:126
+msgid "Remove \"Zerif Lite powered by WordPress\" copyright from the footer."
+msgstr "Alt kısımdan \"WordPress ile güçlendirilmiş Zerif Lite\" yazısını kaldır."
+
+#: inc/admin/welcome-screen/sections/free_pro.php:134
+msgid "Get Zerif PRO now!"
+msgstr "Zerif PRO edinin!"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:15
+msgid "Our most popular free one page WordPress theme, Zerif Lite!"
+msgstr "En popüler, tek sayfalık WordPress temamız, Zerif Lite!"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:16
+msgid "We want to make sure you have the best experience using Zerif Lite and that is why we gathered here all the necessary informations for you. We hope you will enjoy using Zerif Lite, as much as we enjoy creating great products."
+msgstr "Zetif Lite kullanırken olası en iyi deneyimi yaşamanızı istiyoruz ve bu yüzden gerekli tüm bilgileri burada sizin için topladık. Umarız Zerif Lite kullanmaktan, bizim bu harika ürünü geliştirirken aldığımız kadar keyif alırsınız."
+
+#: inc/admin/welcome-screen/sections/getting-started.php:24
+#: inc/admin/welcome-screen/welcome-screen.php:209
+msgid "Getting started"
+msgstr "Başlarken"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:26
+msgid "Customize everything in a single place."
+msgstr "Her şeyi tek bir yerden özelleştirin."
+
+#: inc/admin/welcome-screen/sections/getting-started.php:27
+msgid "Using the WordPress Customizer you can easily customize every aspect of the theme."
+msgstr "WordPress özelleştiricisini kullanarak temanızı en ince ayrıntısına kadar kolayca özelleştirebilirsiniz."
+
+#: inc/admin/welcome-screen/sections/getting-started.php:28
+msgid "Go to Customizer"
+msgstr "Özelleştiriciye git"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:36
+msgid "FAQ"
+msgstr "Sıkça Sorulan Sorular (SSS)"
+
+#: inc/admin/welcome-screen/sections/free_pro.php:78
+msgid "Showcase your best projects in the portfolio section."
+msgstr "En iyi projelerinizi vitrin bölümünde görüntüleyin."
+
+#: inc/admin/welcome-screen/sections/free_pro.php:85
+msgid "Sections order"
+msgstr "Bölümlerin sıralaması"
+
+#: inc/admin/welcome-screen/sections/free_pro.php:86
+msgid "Arrange the sections by your priorities."
+msgstr "Bölümleri önceliklerinize göre sıralandırın."
+
+#: inc/admin/welcome-screen/sections/free_pro.php:93
+msgid "Background slider/video"
+msgstr "Arka plan kayan görsel/videosu"
+
+#: inc/admin/welcome-screen/sections/free_pro.php:94
+msgid "Apart from static images, you can use videos or sliders on the background."
+msgstr "Statik görsellerin haricinde arka plan için kayan görseller ya da videolar da kullanabilirsiniz."
+
+#: inc/admin/welcome-screen/sections/free_pro.php:101
+msgid "Support"
+msgstr "Destek"
+
+#: inc/admin/welcome-screen/sections/child-themes.php:68
+msgid "OnePirate - Current theme"
+msgstr "OnePirate - Mevcut tema"
+
+#: inc/admin/welcome-screen/sections/child-themes.php:136
+msgid "Zerius Child Theme"
+msgstr "Zerius alt tema"
+
+#: inc/admin/welcome-screen/sections/child-themes.php:138
+msgid "Zerius"
+msgstr "Zerius"
+
+#: inc/admin/welcome-screen/sections/child-themes.php:151
+msgid "Zerius - Current theme"
+msgstr "Zerius - Mevcut tema"
+
+#: inc/admin/welcome-screen/sections/child-themes.php:80
+msgid "Zifer Child Theme"
+msgstr "Zifer alt tema"
+
+#: inc/admin/welcome-screen/sections/child-themes.php:82
+msgid "Zifer"
+msgstr "Zifer"
+
+#: inc/admin/welcome-screen/sections/child-themes.php:95
+msgid "Zifer Child - Current theme"
+msgstr "Zifer alt tema - Mevcut tema"
+
+#: inc/admin/welcome-screen/sections/free_pro.php:21 inc/customizer.php:647
+#: inc/customizer.php:795
+msgid "Parallax effect"
+msgstr "Paralaks efekti"
+
+#: inc/admin/welcome-screen/sections/free_pro.php:22
+msgid "Smooth, catchy and easy scrolling experience."
+msgstr "Yumuşak, rahat ve kolay kaydırma deneyimi."
+
+#: inc/admin/welcome-screen/sections/free_pro.php:29
+msgid "Mobile friendly"
+msgstr "Mobil destekli"
+
+#: inc/admin/welcome-screen/sections/free_pro.php:30
+msgid "Responsive layout. Works on every device."
+msgstr "Duyarlı düzen. Her cihazda çalışıyor."
+
+#: inc/admin/welcome-screen/sections/free_pro.php:37
+msgid "WooCommerce Compatible"
+msgstr "WooCommerce uyumlu"
+
+#: inc/admin/welcome-screen/sections/free_pro.php:38
+msgid "Ready for e-commerce. You can build an online store here."
+msgstr "E-ticaret için hazır. Çevrimiçi mağazanızı kurabilirsiniz."
+
+#: inc/admin/welcome-screen/sections/free_pro.php:45
+msgid "Frontpage sections"
+msgstr "Ana sayfa bölümleri"
+
+#: inc/admin/welcome-screen/sections/free_pro.php:46
+msgid "Big title, Our focus, About us, Our team, Testimonials, Ribbons, Latest news, Contat us"
+msgstr "Büyük başlık, Odağımız, Hakkımızda, Ekibimiz, Deneyimler, Kurdeleler, Son haberler, İletişim"
+
+#: inc/admin/welcome-screen/sections/free_pro.php:53
+msgid "Background image"
+msgstr "Arka plan görseli"
+
+#: inc/admin/welcome-screen/sections/free_pro.php:54
+msgid "You can use any background image you want."
+msgstr "İstediğiniz arka plan görselini kullanabilirsiniz."
+
+#: inc/admin/welcome-screen/sections/free_pro.php:61
+msgid "Unlimited color option"
+msgstr "Sınırsız renk seçeneği"
+
+#: inc/admin/welcome-screen/sections/free_pro.php:62
+msgid "You can change the colors of each section. You have unlimited options."
+msgstr "her bir bölümün rengini değiştirebilirsiniz. Sınırsız seçeneğiniz var."
+
+#: inc/admin/welcome-screen/sections/free_pro.php:69
+msgid "Google map section"
+msgstr "Google haritası bölümü"
+
+#: inc/admin/welcome-screen/sections/free_pro.php:70
+msgid "Embed your current location to your website by using a Google map."
+msgstr "Google haritası kullanarak mevcut konumunuzu web sitenize gömün."
+
+#: inc/admin/welcome-screen/sections/free_pro.php:77
+msgid "Portfolio"
+msgstr "Portfolyo"
+
+#: inc/admin/welcome-screen/sections/child-themes.php:53
+msgid "OnePirate Child Theme"
+msgstr "OnePirate alt tema"
+
+#: inc/admin/welcome-screen/sections/child-themes.php:55
+msgid "OnePirate"
+msgstr "OnePirate"
+
+#: inc/admin/welcome-screen/sections/child-themes.php:62
+#: inc/admin/welcome-screen/sections/child-themes.php:89
+#: inc/admin/welcome-screen/sections/child-themes.php:145
+msgid "Install %s now"
+msgstr "Şimdi %s yükle"
+
+#: inc/admin/welcome-screen/sections/actions-required.php:9
+msgid "Keep up with Zerif Lite's latest news"
+msgstr "Zerif Lite'ın güncel habelerini alın"
+
+#: inc/admin/welcome-screen/sections/actions-required.php:60
+#: inc/admin/welcome-screen/welcome-screen.php:105
+msgid "Hooray! There are no required actions for you right now."
+msgstr "Heyoo! Sizi bekleyen hiç bir gerekli eylem kalmadı."
+
+#: inc/admin/welcome-screen/sections/child-themes.php:14
+msgid "Get a whole new look for your site"
+msgstr "Siteniz için yep yeni bir görünüm edinin"
+
+#: inc/admin/welcome-screen/sections/child-themes.php:16
+msgid "Below you will find a selection of Zerif Lite child themes that will totally transform the look of your site."
+msgstr "Aşağıda sitenizin görüntüsünü komple değiştirebilecek çeşitli Zerif Lite alt temalarını bulabilirsiniz."
+
+#: inc/admin/welcome-screen/sections/child-themes.php:26
+msgid "ZBlackBeard Child Theme"
+msgstr "ZBlackBeard alt tema"
+
+#: inc/admin/welcome-screen/sections/child-themes.php:28
+msgid "ZBlackBeard"
+msgstr "ZBlackBeard"
+
+#: inc/admin/welcome-screen/sections/child-themes.php:41
+msgid "Zblackbeard - Current theme"
+msgstr "ZBlackBeard - Şu anki tema"
+
+#: inc/admin/welcome-screen/sections/child-themes.php:42
+#: inc/admin/welcome-screen/sections/child-themes.php:69
+#: inc/admin/welcome-screen/sections/child-themes.php:96
+#: inc/admin/welcome-screen/sections/child-themes.php:125
+#: inc/admin/welcome-screen/sections/child-themes.php:152
+msgid "Customize"
+msgstr "Özelleştirin"
+
+#: functions.php:108
+msgid "Install Pirate Forms"
+msgstr "Pirate Forms (Korsan formlar) eklentisini yükle"
+
+#: functions.php:109
+msgid "In the next updates, Zerif Lite's default contact form will be removed. Please make sure you install the Pirate Forms plugin to keep your site updated, and experience a smooth transition to the latest version."
+msgstr "Gelecekteki güncellemelerde Zerif Lite'ın varsayılan iletişim formu kaldırılacak. Lütfen Pirate Forms eklentisini yükleyerek sitenizin güncel kaldığından ve son sürüme pürüzsüz bir geçiş yapacağınızdan emin olun."
+
+#: functions.php:115
+msgid "Check the contact form after installing Pirate Forms"
+msgstr "Pirate Forms eklentisini yükledikten sonra iletişim formunu kontrol edin"
+
+#: functions.php:116
+msgid "After installing the Pirate Forms plugin, please make sure you check your frontpage contact form is working fine. Also, if you use Zerif Lite in other language(s) please make sure the translation is ok. If not, please translate the contact form again."
+msgstr "Pirate Forms eklentisini yükledikten sonra, lütfenana sayfa iletişim formunuzun da doğru çalıştığından emin olun. Ayrıca eğer Zerif Lite'ı diğer dillerde kullanıyorsanız çevirilerin de doğru olduğunu kontrol edin. Eğe değilse lütfen iletişim formunu tekrar çevirin."
+
+#: functions.php:437
+msgid "Our focus section widgets"
+msgstr "Odağımız bölümü bileşenleri"
+
+#: functions.php:441
+msgid "Testimonials section widgets"
+msgstr "Deneyimler bölümü bileşenleri"
+
+#: functions.php:445
+msgid "Our team section widgets"
+msgstr "Ekibimiz bölümü bileşenleri"
+
+#: functions.php:615
+msgid "Zerif - Our focus widget"
+msgstr "Zerif - Odağımız bileşeni"
+
+#: functions.php:730 functions.php:818 functions.php:829 functions.php:885
+#: functions.php:982 functions.php:1035 functions.php:1047 functions.php:1200
+msgid "Uploaded image"
+msgstr "Yüklenen görsel"
+
+#: functions.php:756
+msgid "Zerif - Testimonial widget"
+msgstr "Zerif - Deneyimler bileşeni"
+
+#: functions.php:913
+msgid "Zerif - Clients widget"
+msgstr "Zerif - Müşteriler bileşeni"
+
+#: functions.php:937 functions.php:944
+msgid "Client"
+msgstr "Müşteri"
+
+#: functions.php:1007
+msgid "Zerif - Team member widget"
+msgstr "Zerif - Ekip üyesi bileşeni"
+
+#: functions.php:1191
+msgid "Open links in new window?"
+msgstr "Bağlantıyı harici sayfada aç?"
+
+#: inc/template-tags.php:438
+msgid "Skip to content"
+msgstr "İçeriğe geç"
+
+#. translators: %s: Name of current post
+#: content-page-no-title.php:14 content-page.php:23
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "%s yazısına devam et <span class=\"meta-nav\">&rarr;</span>"
+
+#: front-page.php:366 front-page.php:367
+msgid "Your Message"
+msgstr "Mesajınız"
+
+#: front-page.php:356 front-page.php:357
+msgid "Your Email"
+msgstr "E-posta adresiniz"
+
+#: front-page.php:351 front-page.php:352
+msgid "Your Name"
+msgstr "İsminiz"
+
+#: front-page.php:361 front-page.php:362
+msgid "Subject"
+msgstr "Konu"
+
+#: class-tgm-plugin-activation.php:3362
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Eklenti güncelleştiriliyor %1$s (%2$d/%3$d)"
+
+#: class-tgm-plugin-activation.php:2788
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "Etkinleştirilmek üzere eklenti seçilmedi. Herhangi bir eylemde bulunulmadı."
+
+#: class-tgm-plugin-activation.php:2683
+msgid "No plugins are available to be updated at this time."
+msgstr "Şu an için güncelleme gerektiren eklenti yok."
+
+#: class-tgm-plugin-activation.php:2645
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "Güncelleme için eklenti seçilmedi. Herhangi bir eylemde bulunulmadı. "
+
+#: class-tgm-plugin-activation.php:2643
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "Yükleme için eklenti seçilmedi. Herhangi bir eylemde bulunulmadı. "
+
+#: class-tgm-plugin-activation.php:2609
+msgid "Update"
+msgstr "Güncelleme"
+
+#: class-tgm-plugin-activation.php:2570
+msgid "Upgrade message from the plugin author:"
+msgstr "Eklenti geliştiricisinden yükseltme mesajı:"
+
+#: class-tgm-plugin-activation.php:2495
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Update %2$s"
+msgstr "%2$s güncelle"
+
+#: class-tgm-plugin-activation.php:2500
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Activate %2$s"
+msgstr "%2$s etkinleştir"
+
+#: class-tgm-plugin-activation.php:2491
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Install %2$s"
+msgstr "%2$s kur"
+
+#: class-tgm-plugin-activation.php:2442
+msgid "Version"
+msgstr "Sürüm"
+
+#: class-tgm-plugin-activation.php:2422
+msgid "No plugins to install, update or activate. <a href=\"%1$s\">Return to the Dashboard</a>"
+msgstr "Yüklenecek, güncellenecek ya da etkinleştirilecek eklenti yok. <a href=\"%1$s\">Başlangıç ekranına dön</a>"
+
+#: class-tgm-plugin-activation.php:2399
+msgid "Available version:"
+msgstr "Uygun sürüm:"
+
+#: class-tgm-plugin-activation.php:2289
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "Etkinleştirilecek <span class=\"count\">(%s)</span>"
+msgstr[1] "Etkinleştirilecek <span class=\"count\">(%s)</span>"
+
+#: class-tgm-plugin-activation.php:2371
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "bilinmiyor"
+
+#: class-tgm-plugin-activation.php:2379
+msgid "Installed version:"
+msgstr "Yüklü sürüm:"
+
+#: class-tgm-plugin-activation.php:2387
+msgid "Minimum required version:"
+msgstr "Gerekli en küçük sürüm:"
+
+#: class-tgm-plugin-activation.php:2283
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "Kurulacak <span class=\"count\">(%s)</span>"
+msgstr[1] "Kurulacak <span class=\"count\">(%s)</span>"
+
+#: class-tgm-plugin-activation.php:2286
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Güncelleme var <span class=\"count\">(%s)</span>"
+msgstr[1] "Güncelleme var <span class=\"count\">(%s)</span>"
+
+#: class-tgm-plugin-activation.php:2221
+msgid "Required Update not Available"
+msgstr "Gerekli güncelleme uygun değil"
+
+#: class-tgm-plugin-activation.php:2224
+msgid "Requires Update"
+msgstr "Yükseltme gerektiriyor"
+
+#: class-tgm-plugin-activation.php:2227
+msgid "Update recommended"
+msgstr "Yükseltme öneriliyor"
+
+#: class-tgm-plugin-activation.php:2235
+msgctxt "%1$s = install status, %2$s = update status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#: class-tgm-plugin-activation.php:2280
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Tümü <span class=\"count\">(%s)</span>"
+msgstr[1] "Tümü <span class=\"count\">(%s)</span>"
+
+#: class-tgm-plugin-activation.php:377
+msgid "Sorry, but you do not have the correct permissions to activate the %1$s plugin."
+msgid_plural "Sorry, but you do not have the correct permissions to activate the %1$s plugins."
+msgstr[0] "Üzgünüz fakat %1$s eklentiyi etkinleştirmek için gerekli izniniz yok."
+msgstr[1] "Üzgünüz fakat %1$s eklentiyi etkinleştirmek için gerekli izniniz yok."
+
+#: class-tgm-plugin-activation.php:362
+msgid "Sorry, but you do not have the correct permissions to update the %1$s plugin."
+msgid_plural "Sorry, but you do not have the correct permissions to update the %1$s plugins."
+msgstr[0] "Üzgünüz fakat %1$s eklentiyi güncellemek için gerekli izniniz yok."
+msgstr[1] "Üzgünüz fakat %1$s eklentiyi güncellemek için gerekli izniniz yok."
+
+#: class-tgm-plugin-activation.php:357
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "%1$s için bir güncelleme var."
+msgstr[1] "Şu eklentiler için güncellemeler var: %1$s."
+
+#: class-tgm-plugin-activation.php:347
+msgid "Sorry, but you do not have the correct permissions to install the %1$s plugin."
+msgid_plural "Sorry, but you do not have the correct permissions to install the %1$s plugins."
+msgstr[0] "Üzgünüz fakat %1$s eklentiyi yüklemek için gerekli izniniz yok."
+msgstr[1] "Üzgünüz fakat %1$s eklentiyi yüklemek için gerekli izniniz yok."
+
+#: class-tgm-plugin-activation.php:387
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Eklenti güncellemeye başla"
+msgstr[1] ""
+
+#: class-tgm-plugin-activation.php:401
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Herhangi bir eylemde bulunulmadı. %1$s eklentisi zaten etkin."
+
+#: class-tgm-plugin-activation.php:402
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "Eklenti etkinleştirilmedi. Bu tema için %s eklentisinin daha yüksek bir sürümü gerekiyor. Lütfen eklentiyi güncelleyin."
+
+#: class-tgm-plugin-activation.php:405
+msgid "Please contact the administrator of this site for help."
+msgstr "Lütfen yardım için sitenin yöneticilerine ulaşın."
+
+#: class-tgm-plugin-activation.php:520
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "Temanızla uyum sağlayabilmesi için bu eklentinin güncellenmesi gerekiyor."
+
+#: class-tgm-plugin-activation.php:521
+msgid "Update Required"
+msgstr "Güncelleme gerekiyor"
+
+#: class-tgm-plugin-activation.php:635
+msgid "Set the parent_slug config variable instead."
+msgstr "Bunun yerine parent_slug ayar değişkenini belirleyin."
+
+#: class-tgm-plugin-activation.php:935
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr "Uzak eklenti beklenen klasörü içermiyor ve isim değiştirme de işe yaramadı."
+
+#: class-tgm-plugin-activation.php:935 class-tgm-plugin-activation.php:938
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr "Lütfen eklenti sağlayıcısı ile irtibata geçip eklenti paketini WordPress kurallarına göre güncellemelerini iletin."
+
+#: class-tgm-plugin-activation.php:938
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr "Uzak eklenti paketi birdne çok dosya içeriyor fakat bunlar bir klasör içinde değil."
+
+#: class-tgm-plugin-activation.php:1116 class-tgm-plugin-activation.php:2828
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "ve"
+
+#: class-tgm-plugin-activation.php:1881
+msgctxt "%s = version number"
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: class-tgm-plugin-activation.php:2189
+msgid "External Source"
+msgstr "Dış kaynak"
+
+#: class-tgm-plugin-activation.php:2215
+msgid "Active"
+msgstr "Aktif"
+
+#. Template Name of the plugin/theme
+msgid "Full Width Page"
+msgstr "Tam sayfa genişlik"
+
+#. Template Name of the plugin/theme
+msgid "Blog template with large images"
+msgstr "Büyük görselli blog şablonu"
+
+#. Template Name of the plugin/theme
+msgid "Blog"
+msgstr "Blog"
+
+#: sidebar.php:32
+msgid "Meta"
+msgstr "Meta"
+
+#: sections/latest_news.php:148
+msgid "Next"
+msgstr "Sonraki"
+
+#: inc/customizer.php:1227 inc/customizer.php:1453 sections/about_us.php:284
+#: sections/about_us.php:294
+msgid "OUR HAPPY CLIENTS"
+msgstr "MUTLU MÜŞTERİLERİMİZ"
+
+#: inc/template-tags.php:364
+msgid "Latest news"
+msgstr "Güncel haberler"
+
+#: sections/latest_news.php:144
+msgid "Previous"
+msgstr "Önceki"
+
+#: search.php:25
+msgid "Search Results for: %s"
+msgstr "Arama sonuçları: %s"
+
+#: inc/template-tags.php:123
+msgid "<span class=\"posted-on\">Posted on %1$s</span><span class=\"byline\"> by %2$s</span>"
+msgstr "<span class=\"posted-on\"> Posted on %1$s </ span> class=\"byline\"> ile %2$s </ span>"
+
+#: inc/template-tags.php:79
+msgctxt "Next post link"
+msgid "%title <span class=\"meta-nav\">&rarr;</span>"
+msgstr "%title <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/template-tags.php:77
+msgctxt "Previous post link"
+msgid "<span class=\"meta-nav\">&larr;</span> %title"
+msgstr "<span class=\"meta-nav\">&larr;</span> %title"
+
+#: inc/template-tags.php:71
+msgid "Post navigation"
+msgstr "Yazı dolaşımı"
+
+#: inc/template-tags.php:33
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Yeni yazılar <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/template-tags.php:27
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> Eski yazılar"
+
+#: inc/template-tags.php:21
+msgid "Posts navigation"
+msgstr "Yazı dolaşımı"
+
+#: inc/extras.php:89
+msgid "Page %s"
+msgstr "Sayfa %s"
+
+#: inc/customizer.php:53 inc/customizer.php:2067
+msgid "View PRO version"
+msgstr "PRO sürümü incele"
+
+#: inc/customizer.php:2011
+msgid "Hide reCaptcha?"
+msgstr "reCaptcha gizlensin mi?"
+
+#: inc/customizer.php:2023
+msgid "Site key"
+msgstr "Site anahtarı"
+
+#: inc/customizer.php:2024
+msgid "Create an account here"
+msgstr "Bir hesap oluşturun"
+
+#: inc/customizer.php:2035
+msgid "Secret key"
+msgstr "Gizli anahtar"
+
+#: front-page.php:371 inc/customizer.php:1994
+msgid "Send Message"
+msgstr "Mesajı Gönder"
+
+#: inc/customizer.php:1014 inc/customizer.php:1274 inc/template-tags.php:410
+msgid "Use this section to showcase important details about your business."
+msgstr "Vitrin bölümünü işinizle ilgili önemli detayları göstermek için kullanın."
+
+#: inc/customizer.php:1019 inc/customizer.php:1279
+msgid "Subtitle"
+msgstr "Alt Başlık"
+
+#: inc/customizer.php:1027 inc/customizer.php:1287 sections/about_us.php:33
+msgid "Everything you see here is responsive and mobile-friendly."
+msgstr "Burada gördüğünüz her şey duyarlı ve mobil dostu."
+
+#: inc/customizer.php:1031 inc/customizer.php:1291
+msgid "Big left side title"
+msgstr "Büyük sol taraf başlığı"
+
+#: inc/customizer.php:1039 inc/customizer.php:1299
+msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec massa enim. Aliquam viverra at est ullamcorper sollicitudin. Proin a leo sit amet nunc malesuada imperdiet pharetra ut eros.<br><br> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec massa enim. Aliquam viverra at est ullamcorper sollicitudin. Proin a leo sit amet nunc malesuada imperdiet pharetra ut eros. <br><br>Mauris vel nunc at ipsum fermentum pellentesque quis ut massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Maecenas non adipiscing massa. Sed ut fringilla sapien. Cras sollicitudin, lectus sed tincidunt cursus, magna lectus vehicula augue, a lobortis dui orci et est."
+msgstr "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec massa enim. Aliquam viverra at est ullamcorper sollicitudin. Proin a leo sit amet nunc malesuada imperdiet pharetra ut eros.<br><br> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec massa enim. Aliquam viverra at est ullamcorper sollicitudin. Proin a leo sit amet nunc malesuada imperdiet pharetra ut eros. <br><br>Mauris vel nunc at ipsum fermentum pellentesque quis ut massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Maecenas non adipiscing massa. Sed ut fringilla sapien. Cras sollicitudin, lectus sed tincidunt cursus, magna lectus vehicula augue, a lobortis dui orci et est."
+
+#: inc/customizer.php:1050
+msgid "Feature no#1"
+msgstr "Özellik no#1"
+
+#: inc/customizer.php:1058 inc/customizer.php:1311 sections/about_us.php:36
+msgid "YOUR SKILL #1"
+msgstr "BECERİNİZ #1"
+
+#: inc/customizer.php:1063 inc/customizer.php:1316
+msgid "Feature no1 title"
+msgstr "Özellik no1 başlığı"
+
+#: inc/customizer.php:1074 inc/customizer.php:1327
+msgid "Feature no1 text"
+msgstr "Özellik no1 metni"
+
+#: inc/customizer.php:1086 inc/customizer.php:1339
+msgid "Feature no1 percentage"
+msgstr "Özellik no1 yüzdesi"
+
+#: inc/customizer.php:1092
+msgid "Feature no#2"
+msgstr "Özellik no#2"
+
+#: inc/customizer.php:1100 inc/customizer.php:1347 sections/about_us.php:39
+msgid "YOUR SKILL #2"
+msgstr "BECERİNİZ #2"
+
+#: inc/customizer.php:1105 inc/customizer.php:1352
+msgid "Feature no2 title"
+msgstr "Özellik no2 başlığı"
+
+#: inc/customizer.php:1116 inc/customizer.php:1363
+msgid "Feature no2 text"
+msgstr "Özellik no2 metni"
+
+#: inc/customizer.php:1128 inc/customizer.php:1374
+msgid "Feature no2 percentage"
+msgstr "Özellik no2 yüzdesi"
+
+#: inc/customizer.php:1134
+msgid "Feature no#3"
+msgstr "Özellik no#3"
+
+#: inc/customizer.php:1142 inc/customizer.php:1382 sections/about_us.php:42
+msgid "YOUR SKILL #3"
+msgstr "BECERİNİZ #3"
+
+#: inc/customizer.php:1147 inc/customizer.php:1387
+msgid "Feature no3 title"
+msgstr "Özellik no3 başlığı"
+
+#: inc/customizer.php:1158 inc/customizer.php:1398
+msgid "Feature no3 text"
+msgstr "Özellik no3 metni"
+
+#: inc/customizer.php:1170 inc/customizer.php:1410
+msgid "Feature no3 percentage"
+msgstr "Özellik no3 yüzdesi"
+
+#: inc/customizer.php:1176
+msgid "Feature no#4"
+msgstr "Özellik no#4"
+
+#: inc/customizer.php:1184 inc/customizer.php:1418 sections/about_us.php:45
+msgid "YOUR SKILL #4"
+msgstr "BECERİNİZ #4"
+
+#: inc/customizer.php:1189 inc/customizer.php:1423
+msgid "Feature no4 title"
+msgstr "Özellik no4 başlığı"
+
+#: inc/customizer.php:1200 inc/customizer.php:1434
+msgid "Feature no4 text"
+msgstr "Özellik no4 metni"
+
+#: inc/customizer.php:1212 inc/customizer.php:1446
+msgid "Feature no4 percentage"
+msgstr "Özellik no4 yüzdesi"
+
+#: inc/customizer.php:1525
+msgid "The main content of this section is customizable in: Dashboard -> Appearance -> Widgets -> Our team section. There you must add the \"Zerif - Team member widget\""
+msgstr "Bu alanın asıl içeriği şuradan özelleştirilebilir: Başlangıç -> Görünüm -> Bileşenler -> Ekibimiz bölümü. Oradan \"Zerif - Ekip üyesi bileşeni\" eklenmeli."
+
+#: inc/customizer.php:1490 inc/customizer.php:1536
+msgid "Hide our team section?"
+msgstr "Ekibimiz bölümü gizlensin mi?"
+
+#: inc/customizer.php:1498 inc/customizer.php:1544 inc/template-tags.php:300
+msgid "YOUR TEAM"
+msgstr "EKİBİNİZ"
+
+#: inc/customizer.php:1511 inc/customizer.php:1557 inc/template-tags.php:311
+msgid "Prove that you have real people working for you, with some nice looking profile pictures and links to social media."
+msgstr "Güzel profil fotoğrafları ve sosyal medya bağlantıları ile ekibinizde çalışanları listeleyin."
+
+#: inc/customizer.php:1515 inc/customizer.php:1562
+msgid "Our team subtitle"
+msgstr "Ekibimiz alt yazısı"
+
+#: inc/customizer.php:1641
+msgid "The main content of this section is customizable in: Dashboard -> Appearance -> Widgets -> Testimonials section. There you must add the \"Zerif - Testimonial widget\""
+msgstr "Bu bölümün esas içeriği şuradan özelleştirilebilir: Başlangıç -> Görünüm -> Bileşenler -> Deneyimler bölümü. Orada \"Zerif - Deneyimler bileşeni\"ni eklemelisiniz."
+
+#: inc/customizer.php:1594 inc/customizer.php:1652
+msgid "Hide testimonials section?"
+msgstr "Deneyimler bölümü gizlensin mi?"
+
+#: inc/customizer.php:1614 inc/customizer.php:1672 inc/template-tags.php:326
+msgid "Testimonials"
+msgstr "Görüşler"
+
+#: inc/customizer.php:1631 inc/customizer.php:1689
+msgid "Testimonials subtitle"
+msgstr "Deneyimler alt başlık"
+
+#: inc/customizer.php:1700
+msgid "Latest News section"
+msgstr "Son haberler bölümü"
+
+#: inc/customizer.php:1712
+msgid "Hide latest news section?"
+msgstr "Son haberler bölümü gizlensin mi?"
+
+#: inc/customizer.php:1724
+msgid "Latest News title"
+msgstr "Son haberler başlığı"
+
+#: inc/customizer.php:1736
+msgid "Latest News subtitle"
+msgstr "Son haberler alt başlığı"
+
+#: inc/customizer.php:1749 inc/customizer.php:1844
+msgid "Ribbon sections"
+msgstr "Kurdele bölümleri "
+
+#: inc/customizer.php:1753
+msgid "BottomButton Ribbon"
+msgstr "BottomButton kurdelesi"
+
+#: inc/customizer.php:1780 inc/customizer.php:1825 inc/customizer.php:1999
+msgid "Button label"
+msgstr "Düğme etiketi"
+
+#: inc/customizer.php:1792 inc/customizer.php:1837
+msgid "Button link"
+msgstr "Tuş bağlantısı"
+
+#: inc/customizer.php:1798
+msgid "RightButton Ribbon"
+msgstr "RightButton kurdelesi"
+
+#: inc/customizer.php:1857
+msgid "Ribbon section with bottom button - Text"
+msgstr "Alt tuşu olan kurdele bölümü - Metin"
+
+#: inc/customizer.php:1869
+msgid "Ribbon section with bottom button - Button label"
+msgstr "Alt tuşu olan kurdele bölümü - Tuş etiketi"
+
+#: inc/customizer.php:1881
+msgid "Ribbon section with bottom button - Button link"
+msgstr "Alt tuşu olan kurdele bölümü - Tuş bağlantısı"
+
+#: inc/customizer.php:1895
+msgid "Ribbon section with button in the right side - Text"
+msgstr "Sağ tarafta tuşu olan kurdele bölümü - Metin"
+
+#: inc/customizer.php:1907
+msgid "Ribbon section with button in the right side - Button label"
+msgstr "Sağ tarafta tuşu olan kurdele bölümü - Tuş etiketi"
+
+#: inc/customizer.php:1919
+msgid "Ribbon section with button in the right side - Button link"
+msgstr "Sağ tarafta tuşu olan kurdele bölümü - Tuş bağlantısı"
+
+#: inc/customizer.php:1937
+msgid "Contact us section"
+msgstr "iletişim bölümü"
+
+#: inc/customizer.php:1950
+msgid "Hide contact us section?"
+msgstr "İletişimi bölümü gizlensin mi?"
+
+#: front-page.php:277 inc/customizer.php:1958
+msgid "Get in touch"
+msgstr "Temasa geçin"
+
+#: inc/customizer.php:1963
+msgid "Contact us section title"
+msgstr "İletişim bölüm başlığı"
+
+#: inc/customizer.php:1975
+msgid "Contact us section subtitle"
+msgstr "İletişim bölüm alt başlığı"
+
+#: inc/customizer.php:1986
+msgid "Email address"
+msgstr "E-posta Adresi"
+
+#: inc/customizer.php:1001 inc/customizer.php:1261 inc/template-tags.php:400
+msgid "About"
+msgstr "Hakkında"
+
+#: inc/customizer.php:987 inc/customizer.php:1253
+msgid "Hide about us section?"
+msgstr "Hakkımızda bölümü gizlensin mi?"
+
+#: inc/customizer.php:561 inc/customizer.php:993
+msgid "Main content"
+msgstr "Ana içerik"
+
+#: inc/customizer.php:903 inc/customizer.php:950 inc/template-tags.php:289
+msgid "What makes this single-page WordPress theme unique."
+msgstr "Bu tek sayfalık WordPress temasını eşsiz kılan şeyler."
+
+#: inc/customizer.php:908 inc/customizer.php:955
+msgid "Our focus subtitle"
+msgstr "Odağımız alt başlığı"
+
+#: inc/customizer.php:974
+msgid "Settings"
+msgstr "Ayarlar"
+
+#: inc/customizer.php:612 inc/customizer.php:761
+msgid "Red button link"
+msgstr "Kırmızı düğme bağlantısı"
+
+#: inc/customizer.php:620 inc/customizer.php:769 sections/big_title.php:31
+msgid "What's inside"
+msgstr "İçerde ne var"
+
+#: inc/customizer.php:637 inc/customizer.php:786
+msgid "Green button link"
+msgstr "Yeşil düğme bağlantısı"
+
+#: inc/customizer.php:918
+msgid "The main content of this section is customizable in: Dashboard -> Appearance -> Widgets -> Our focus section. There you must add the \"Zerif - Our focus widget\""
+msgstr "Bu bölümün esas içeriği şuradan özelleştirilebilir: Başlangıç -> Görünüm -> Bileşenler -> Odağımız bölümü. Orada \"Zerif - Odağımız bileşeni\"ni eklemelisiniz."
+
+#: inc/customizer.php:882 inc/customizer.php:929
+msgid "Hide our focus section?"
+msgstr "Odağımız bölümünü gizle?"
+
+#: inc/customizer.php:890 inc/customizer.php:937 inc/template-tags.php:278
+msgid "FEATURES"
+msgstr "Özellikler"
+
+#: inc/customizer.php:600 inc/customizer.php:749
+msgid "Red button label"
+msgstr "Kırmızı düğme etiketi"
+
+#: inc/customizer.php:352
+msgid "Zerif theme general options"
+msgstr "Zerif teması genel seçenekler"
+
+#: inc/customizer.php:557 inc/customizer.php:711
+msgid "Big title section"
+msgstr "Büyük başlık bölümü"
+
+#: inc/customizer.php:574 inc/customizer.php:723
+msgid "Hide big title section?"
+msgstr "Büyük başlığı gizle?"
+
+#: inc/customizer.php:582 inc/customizer.php:731 inc/template-tags.php:386
+msgid "ONE OF THE TOP 10 MOST POPULAR THEMES ON WORDPRESS.ORG"
+msgstr "WORDPRESS.ORG ÜZERİNDEKİ EN POPÜLER 10 TEMADAN BİRİ"
+
+#: inc/customizer.php:595 inc/customizer.php:744 sections/big_title.php:27
+msgid "Features"
+msgstr "Özellikler"
+
+#: inc/customizer.php:330 inc/customizer.php:529
+msgid "Phone number section - icon"
+msgstr "Telefon numarası bölümü - simge"
+
+#: inc/customizer.php:342 inc/customizer.php:541
+msgid "Phone number"
+msgstr "Telefon numarası"
+
+#: inc/customizer.php:282 inc/customizer.php:482
+msgid "Address section - icon"
+msgstr "Adres bölümü - simge"
+
+#: inc/customizer.php:294 inc/customizer.php:494
+msgid "Address"
+msgstr "Adres"
+
+#: inc/customizer.php:306 inc/customizer.php:505
+msgid "Email section - icon"
+msgstr "E-posta bölümü - simge"
+
+#: inc/customizer.php:318 inc/customizer.php:517
+msgid "Email"
+msgstr "E-posta"
+
+#: inc/customizer.php:127 inc/customizer.php:361
+msgid "Logo"
+msgstr "Logo"
+
+#: inc/customizer.php:140 inc/customizer.php:374
+msgid "Disable preloader?"
+msgstr "Önyükleyiciyi devre dışı bırak?"
+
+#: inc/customizer.php:152 inc/customizer.php:386
+msgid "Disable smooth scroll?"
+msgstr "Yumuşak kaydırmayı devre dışı bırak?"
+
+#: inc/customizer.php:253 inc/customizer.php:461
+msgid "Dribbble link"
+msgstr "Dribbble bağlantısı"
+
+#: inc/customizer.php:80
+msgid "Sections order and Colors"
+msgstr "Bölüm sıralaması ve renkler"
+
+#: inc/customizer.php:100 inc/customizer.php:350
+msgid "General options"
+msgstr "Genel seçenekler"
+
+#: inc/customizer.php:104
+msgid "General"
+msgstr "Genel"
+
+#: header.php:67
+msgid "Toggle navigation"
+msgstr "Navigasyonu değiştir"
+
+#: inc/admin/welcome-screen/sections/child-themes.php:36
+#: inc/admin/welcome-screen/sections/child-themes.php:63
+#: inc/admin/welcome-screen/sections/child-themes.php:90
+#: inc/admin/welcome-screen/sections/child-themes.php:119
+#: inc/admin/welcome-screen/sections/child-themes.php:146
+msgid "Live Preview"
+msgstr "Bağlantı önizleme"
+
+#: functions.php:1169 inc/customizer.php:206 inc/customizer.php:421
+msgid "Facebook link"
+msgstr "Facebook bağlantısı"
+
+#: functions.php:1174 inc/customizer.php:218 inc/customizer.php:431
+msgid "Twitter link"
+msgstr "Twitter bağlantısı"
+
+#: functions.php:1178 inc/customizer.php:241 inc/customizer.php:451
+msgid "Behance link"
+msgstr "Behance bağlantısı"
+
+#: functions.php:1183
+msgid "Dribble link"
+msgstr "Dribble bağlantısı"
+
+#: functions.php:1187 inc/customizer.php:229 inc/customizer.php:441
+msgid "Linkedin link"
+msgstr "Linkedin bağlantısı"
+
+#: functions.php:1162
+msgid "Description"
+msgstr "Tanım"
+
+#: functions.php:1158
+msgid "Position"
+msgstr "Konum"
+
+#: functions.php:869
+msgid "Author link"
+msgstr "Yazar bağlantısı"
+
+#: functions.php:873
+msgid "Author details"
+msgstr "Yazar detayları"
+
+#: functions.php:1154
+msgid "Name"
+msgstr "İsim"
+
+#: functions.php:865
+msgid "Author"
+msgstr "Yazar"
+
+#: functions.php:736 functions.php:891 functions.php:988 functions.php:1207
+msgid "Upload Image"
+msgstr "Resim Yükle"
+
+#: functions.php:727 functions.php:881 functions.php:979 functions.php:1194
+msgid "Image"
+msgstr "Resim"
+
+#: functions.php:723 functions.php:975
+msgid "Link"
+msgstr "Bağlantı"
+
+#: functions.php:719 functions.php:877 inc/customizer.php:1044
+#: inc/customizer.php:1303 inc/customizer.php:1768 inc/customizer.php:1813
+msgid "Text"
+msgstr "Metin"
+
+#: functions.php:216
+msgctxt "Homemade font: on or off"
+msgid "on"
+msgstr "on"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Open Sans, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:221
+msgctxt "Monserrat font: on or off"
+msgid "on"
+msgstr "on"
+
+#: class-tgm-plugin-activation.php:336 functions.php:368
+msgid "Something went wrong with the plugin API."
+msgstr "Eklenti API'siyle ilgili bir şeyler yanlış gitti."
+
+#: functions.php:381
+msgid "All plugins installed and activated successfully. %s"
+msgstr "Tüm eklentiler, başarıyla kuruldu ve etkinleştirildi. %s"
+
+#: functions.php:410
+msgid "Default title"
+msgstr "Varsayılan başlık"
+
+#: functions.php:715 inc/customizer.php:587 inc/customizer.php:736
+#: inc/customizer.php:895 inc/customizer.php:942 inc/customizer.php:1006
+#: inc/customizer.php:1266 inc/customizer.php:1503 inc/customizer.php:1549
+#: inc/customizer.php:1619 inc/customizer.php:1677
+msgid "Title"
+msgstr "Başlık"
+
+#: inc/customizer.php:865 inc/customizer.php:916
+msgid "Our focus section"
+msgstr "Odağımız bölümü"
+
+#: inc/customizer.php:1577 inc/customizer.php:1581 inc/customizer.php:1639
+msgid "Testimonials section"
+msgstr "Deneyimler bölümü"
+
+#: functions.php:185 inc/customizer.php:970 inc/customizer.php:1241
+msgid "About us section"
+msgstr "Hakkımızda bölümü"
+
+#: inc/customizer.php:1473 inc/customizer.php:1523
+msgid "Our team section"
+msgstr "Ekibimiz bölümü"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Lora, translate this to 'off'. Do not translate into your own language.
+#: functions.php:215
+msgctxt "Lato font: on or off"
+msgid "on"
+msgstr "off"
+
+#: functions.php:176
+msgid "Sidebar"
+msgstr "Yan Menü"
+
+#: content-single.php:46
+msgid "This entry was tagged %2$s. Bookmark the <a href=\"%3$s\" rel=\"bookmark\">permalink</a>."
+msgstr "Bu yazı etiketlendi %2$s . Bookmark <a href=\"%3$s\" rel=\"bookmark\">permalink</a>."
+
+#: content-single.php:50
+msgid "Bookmark the <a href=\"%3$s\" rel=\"bookmark\">permalink</a>."
+msgstr "Bookmark <a href=\"%3$s\" rel=\"bookmark\">permalink</a>."
+
+#: content-single.php:60
+msgid "This entry was posted in %1$s and tagged %2$s. Bookmark the <a href=\"%3$s\" rel=\"bookmark\">permalink</a>."
+msgstr "Bu yazı yayınlanmıştır %1$s ve etiketli %2$s . Bookmark <a href=\"%3$s\" rel=\"bookmark\">permalink</a>."
+
+#: content-single.php:64
+msgid "This entry was posted in %1$s. Bookmark the <a href=\"%3$s\" rel=\"bookmark\">permalink</a>."
+msgstr "Bu yazı yayınlanmıştır %1$s . Bookmark <a href=\"%3$s\" rel=\"bookmark\">permalink</a>."
+
+#: footer.php:23 inc/customizer.php:290 inc/customizer.php:490
+msgid "Company address"
+msgstr "Şirket adresi"
+
+#: footer.php:175
+msgid "powered by"
+msgstr "Powered by"
+
+#: front-page.php:51
+msgid "* Please enter your name."
+msgstr "* Lütfen adınızı girin."
+
+#: front-page.php:65
+msgid "* Please enter your email address."
+msgstr "* Lütfen e-posta adresinizi girin."
+
+#: front-page.php:71
+msgid "* You entered an invalid email address."
+msgstr "* Geçersiz bir e-posta adresi girdiniz."
+
+#: front-page.php:85
+msgid "* Please enter a subject."
+msgstr "* Lütfen bir konu girin."
+
+#: front-page.php:99
+msgid "* Please enter a message."
+msgstr "* Lütfen bir mesaj girin."
+
+#: front-page.php:310
+msgid "Thanks, your email was sent successfully!"
+msgstr "Teşekkürler, e-postanız başarıyla gönderildi!"
+
+#: front-page.php:314
+msgid "Sorry, an error occured."
+msgstr "Üzgünüz, bir hata oluştu."
+
+#: functions.php:39
+msgid "Primary Menu"
+msgstr "Birincil menü"
+
+#: content-none.php:27
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Aradığınız sayfa bulunamadı. Belki arama kutusu aradığınızı bulma konusunda yardımcı olabilir."
+
+#: content-none.php:21
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Üzgünüz fakat aradığınız kriterler ile örtüşen sonuç bulunamadı. Lütfen başka kriterler ile tekrar deneyin."
+
+#: content-none.php:17
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "İlk yazınızı yayınlamaya hazır mısınız? <a href=\"%1$s\">Buradan başlayın</a>."
+
+#: content-none.php:10
+msgid "Nothing Found"
+msgstr "Bulunamadı"
+
+#: content-large.php:147 content-page-no-title.php:30 content-page.php:39
+#: content-single.php:84 content.php:125
+msgid "Edit"
+msgstr "Düzenle"
+
+#: content-large.php:143 content.php:121
+msgid "% Comments"
+msgstr "% Yorum"
+
+#: content-large.php:143 content.php:121
+msgid "1 Comment"
+msgstr "1 Yorum"
+
+#: content-large.php:143 content.php:121
+msgid "Leave a comment"
+msgstr "Yorum yapın"
+
+#: content-large.php:132 content.php:111
+msgid "Tagged %1$s"
+msgstr "Takip edilen %1$s"
+
+#: content-large.php:114 content.php:93
+msgid "Posted in %1$s"
+msgstr "Yayınlanan %1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: content-large.php:106 content-large.php:124 content-single.php:34
+#: content-single.php:38 content.php:85 content.php:103
+msgid ", "
+msgstr ", "
+
+#: content-large.php:73 content-page-no-title.php:20 content-page.php:29
+#: content-single.php:21 content.php:70
+msgid "Pages:"
+msgstr "Sayfalar:"
+
+#: comments.php:79
+msgid "Comments are closed."
+msgstr "Yorumlar kapalı."
+
+#: comments.php:39 comments.php:66
+msgid "Newer Comments &rarr;"
+msgstr "Yeni yorumlar &arr;"
+
+#: comments.php:37 comments.php:64
+msgid "&larr; Older Comments"
+msgstr "&arr; Eski yorumlar"
+
+#: comments.php:35 comments.php:62
+msgid "Comment navigation"
+msgstr "Yorum dolaşımı"
+
+#: class-tgm-plugin-activation.php:3377
+msgid "All installations have been completed."
+msgstr "Tüm kurulumlar tamamlandı."
+
+#: class-tgm-plugin-activation.php:3378
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Eklenti %1$s (%2$d/%3$d) Kuruluyor"
+
+#: comments.php:23
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "&ldquo;%2$s&rdquo; üzerine bir yorum"
+msgstr[1] "&ldquo;%2$s&rdquo; üzerine %1$s yorum"
+
+#: class-tgm-plugin-activation.php:3371
+msgid "All installations and activations have been completed."
+msgstr "Tüm kurulum ve etkinleştirmeler tamamlandı."
+
+#: class-tgm-plugin-activation.php:3372
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Eklenti %1$s (%2$d/%3$d) Kuruluyor ve Etkinleştiriliyor"
+
+#: class-tgm-plugin-activation.php:3375
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Kurulum işlemi başlıyor. Bu işlem, bazı ana bilgisayarlarda zaman alabilir, bu yüzden sabırlı olunuz."
+
+#: class-tgm-plugin-activation.php:3364
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "%1$s kurulurken bir hata oluştu: <strong>%2$s</strong>."
+
+#: class-tgm-plugin-activation.php:3365
+msgid "The installation of %1$s failed."
+msgstr "%1$s kurulumu başarısız oldu."
+
+#: class-tgm-plugin-activation.php:3376
+msgid "%1$s installed successfully."
+msgstr "%1$s başarıyla kuruldu."
+
+#: class-tgm-plugin-activation.php:3370 class-tgm-plugin-activation.php:3376
+msgid "Hide Details"
+msgstr "Detayları gizle"
+
+#: class-tgm-plugin-activation.php:3028
+msgid "Plugin activation failed."
+msgstr "Eklenti etkinleştirmesi başarısız oldu."
+
+#: class-tgm-plugin-activation.php:3369
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Kurulum ve etkinleştirme işlemi başlıyor. Bu işlem, bazı ana bilgisayarlarda zaman alabilir, bu yüzden sabırlı olunuz."
+
+#: class-tgm-plugin-activation.php:3370
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s başarıyla kuruldu ve etkinleştirildi."
+
+#: class-tgm-plugin-activation.php:3370 class-tgm-plugin-activation.php:3376
+msgid "Show Details"
+msgstr "Detayları göster"
+
+#: class-tgm-plugin-activation.php:2681
+msgid "No plugins are available to be installed at this time."
+msgstr "Şu an için yüklenmek üzere uygun eklenti yok."
+
+#: class-tgm-plugin-activation.php:2814
+msgid "No plugins are available to be activated at this time."
+msgstr "Şu an için etkinleştirmek üzere uygun eklenti yok."
+
+#: class-tgm-plugin-activation.php:2443
+msgid "Status"
+msgstr "Durum"
+
+#: class-tgm-plugin-activation.php:2438
+msgid "Type"
+msgstr "Tür"
+
+#: class-tgm-plugin-activation.php:2437
+msgid "Source"
+msgstr "Kaynak"
+
+#: class-tgm-plugin-activation.php:2436
+msgid "Plugin"
+msgstr "Eklenti"
+
+#: class-tgm-plugin-activation.php:2612
+msgid "Activate"
+msgstr "Etkinleştir"
+
+#: class-tgm-plugin-activation.php:2170
+msgid "Recommended"
+msgstr "Tavsiye Edilen"
+
+#: class-tgm-plugin-activation.php:2209
+msgid "Not Installed"
+msgstr "Kurulmamış"
+
+#: class-tgm-plugin-activation.php:2213
+msgid "Installed But Not Activated"
+msgstr "Kurulmuş Ancak Etkinleştirilmemiş"
+
+#: class-tgm-plugin-activation.php:2603
+#: inc/admin/welcome-screen/sections/getting-started.php:221
+#: inc/admin/welcome-screen/sections/getting-started.php:302
+msgid "Install"
+msgstr "Kur"
+
+#: functions.php:374
+msgid "Sorry, but you do not have the correct permissions to activate the %s plugin. Contact the administrator of this site for help on getting the plugin activated."
+msgid_plural "Sorry, but you do not have the correct permissions to activate the %s plugins. Contact the administrator of this site for help on getting the plugins activated."
+msgstr[0] "%s eklentisini etkinleştirmek için yetkiniz yok. Site yöneticisi ile irtibata geçiniz."
+msgstr[1] ""
+
+#: class-tgm-plugin-activation.php:352 functions.php:375
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] "Şu eklentilerin güncellenmesi gerekiyor: %1$s."
+msgstr[1] ""
+
+#: functions.php:376
+msgid "Sorry, but you do not have the correct permissions to update the %s plugin. Contact the administrator of this site for help on getting the plugin updated."
+msgid_plural "Sorry, but you do not have the correct permissions to update the %s plugins. Contact the administrator of this site for help on getting the plugins updated."
+msgstr[0] "%s eklentisini güncelleştirmek için yetkiniz yok. Site yöneticisi ile irtibata geçiniz."
+msgstr[1] ""
+
+#: class-tgm-plugin-activation.php:382 functions.php:377
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Eklenti yüklemeye başla"
+msgstr[1] ""
+
+#: class-tgm-plugin-activation.php:392 functions.php:378
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Eklentiyi etkinleştirmeye başla"
+msgstr[1] "Eklentileri etkinleştirmeye başla"
+
+#: class-tgm-plugin-activation.php:397 functions.php:379
+msgid "Return to Required Plugins Installer"
+msgstr "Gerekli Eklenti Kurulumuna Dön"
+
+#: class-tgm-plugin-activation.php:398
+msgid "Return to the dashboard"
+msgstr "Başlangıca Dön"
+
+#: class-tgm-plugin-activation.php:399 class-tgm-plugin-activation.php:3029
+#: functions.php:380
+msgid "Plugin activated successfully."
+msgstr "Eklenti başarıyla etkinleştirildi."
+
+#: class-tgm-plugin-activation.php:400 class-tgm-plugin-activation.php:2832
+msgid "The following plugin was activated successfully:"
+msgstr "Takibeden eklenti başarıyla aktif ettirildi."
+
+#: class-tgm-plugin-activation.php:403
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Tüm eklentiler başarıyla kuruldu ve etkinleştirildi. %1$s"
+
+#: class-tgm-plugin-activation.php:404
+msgid "Dismiss this notice"
+msgstr "Bu uyarıyı yoksay"
+
+#: class-tgm-plugin-activation.php:828 class-tgm-plugin-activation.php:3438
+msgid "Return to the Dashboard"
+msgstr "Başlangıca Dön"
+
+#: class-tgm-plugin-activation.php:2192
+msgid "Pre-Packaged"
+msgstr "Önceden Paketlenmiş"
+
+#: class-tgm-plugin-activation.php:2186
+msgid "WordPress Repository"
+msgstr "WordPress Veri Havuzu"
+
+#: class-tgm-plugin-activation.php:2167
+msgid "Required"
+msgstr "Gerekli"
+
+#: class-tgm-plugin-activation.php:337 functions.php:369
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Bu tema için %1$s eklentileri gereklidir."
+msgstr[1] ""
+
+#: class-tgm-plugin-activation.php:342 functions.php:370
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Bu tema %1$s eklentilerini öneriyor."
+msgstr[1] ""
+
+#: functions.php:371
+msgid "Sorry, but you do not have the correct permissions to install the %s plugin. Contact the administrator of this site for help on getting the plugin installed."
+msgid_plural "Sorry, but you do not have the correct permissions to install the %s plugins. Contact the administrator of this site for help on getting the plugins installed."
+msgstr[0] "%s eklentisini kurmak için yetkiniz yok. Site yöneticisi ile irtibata geçiniz."
+msgstr[1] ""
+
+#: class-tgm-plugin-activation.php:367 functions.php:372
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "Bazı gerekli eklentiler şu an aktif değil: %1$s."
+msgstr[1] ""
+
+#: class-tgm-plugin-activation.php:372 functions.php:373
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "Önerilen bazı eklentiler şu an aktif değil: %1$s."
+msgstr[1] ""
+
+#: class-tgm-plugin-activation.php:335 functions.php:367
+msgid "Installing Plugin: %s"
+msgstr "Eklenti Kuruluyor: %s"
+
+#: class-tgm-plugin-activation.php:333 functions.php:365
+msgid "Install Required Plugins"
+msgstr "Gerekli Eklentileri Kur"
+
+#: class-tgm-plugin-activation.php:334 functions.php:366
+msgid "Install Plugins"
+msgstr "Eklenti Kur"
+
+#: sidebar.php:23
+msgid "Archives"
+msgstr "Arşiv"
+
+#: inc/template-tags.php:233
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Burada hiçbir şeyin bulunmadığı görülüyor. Belki alttaki bağlantılardan birini veya bir arama yapmayı denemelisin?"
+
+#: inc/template-tags.php:227
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Off! Bu sayfa bulunamadı."
+
+#. Theme URI of the plugin/theme
+msgid "http://themeisle.com/themes/zerif-lite/"
+msgstr "http://themeisle.com/themes/zerif-lite/"
+
+#. Author of the plugin/theme
+msgid "ThemeIsle"
+msgstr "ThemeIsle"
+
+#. Author URI of the plugin/theme
+msgid "http://themeisle.com"
+msgstr "http://themeisle.com"

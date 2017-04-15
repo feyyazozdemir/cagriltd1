@@ -1,0 +1,1189 @@
+# Translation of Themes - Wallstreet in Turkish
+# This file is distributed under the same license as the Themes - Wallstreet package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-01-25 13:48:29+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: GlotPress/2.3.0-alpha\n"
+"Language: tr\n"
+"Project-Id-Version: Themes - Wallstreet\n"
+
+#. Description of the plugin/theme
+msgid "WallStreet is a Business WordPress Theme that contains a lot of features for customizing your website as you need. Already thousands of users loving this theme because it is designed for multiple businesses like corporates, firms, law firms, digital media agency, architecture firm, personal, portfolio and freelancer's website. The theme is developed using Bootstrap 3 CSS framework that makes it friendly for all the devices like mobiles, tablets, laptops etc. In WallStreet Lite, you can easily set Featured Banner / Slide, Social Icons in Header, Contact Information, Services, Portfolio, 4 column widgetized footer. Couple of page templates are added one is Homepage and the second one is full width page template. In the premium version, you will get 2 color skins Lite and Dark, 10 predefined color schemes, feature for creating your custom color scheme, an eye-catching slider, Services, Testimonial’s, Portfolio, Clients/ Sponsors, Blog Layouts, Layout Manager and Latest News. You will get Various page templates  like About, Service, Portfolio, Blog and Contact Us. The theme has supports for popular  plugins like WPML, Polylang and JetPack Gallery Extensions. Just navigate to Appearance / Customize to start customizing. Both the lite and premium version of WallStreet theme comes with various locales. Check premium version theme demo at http://webriti.com/demo/wp/wallstreet"
+msgstr "WallStreet web sitenizi ihtiyaç duyduğunuzda özelleştirmek için birçok özellik içeren bir WordPress iş temasıdır. Zaten binlerce kullanıcı bu temayı seviyor çünkü şirketler, firmalar, hukuk firmaları, dijital medya ajansı, mimarlık firması, kişisel, portfolyo ve freelancer web sitesi gibi birden çok iş için tasarlandı. Tema cep telefonları, tabletler, dizüstü bilgisayarlar vb. tüm cihazlarda kullanıcı dostu olan Bootstrap 3 CSS çatısı kullanılarak geliştirildi. WallStreet Lite'da öne çıkan afişi/slaytı, üst kısımdaki sosyal simgelerini, iletişim bilgisini, hizmetleri, portfolyoyu, 4 sütunlu bileşenli alt kısımı kolayca ayarlayabilirsiniz. Birkaç sayfa şablonu eklendi ve bir tanesi ana sayfa, ikincisi ise tam genişlikte sayfa şablonu. Ücretli sürümde 2 adet dış görünüm rengi Lite ve Dark, 10 adet önceden tanımlanmış renk şemaları, özel renk şeması oluşturma özelliği, göz alıcı kaydırıcı, hizmetler, referanslar, portfolyo, müşteriler/sponsorlar, blog yerleşimleri, yerleşim yöneticisi ve son haberleri elde edeceksiniz. Hakkında, hizmet, portfolyo, blog ve iletişim gibi çeşitli sayfa şablonlarını bulacaksınız. Tema WPML, Polylang ve JetPack galeri uzantıları gibi popüler eklentileri destekliyor. Özelleştirmeye başlamak için Görünüm / Özelleştir'e gidin. WallStreet temalarının hem lite hem de ücretli sürümü tamamen Türkçeye çevirilmiştir. http://webriti.com/demo/wp/wallstreet adresindeki ücretli sürüm tema demosunu kontrol edin"
+
+#. Theme Name of the plugin/theme
+msgid "Wallstreet"
+msgstr "Wallstreet"
+
+#: functions/customizer/customizer-typography.php:248
+msgid "Post / Page title"
+msgstr "Yazı / sayfa başlığı"
+
+#: functions/customizer/customizer-typography.php:98
+msgid "General Paragraph"
+msgstr "Genel paragraf"
+
+#: functions/customizer/customizer-template.php:69
+msgid "About page setting"
+msgstr "Hakkında sayfası ayarı"
+
+#: functions/customizer/customizer-heading.php:95
+#: functions/customizer/customizer-template.php:116
+msgid "We offer great services to our clients"
+msgstr "Müşterilerimize harika hizmetler sunarız"
+
+#: functions/customizer/customizer-client.php:5
+#: functions/customizer/customizer-feature.php:6
+#: functions/customizer/customizer-pro.php:12
+#: functions/customizer/customizer-pro.php:19
+#: functions/customizer/customizer-project.php:299
+#: functions/customizer/customizer-service.php:234
+#: functions/customizer/customizer-template.php:6
+#: functions/customizer/customizer-template.php:15
+#: functions/customizer/customizer-template.php:24
+#: functions/customizer/customizer-template.php:32
+#: functions/customizer/customizer-template.php:41
+#: functions/customizer/customizer-template.php:51
+#: functions/customizer/customizer-testimonial.php:5
+#: functions/customizer/customizer-typography.php:8
+#: functions/customizer/customizer-typography.php:17
+#: functions/customizer/customizer-typography.php:25
+#: functions/customizer/customizer-typography.php:33
+#: functions/customizer/customizer-typography.php:41
+#: functions/customizer/customizer-typography.php:49
+#: functions/customizer/customizer-typography.php:57
+#: functions/customizer/customizer-typography.php:65
+#: functions/customizer/customizer-typography.php:73
+msgid "Upgrade to pro"
+msgstr "Ücretli sürüme yükselt"
+
+#: functions.php:95 functions.php:97
+msgid "Sidebar widget area"
+msgstr "Kenar çubuğu bileşen alanı"
+
+#: functions/customizer/customizer-typography.php:691
+msgid "Callout button"
+msgstr "Açıklama alanı düğmesi"
+
+#: functions/customizer/customizer-typography.php:618
+msgid "Callout description"
+msgstr "Açıklama alanı açıklaması"
+
+#: functions/customizer/customizer-typography.php:544
+msgid "Callout title"
+msgstr "Açıklama alanı başlığı"
+
+#: functions/customizer/customizer-typography.php:322
+msgid "Service title"
+msgstr "Hizmet başlığı"
+
+#: functions/customizer/customizer-typography.php:173
+msgid "Menus"
+msgstr "Menüler"
+
+#: functions/customizer/customizer-template.php:692
+msgid "URL"
+msgstr "URL"
+
+#: functions/customizer/customizer-template.php:616
+msgid "Contact page Google maps"
+msgstr "İletişim sayfası Google haritlar"
+
+#: functions/customizer/customizer-template.php:547
+msgid "Contact page form setting"
+msgstr "İletişim sayfası form ayarı"
+
+#: functions/customizer/customizer-template.php:515
+msgid "Email two"
+msgstr "İkinci e-posta"
+
+#: functions/customizer/customizer-template.php:495
+#: functions/customizer/customizer-template.php:535
+msgid "Email one"
+msgstr "Birinci e-posta"
+
+#: functions/customizer/customizer-social.php:156
+msgid "YouTube URL"
+msgstr "YouTube URL"
+
+#: functions/customizer/customizer-social.php:136
+msgid "LinkedIn URL"
+msgstr "LinkedIn URL"
+
+#: functions/customizer/customizer-social.php:115
+msgid "GooglePlus URL"
+msgstr "GooglePlus URL"
+
+#: functions/customizer/customizer-social.php:95
+msgid "Facebook URL"
+msgstr "Facebook URL"
+
+#: functions/customizer/customizer-social.php:76
+msgid "Twitter URL"
+msgstr "Twitter URL"
+
+#: functions/customizer/customizer-slider.php:53
+msgid "Sub title"
+msgstr "Alt başlık"
+
+#: functions/customizer/customizer-service.php:160
+msgid "Service three"
+msgstr "Üçüncü hizmet"
+
+#: functions/customizer/customizer-service.php:101
+msgid "Service two"
+msgstr "İkinci hizmet"
+
+#: functions/customizer/customizer-service.php:40
+msgid "Service one"
+msgstr "Birinci hizmet"
+
+#: functions/customizer/customizer-template.php:396
+msgid "Contact page email setting"
+msgstr "İletişim sayfası e-posta ayarı"
+
+#: functions/customizer/customizer-template.php:384
+msgid "Phone number two"
+msgstr "İkinci telefon numarası"
+
+#: functions/customizer/customizer-template.php:364
+msgid "Phone number one"
+msgstr "Birinci telefon numarası"
+
+#: functions/customizer/customizer-template.php:263
+msgid "Contact page phone setting"
+msgstr "İletişim sayfası telefon bölümü ayarı"
+
+#: functions/customizer/customizer-template.php:253
+msgid "Address two"
+msgstr "İkinci adres"
+
+#: functions/customizer/customizer-template.php:235
+msgid "Address one"
+msgstr "Birinci adres"
+
+#: functions/customizer/customizer-template.php:136
+msgid "Contact page address setting"
+msgstr "İletişim sayfası adres bölümü ayarı"
+
+#: functions/customizer/customizer-home.php:153
+#: functions/customizer/customizer-home.php:166
+msgid "Custom CSS"
+msgstr "Özel CSS"
+
+#: functions/customizer/customizer-heading.php:65
+msgid "Contact email"
+msgstr "İletişim e-postası"
+
+#: functions/customizer/customizer-heading.php:47
+msgid "Contact phone number"
+msgstr "İletişim telefon numarası"
+
+#: functions/customizer/customizer-heading.php:28
+msgid "Enable contact information"
+msgstr "İletişim bilgisini etkinleştir"
+
+#: functions/customizer/customizer-feature.php:254
+msgid "Shortcodes"
+msgstr "Kısa kodlar"
+
+#: functions/customizer/customizer-feature.php:116
+#: functions/customizer/customizer-feature.php:179
+#: functions/customizer/customizer-feature.php:242
+#: functions/customizer/customizer-template.php:195
+#: functions/customizer/customizer-template.php:323
+#: functions/customizer/customizer-template.php:455
+msgid "Icon"
+msgstr "Simge"
+
+#: functions/customizer/customizer-feature.php:85
+msgid "Core features of theme"
+msgstr "Temanın ana özellikleri"
+
+#: functions/customizer/customizer-feature.php:74
+#: functions/customizer/customizer-project.php:94
+#: functions/customizer/customizer-project.php:151
+#: functions/customizer/customizer-project.php:212
+#: functions/customizer/customizer-project.php:272
+#: functions/customizer/customizer-service.php:53
+#: functions/customizer/customizer-service.php:114
+#: functions/customizer/customizer-service.php:173
+#: functions/customizer/customizer-slider.php:20
+msgid "Image"
+msgstr "Görsel"
+
+#: functions/customizer/customizer-feature.php:60
+msgid "Check to enable theme featured section on homepage"
+msgstr "Ana sayfada tema özellik bölümünü etkinleştirmek için işaretleyin"
+
+#: functions/customizer/customizer-client.php:70
+#: functions/customizer/customizer-feature.php:157
+#: functions/customizer/customizer-feature.php:220
+#: functions/customizer/customizer-feature.php:283
+#: functions/customizer/customizer-project.php:69
+#: functions/customizer/customizer-project.php:138
+#: functions/customizer/customizer-project.php:198
+#: functions/customizer/customizer-project.php:258
+#: functions/customizer/customizer-service.php:93
+#: functions/customizer/customizer-service.php:153
+#: functions/customizer/customizer-service.php:212
+#: functions/customizer/customizer-slider.php:68
+#: functions/customizer/customizer-template.php:125
+#: functions/customizer/customizer-template.php:604
+msgid "Description"
+msgstr "Açıklama"
+
+#: functions/customizer/customizer-client.php:61
+msgid "Have a look at our client we are growing their business and they are going up in the market by beating their competitors."
+msgstr "Müşterilerimize göz atın. Onların işlerini büyütüyoruz ve böylece rakiplerini alt ederek markette yukarı tırmanıyorlar."
+
+#: functions/customizer/customizer-client.php:51
+#: functions/customizer/customizer-feature.php:96
+#: functions/customizer/customizer-feature.php:136
+#: functions/customizer/customizer-feature.php:199
+#: functions/customizer/customizer-feature.php:262
+#: functions/customizer/customizer-project.php:50
+#: functions/customizer/customizer-project.php:120
+#: functions/customizer/customizer-project.php:180
+#: functions/customizer/customizer-project.php:240
+#: functions/customizer/customizer-service.php:75
+#: functions/customizer/customizer-service.php:135
+#: functions/customizer/customizer-service.php:194
+#: functions/customizer/customizer-slider.php:38
+#: functions/customizer/customizer-template.php:105
+#: functions/customizer/customizer-template.php:215
+#: functions/customizer/customizer-template.php:475
+#: functions/customizer/customizer-template.php:584
+#: functions/customizer/customizer-template.php:672
+msgid "Title"
+msgstr "Başlık"
+
+#: functions/customizer/customizer-client.php:14
+msgid "Client settings"
+msgstr "Müşteri ayarları"
+
+#: comments.php:48
+msgid "Logout"
+msgstr "Çıkış"
+
+#: comments.php:48
+msgid "Logout from this Account"
+msgstr "Bu hesaptan çıkış yap"
+
+#: comments.php:47 comments.php:53
+msgid "Leave your message"
+msgstr "Mesajınızı bırakın"
+
+#: comments.php:37
+msgid "Name"
+msgstr "İsim"
+
+#: comments.php:31
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment"
+msgstr "Yorum yapabilmek için <a href=\"%s\">giriş yapmalısınız</a>"
+
+#: author.php:8
+msgid "Author Archive"
+msgstr "Yazar arşivi"
+
+#: 404.php:23
+msgid "Go Back"
+msgstr "Geri dön"
+
+#. Template Name of the plugin/theme
+msgid "Full Width Page"
+msgstr "Tam sayfa genişlik"
+
+#: functions/customizer/customizer-social.php:15
+msgid "Social Links"
+msgstr "Sosyal medya bağlantıları"
+
+#: functions.php:254
+msgid "All plugins installed and activated successfully. %s"
+msgstr "Tüm eklentiler başarıyla kuruldu ve etkinleştirildi. %s"
+
+#: functions.php:241
+msgid "Something went wrong with the plugin API."
+msgstr "Eklenti API'siyle ilgili bir şeyler yanlış gitti."
+
+#: functions.php:238
+msgid "Install Recommended Plugins"
+msgstr "Önerilen eklentileri kur"
+
+#: class-tgm-plugin-activation.php:2064
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Eklenti %1$s (%2$d/%3$d) kuruluyor"
+
+#: class-tgm-plugin-activation.php:2063
+msgid "All installations have been completed."
+msgstr "Tüm kurulumlar tamamlandı."
+
+#: class-tgm-plugin-activation.php:2062
+msgid "%1$s installed successfully."
+msgstr "%1$s başarıyla kuruldu."
+
+#: class-tgm-plugin-activation.php:2061
+msgid "The installation of %1$s failed."
+msgstr "%1$s kurulumu başarısız oldu."
+
+#: class-tgm-plugin-activation.php:2060
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "%1$s kurulurken bir hata oluştu: <strong>%2$s</strong>."
+
+#: class-tgm-plugin-activation.php:2059
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Kurulum işlemi başlıyor. Bu işlem, bazı ana bilgisayarlarda zaman alabilir, bu yüzden sabırlı olunuz."
+
+#: class-tgm-plugin-activation.php:2055
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Eklenti %1$s (%2$d/%3$d) kuruluyor ve etkinleştiriliyor"
+
+#: class-tgm-plugin-activation.php:2054
+msgid "All installations and activations have been completed."
+msgstr "Tüm kurulum ve etkinleştirmeler tamamlandı."
+
+#: class-tgm-plugin-activation.php:2053 class-tgm-plugin-activation.php:2062
+msgid "Hide Details"
+msgstr "Detayları gizle"
+
+#: class-tgm-plugin-activation.php:2053 class-tgm-plugin-activation.php:2062
+msgid "Show Details"
+msgstr "Detayları göster"
+
+#: class-tgm-plugin-activation.php:2053
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s başarıyla kuruldu ve etkinleştirildi."
+
+#: class-tgm-plugin-activation.php:2052
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Kurulum ve etkinleştirme işlemi başlıyor. Bu işlem, bazı ana bilgisayarlarda zaman alabilir, bu yüzden sabırlı olunuz."
+
+#: class-tgm-plugin-activation.php:1938
+msgid "Plugin activation failed."
+msgstr "Eklenti etkinleştirmesi başarısız oldu."
+
+#: class-tgm-plugin-activation.php:1927
+msgid "Plugin installed successfully."
+msgstr "Eklenti başarıyla yüklendi."
+
+#: class-tgm-plugin-activation.php:1926
+msgid "Plugin install failed."
+msgstr "Eklenti yükleme başarısız."
+
+#: class-tgm-plugin-activation.php:1925
+msgid "Installing the plugin&#8230;"
+msgstr "Eklenti yükleniyor&#8230;"
+
+#: class-tgm-plugin-activation.php:1924
+msgid "Unpacking the package&#8230;"
+msgstr "Paket açılıyor&#8230;"
+
+#: class-tgm-plugin-activation.php:1923
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr "Yükleme paketi <span class=\"code\">%s</span> konumundan indiriliyor&#8230;"
+
+#: class-tgm-plugin-activation.php:1922
+msgid "Install package not available."
+msgstr "Kurulum paketi mevcut değil."
+
+#: class-tgm-plugin-activation.php:1377
+msgid "Status"
+msgstr "Durum"
+
+#: class-tgm-plugin-activation.php:1376
+msgid "Type"
+msgstr "Tip"
+
+#: class-tgm-plugin-activation.php:1375
+msgid "Source"
+msgstr "Kaynak"
+
+#: class-tgm-plugin-activation.php:1374
+msgid "Plugin"
+msgstr "Eklenti"
+
+#: class-tgm-plugin-activation.php:1358
+msgid "No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the Dashboard\">Return to the Dashboard</a>"
+msgstr "Kurulacak veya etkinleştirilecek eklenti yok. <a href=\"%1$s\" title=\"Başlangıca dön\">Başlangıca dön</a>"
+
+#: class-tgm-plugin-activation.php:1309 class-tgm-plugin-activation.php:1396
+msgid "Activate"
+msgstr "Etkinleştir"
+
+#: class-tgm-plugin-activation.php:1287 class-tgm-plugin-activation.php:1395
+msgid "Install"
+msgstr "Kur"
+
+#: class-tgm-plugin-activation.php:1182
+msgid "Installed But Not Activated"
+msgstr "Kurulmuş ancak etkinleştirilmemiş"
+
+#: class-tgm-plugin-activation.php:1180
+msgid "Not Installed"
+msgstr "Kurulmamış"
+
+#: class-tgm-plugin-activation.php:1177
+msgid "Recommended"
+msgstr "Önerilen"
+
+#: class-tgm-plugin-activation.php:1177
+msgid "Required"
+msgstr "Gerekli"
+
+#: class-tgm-plugin-activation.php:1174
+msgid "WordPress Repository"
+msgstr "WordPress deposu"
+
+#: class-tgm-plugin-activation.php:1169
+msgid "Pre-Packaged"
+msgstr "Önceden paketlenmiş"
+
+#: class-tgm-plugin-activation.php:1166
+msgid "Private Repository"
+msgstr "Gizli depo"
+
+#: class-tgm-plugin-activation.php:180
+msgid "Dismiss this notice"
+msgstr "Bu uyarıyı kapat"
+
+#: class-tgm-plugin-activation.php:179
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Tüm eklentiler başarıyla kuruldu ve etkinleştirildi. %1$s"
+
+#: class-tgm-plugin-activation.php:178 class-tgm-plugin-activation.php:1630
+msgid "The following plugin was activated successfully:"
+msgstr "Şu eklenti başarıyla etkinleştirildi:"
+
+#: class-tgm-plugin-activation.php:177 class-tgm-plugin-activation.php:1939
+#: functions.php:253
+msgid "Plugin activated successfully."
+msgstr "Eklenti başarıyla etkinleştirildi."
+
+#: class-tgm-plugin-activation.php:176 class-tgm-plugin-activation.php:531
+#: class-tgm-plugin-activation.php:2156
+msgid "Return to the dashboard"
+msgstr "Başlangıca dön"
+
+#: class-tgm-plugin-activation.php:175 functions.php:252
+msgid "Return to Required Plugins Installer"
+msgstr "Gerekli eklenti kurulumuna dön"
+
+#: class-tgm-plugin-activation.php:174 functions.php:251
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Eklentiyi etkinleştirmeye başla"
+msgstr[1] "Eklentileri etkinleştirmeye başla"
+
+#: class-tgm-plugin-activation.php:173 functions.php:250
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Eklentiyi yüklemeye başla"
+msgstr[1] "Eklentileri yüklemeye başla"
+
+#: class-tgm-plugin-activation.php:172 functions.php:249
+msgid "Sorry, but you do not have the correct permissions to update the %s plugin. Contact the administrator of this site for help on getting the plugin updated."
+msgid_plural "Sorry, but you do not have the correct permissions to update the %s plugins. Contact the administrator of this site for help on getting the plugins updated."
+msgstr[0] "Üzgünüm ancak %s eklentisini güncelleştirmek için doğru izinlere sahip değilsiniz. Lütfen site yöneticisi ile iletişime geçin."
+msgstr[1] "Üzgünüm ancak %s eklentilerini güncelleştirmek için doğru izinlere sahip değilsiniz. Lütfen site yöneticisi ile iletişime geçin."
+
+#: class-tgm-plugin-activation.php:171 functions.php:248
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] "Şu eklentinin tema ile maksimum uyumu sağlaması için son sürüme güncellenmesi gerekiyor: %1$s."
+msgstr[1] "Şu eklentilerin tema ile maksimum uyumu sağlaması için son sürüme güncellenmesi gerekiyor: %1$s."
+
+#: class-tgm-plugin-activation.php:170 functions.php:247
+msgid "Sorry, but you do not have the correct permissions to activate the %s plugin. Contact the administrator of this site for help on getting the plugin activated."
+msgid_plural "Sorry, but you do not have the correct permissions to activate the %s plugins. Contact the administrator of this site for help on getting the plugins activated."
+msgstr[0] "Üzgünüm ancak %s eklentisini etkinleştirmek için doğru izinlere sahip değilsiniz. Lütfen site yöneticisi ile iletişime geçin."
+msgstr[1] "Üzgünüm ancak %s eklentilerini etkinleştirmek için doğru izinlere sahip değilsiniz. Lütfen site yöneticisi ile iletişime geçin."
+
+#: class-tgm-plugin-activation.php:169 functions.php:246
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "Önerilen bazı eklentiler şu an aktif değil: %1$s."
+msgstr[1] "Önerilen bazı eklentiler şu an aktif değil: %1$s."
+
+#: class-tgm-plugin-activation.php:168 functions.php:245
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "Bazı gerekli eklentiler şu an aktif değil: %1$s."
+msgstr[1] "Bazı gerekli eklentiler şu an aktif değil: %1$s."
+
+#: class-tgm-plugin-activation.php:167 functions.php:244
+msgid "Sorry, but you do not have the correct permissions to install the %s plugin. Contact the administrator of this site for help on getting the plugin installed."
+msgid_plural "Sorry, but you do not have the correct permissions to install the %s plugins. Contact the administrator of this site for help on getting the plugins installed."
+msgstr[0] "Üzgünüm ancak %s eklentisini kurmak için doğru izinlere sahip değilsiniz. Site yöneticisi ile irtibata geçiniz."
+msgstr[1] "Üzgünüm ancak %s eklentilerini kurmak için doğru izinlere sahip değilsiniz. Site yöneticisi ile irtibata geçiniz."
+
+#: class-tgm-plugin-activation.php:166 functions.php:243
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Bu tema %1$s eklentisini öneriyor."
+msgstr[1] "Bu tema %1$s eklentilerini öneriyor."
+
+#: class-tgm-plugin-activation.php:165 functions.php:242
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Bu tema için %1$s eklentisi gereklidir."
+msgstr[1] "Bu tema için %1$s eklentileri gereklidir."
+
+#: class-tgm-plugin-activation.php:164
+msgid "Something went wrong."
+msgstr "Bir sorun oldu."
+
+#: class-tgm-plugin-activation.php:163 functions.php:240
+msgid "Installing Plugin %s"
+msgstr "%s eklentisi kuruluyor"
+
+#: class-tgm-plugin-activation.php:162 functions.php:239
+msgid "Install Plugins"
+msgstr "Eklenti kur"
+
+#: class-tgm-plugin-activation.php:161
+msgid "Install Required Plugins"
+msgstr "Gerekli eklentileri kur"
+
+#: functions/customizer/customizer-copyright.php:15 theme_setup_data.php:87
+msgid "Copyright @ 2014 - WALL STREET. Designed by,wallstreet <a href=\"%1$s\" target=\"_blank\">Webriti</a>"
+msgstr "Copyright @ 2014 - WALL STREET. tasarlayan, wallstreet <a href=\"%1$s\" target=\"_blank\">Webriti</a>"
+
+#: functions/customizer/customizer-typography.php:470
+msgid "Widget heading title"
+msgstr "Bileşen manşet başlığı"
+
+#: functions/customizer/customizer-typography.php:163
+#: functions/customizer/customizer-typography.php:238
+#: functions/customizer/customizer-typography.php:313
+#: functions/customizer/customizer-typography.php:387
+#: functions/customizer/customizer-typography.php:460
+#: functions/customizer/customizer-typography.php:535
+#: functions/customizer/customizer-typography.php:609
+#: functions/customizer/customizer-typography.php:682
+#: functions/customizer/customizer-typography.php:755
+msgid "Font style"
+msgstr "Yazı tipi biçimi"
+
+#: functions/customizer/customizer-typography.php:147
+#: functions/customizer/customizer-typography.php:222
+#: functions/customizer/customizer-typography.php:297
+#: functions/customizer/customizer-typography.php:371
+#: functions/customizer/customizer-typography.php:444
+#: functions/customizer/customizer-typography.php:519
+#: functions/customizer/customizer-typography.php:593
+#: functions/customizer/customizer-typography.php:666
+#: functions/customizer/customizer-typography.php:739
+msgid "Font family"
+msgstr "Yazı tipi ailesi"
+
+#: functions/customizer/customizer-typography.php:81
+msgid "Typography settings"
+msgstr "Tipografi ayarları"
+
+#: functions/customizer/customizer-testimonial.php:59
+msgid "fade"
+msgstr "soluklaş"
+
+#: functions/customizer/customizer-testimonial.php:57
+msgid "Slide type variations"
+msgstr "Slayt tipi varyasyonları"
+
+#: functions/customizer/customizer-testimonial.php:59
+msgid "crossfade"
+msgstr "çapraz soluklaş"
+
+#: functions/customizer/customizer-testimonial.php:78
+msgid "Scroll Items"
+msgstr "Kaydırma ögeleri"
+
+#: functions/customizer/customizer-testimonial.php:59
+msgid "cover-fade"
+msgstr "kaplayarak soluklaş"
+
+#: functions/customizer/customizer-testimonial.php:98
+msgid "Scroll duration"
+msgstr "Kaydırma süresi"
+
+#: functions/customizer/customizer-testimonial.php:118
+msgid "Time out duration"
+msgstr "Zamanaşımı süresi"
+
+#: functions/customizer/customizer-typography.php:7
+msgid "Want to add genral typography in theme then upgrade to pro"
+msgstr "Temada genel tipografi eklemek isterseniz ücretli sürüme yükseltin"
+
+#: functions/customizer/customizer-typography.php:16
+msgid "Want to add menus typography in theme then upgrade to pro"
+msgstr "Temada menü tipografisi eklemek isterseniz ücretli sürüme yükseltin"
+
+#: functions/customizer/customizer-typography.php:24
+msgid "Want to add post/page typography in theme then upgrade to pro"
+msgstr "Temada yazı/sayfa tipografisi eklemek isterseniz ücretli sürüme yükseltin"
+
+#: functions/customizer/customizer-typography.php:32
+msgid "Want to add service title typography in theme then upgrade to pro"
+msgstr "Temada servis başlığı tipografisi eklemek isterseniz ücretli sürüme yükseltin"
+
+#: functions/customizer/customizer-typography.php:40
+msgid "Want to add portfolio title typography in theme then upgrade to pro"
+msgstr "Temada portfolyo başlığı tipografisi eklemek isterseniz ücretli sürüme yükseltin"
+
+#: functions/customizer/customizer-typography.php:48
+msgid "Want to add widget title typography in theme then upgrade to pro"
+msgstr "Temada bileşen başlığı tipografisi eklemek isterseniz ücretli sürüme yükseltin"
+
+#: functions/customizer/customizer-typography.php:56
+msgid "Want to add callout area title typography in theme then upgrade to pro"
+msgstr "Temada açıklama alanı başlığı tipografisi eklemek isterseniz ücretli sürüme yükseltin"
+
+#: functions/customizer/customizer-typography.php:64
+msgid "Want to add callout area description typography in theme then upgrade to pro"
+msgstr "Temada açıklama alanı açıklama tipografisi eklemek isterseniz ücretli sürüme yükseltin"
+
+#: functions/customizer/customizer-typography.php:72
+msgid "Want to add callout button title typography in theme then upgrade to pro"
+msgstr "Temada açıklama alanı düğme başlığı tipografisi eklemek isterseniz ücretli sürüme yükseltin"
+
+#: functions/customizer/customizer-typography.php:130
+#: functions/customizer/customizer-typography.php:205
+#: functions/customizer/customizer-typography.php:280
+#: functions/customizer/customizer-typography.php:354
+#: functions/customizer/customizer-typography.php:427
+#: functions/customizer/customizer-typography.php:502
+#: functions/customizer/customizer-typography.php:576
+#: functions/customizer/customizer-typography.php:649
+#: functions/customizer/customizer-typography.php:722
+msgid "Font size"
+msgstr "Yazı tipi boyutu"
+
+#: functions/customizer/customizer-template.php:575
+msgid "Drop Us a Line"
+msgstr "Bize bir e-posta bırakın"
+
+#: functions/customizer/customizer-template.php:595
+msgid "Feel free to write us a message"
+msgstr "Bize bir mesaj yazmaktan çekinmeyin"
+
+#: functions/customizer/customizer-template.php:663
+msgid "Location map"
+msgstr "Konum haritası"
+
+#: functions/customizer/customizer-template.php:653
+msgid "Enable Google map in contact page"
+msgstr "İletişim sayfasında Google haritaları etkinleştir"
+
+#: functions/customizer/customizer-testimonial.php:14
+#: functions/customizer/customizer-testimonial.php:20
+msgid "Testimonial settings"
+msgstr "Referans ayarları"
+
+#: functions/customizer/customizer-testimonial.php:5
+msgid "Want to add testimonial than upgrade to pro"
+msgstr "Referans eklemek isterseniz ücretli sürüme yükseltin"
+
+#: functions/customizer/customizer-testimonial.php:47
+#: functions/customizer/customizer-testimonial.php:59
+#: functions/customizer/customizer-testimonial.php:68
+msgid "scroll"
+msgstr "kaydır"
+
+#: functions/customizer/customizer-template.php:335
+#: functions/customizer/customizer-template.php:344
+msgid "Phone"
+msgstr "Telefon"
+
+#: functions/customizer/customizer-template.php:301
+msgid "Enable contact page phone section"
+msgstr "İletişim sayfası telefon bölümünü etkinleştir"
+
+#: functions/customizer/customizer-template.php:436
+msgid "Enable contact page email section"
+msgstr "İletişim sayfası e-posta bölümünü etkinleştir"
+
+#: comments.php:38 functions/customizer/customizer-template.php:466
+msgid "Email"
+msgstr "E-posta"
+
+#: functions/customizer/customizer-template.php:96
+msgid "Our great team"
+msgstr "Harika takımımızla tanışın"
+
+#: functions/customizer/customizer-template.php:174
+msgid "Enable contact page address section"
+msgstr "İletişim sayfası adres bölümünü etkinleştir"
+
+#: functions/customizer/customizer-template.php:206
+msgid "Address"
+msgstr "Adres"
+
+#: functions/customizer/customizer-client.php:5
+msgid "Want to add client section then upgrade to Pro"
+msgstr "Müşteri bölümü eklemek isterseniz ücretli sürüme yükseltin"
+
+#: functions/customizer/customizer-client.php:30
+#: functions/customizer/customizer-feature.php:36
+#: functions/customizer/customizer-template.php:85
+#: functions/customizer/customizer-template.php:153
+#: functions/customizer/customizer-template.php:280
+#: functions/customizer/customizer-template.php:414
+#: functions/customizer/customizer-template.php:564
+#: functions/customizer/customizer-template.php:633
+#: functions/customizer/customizer-testimonial.php:35
+#: functions/customizer/customizer-typography.php:113
+#: functions/customizer/customizer-typography.php:188
+#: functions/customizer/customizer-typography.php:263
+#: functions/customizer/customizer-typography.php:337
+#: functions/customizer/customizer-typography.php:411
+#: functions/customizer/customizer-typography.php:486
+#: functions/customizer/customizer-typography.php:559
+#: functions/customizer/customizer-typography.php:633
+#: functions/customizer/customizer-typography.php:706
+msgid "Wallstreet upgrade"
+msgstr "Wallstreet yükseltmesi"
+
+#: functions/customizer/customizer-client.php:42
+msgid "Our Clients"
+msgstr "Müşterilerimiz"
+
+#: functions/customizer/customizer-feature.php:6
+msgid "Want to add theme feature section then upgrade to pro"
+msgstr "Tema öne çıkan bölümünü eklemek isterseniz ücretli sürüme yükseltin"
+
+#: functions/customizer/customizer-feature.php:15
+#: functions/customizer/customizer-feature.php:20
+msgid "Theme feature settings"
+msgstr "Tema özellik ayarları"
+
+#: functions/customizer/customizer-feature.php:128
+#: functions/customizer/customizer-feature.php:191
+msgid "Incredibly flexible"
+msgstr "İnanılmaz esnek"
+
+#: functions/customizer/customizer-template.php:5
+msgid "Want to add about us template heading and add team section then upgrade to pro"
+msgstr "Hakkımızda şablon başlığı ve takım bölümlerini eklemek isterseniz ücretli sürüme yükseltin"
+
+#: functions/customizer/customizer-template.php:14
+msgid "Want to add contact address in contact template then upgrade to pro"
+msgstr "İletişim şablonunda iletişim adresini eklemek isterseniz ücretli sürüme yükseltin"
+
+#: functions/customizer/customizer-template.php:23
+msgid "Want to add contact phone number in contact template then upgrade to pro"
+msgstr "İletişim şablonunda iletişim telefon numarasını eklemek isterseniz ücretli sürüme yükseltin"
+
+#: functions/customizer/customizer-template.php:31
+msgid "Want to add email in contact template then upgrade to pro"
+msgstr "İletişim şablonunda e-posta eklemek isterseniz ücretli sürüme yükseltin"
+
+#: functions/customizer/customizer-template.php:40
+msgid "Want to add contact form title & description in contact template then upgrade to pro"
+msgstr "İletişim şablonunda iletişim formu başlığını ve açıklamasını eklemek isterseniz ücretli sürüme yükseltin"
+
+#: functions/customizer/customizer-template.php:50
+msgid "Want to add map in contact template then upgrade to pro"
+msgstr "İletişim şablonunda harita eklemek isterseniz ücretli sürüme yükseltin"
+
+#: functions/customizer/customizer-template.php:61
+msgid "Template settings"
+msgstr "Şablon ayarları"
+
+#: functions/customizer/customizer-social.php:7
+msgid "Social link settings"
+msgstr "Sosyal medya bağlantı ayarları"
+
+#: functions/customizer/customizer-service.php:231
+msgid "Want to add more services, than upgrade to pro version"
+msgstr "Daha fazla hizmetler eklemek isterseniz ücretli sürüme yükseltin"
+
+#: functions/customizer/customizer-slider.php:7
+msgid "Banner image settings"
+msgstr "Afiş görseli ayarları"
+
+#: functions/customizer/customizer-service.php:218
+msgid "Add more service"
+msgstr "Daha fazla hizmet ekle"
+
+#: functions/customizer/customizer-service.php:185
+msgid "Easy to use"
+msgstr "Kullanımı kolay"
+
+#: functions/customizer/customizer-project.php:283
+msgid "Add More Project"
+msgstr "Daha fazla proje ekle"
+
+#: functions/customizer/customizer-project.php:296
+msgid "Want to add more projects and categorization than upgrade to pro"
+msgstr "Daha fazla projeler ve kategorizasyon eklemek isterseniz ücretli sürüme yükseltin"
+
+#: functions/customizer/customizer-project.php:226
+msgid "Home portfolio Four"
+msgstr "Ana sayfa dördüncü portfolyo"
+
+#: functions/customizer/customizer-project.php:164
+msgid "Home portfolio three"
+msgstr "Ana sayfa üçüncü portfolyo"
+
+#: functions/customizer/customizer-project.php:106
+msgid "Home portfolio two"
+msgstr "Ana sayfa ikinci portfolyo"
+
+#: functions/customizer/customizer-project.php:80
+msgid "Home portfolio one"
+msgstr "Ana sayfa birinci portfolyo"
+
+#: functions/customizer/customizer-pro.php:78
+msgid "The Pro Version gives you more opportunities to enhance your site and business. In order to create effective online presence one have to showcase their wide range of products, have to use contact us enquiry form, have to make effective about us page, have to introduce team members, etc etc . The pro version will give it all. Buy the pro version and give us a chance to serve you better."
+msgstr "Ücretli  sürüm sitenizi ve işletmenizi geliştirmek için daha fazla fırsat sunar. Etkili çevirim içi varlığı oluşturmak için  vitrinde geniş ürün yelpazesine sahip olmak, iletişim formu kullanmak, etkili hakkında sayfası yapmak, ekip üyelerini tanıtmak vb.  gerekir. Ücretli sürüm hepsini verecek. Ücretli sürümünü satın alın ve bize daha iyi hizmet verebilmemiz için bir şans verin. "
+
+#: functions/customizer/customizer-project.php:8
+#: functions/customizer/customizer-project.php:14
+msgid "Project settings"
+msgstr "Proje ayarları"
+
+#: functions/customizer/customizer-home.php:145
+msgid "Show Logo text"
+msgstr "Logo metnini göster"
+
+#: functions/customizer/customizer-home.php:123
+msgid "Enter Logo Height"
+msgstr "Logo yüksekliğini girin"
+
+#: functions/customizer/customizer-home.php:104
+msgid "Enter Logo Width"
+msgstr "Logo genişliğini girin"
+
+#: functions/customizer/customizer-home.php:83
+msgid "Enable/Disable Logo"
+msgstr "Logoyu etkinleştir/etkisizleştir"
+
+#: functions/customizer/customizer-home.php:64
+msgid "Upload a 150x150 for Logo Image"
+msgstr "Logo için 150x150px görsel yükleyin"
+
+#: functions/customizer/customizer-home.php:46
+msgid "Header logo setting"
+msgstr "Üst kısım logo ayarı"
+
+#: functions/customizer/customizer-home.php:27
+msgid "Choose your favicon (ideal width and height is 16x16 or 32x32)"
+msgstr "Faviconunuzu seçin (ideal genişlik ve yükseklik 16x16px veya 32x32px dir)"
+
+#: functions/customizer/customizer-home.php:16
+msgid "Upload a favicon"
+msgstr "Favicon yükleyin"
+
+#: functions/customizer/customizer-pro.php:74
+msgid "DOCUMENTATION"
+msgstr "Belgeler"
+
+#: functions/customizer/customizer-pro.php:46
+msgid "ADD YOUR REVIEW"
+msgstr "Değerlendirmenizi ekleyin"
+
+#: functions/customizer/customizer-home.php:14
+msgid "Site favicon"
+msgstr "Site faviconu"
+
+#: functions/customizer/customizer-home.php:8
+msgid "Header settings"
+msgstr "Üst kısım ayarları"
+
+#: functions/customizer/customizer-copyright.php:24
+msgid "Copyright text"
+msgstr "Telif hakkı metni"
+
+#: functions/customizer/customizer-copyright.php:8
+msgid "Footer copyright settings"
+msgstr "Alt kısım telif hakkı ayarları"
+
+#: functions/customizer/customizer-blog.php:27
+msgid "Enable Home Blog Section"
+msgstr "Ana sayfa blog bölümünü etkinleştir"
+
+#: functions/customizer/customizer-blog.php:7
+msgid "Home blog settings"
+msgstr "Ana sayfa blog ayarları"
+
+#: functions/customizer/customizer-heading.php:179
+msgid "Homepage blog section description"
+msgstr "Ana sayfa blog bölümü açıklaması"
+
+#: functions/customizer/customizer-heading.php:160
+msgid "Homepage blog section heading"
+msgstr "Ana sayfa blog bölümü başlığı"
+
+#: functions/customizer/customizer-heading.php:170 theme_setup_data.php:75
+msgid "We work with new customers and grow their businesses"
+msgstr "Yeni müşterilerle çalışır ve onların işlerini büyütürüz"
+
+#: functions/customizer/customizer-heading.php:151 theme_setup_data.php:74
+msgid "Our latest blog post"
+msgstr "Son blog yazılarımız"
+
+#: functions/customizer/customizer-heading.php:132 theme_setup_data.php:73
+msgid "Most popular of our works."
+msgstr "İşlerimizin en popülerleri."
+
+#: tag.php:8
+msgid "Tag Archive %s"
+msgstr "%s etiket arşivi"
+
+#: searchform.php:2
+msgid "Search Here"
+msgstr "Burada ara"
+
+#: search.php:63
+msgid "Sorry, but nothing matched your search criteria. Please try again with some different keywords."
+msgstr "Üzgünüz fakat aradığınız kriterler ile örtüşen sonuç bulunamadı. Lütfen başka anahtar kelimeler ile tekrar deneyin."
+
+#: search.php:61
+msgid "Nothing Found"
+msgstr "Hiçbir şey bulunamadı"
+
+#: search.php:57
+msgid "Next"
+msgstr "Sonraki"
+
+#: search.php:56
+msgid "Previous"
+msgstr "Önceki"
+
+#: search.php:23
+msgid "Search results for: %s"
+msgstr "%s için arama sonuçları"
+
+#: functions.php:159
+msgid "Your comment is awaiting moderation."
+msgstr "Yorumunuz denetim bekliyor."
+
+#: functions.php:154
+msgid "Edit"
+msgstr "Düzenle"
+
+#: functions.php:152
+msgid "Posted on &nbsp;"
+msgstr "Yayın tarihi &nbsp;"
+
+#: functions.php:145
+msgid "Reply"
+msgstr "Yanıtla"
+
+#: functions.php:105 functions.php:107
+msgid "Footer widget area"
+msgstr "Alt kısım bileşen alanı"
+
+#: functions.php:70
+msgid "Primary Menu"
+msgstr "Birincil menü"
+
+#: searchform.php:3
+msgid "Search"
+msgstr "Ara"
+
+#. Template Name of the plugin/theme
+msgid "Home Page"
+msgstr "Ana sayfa"
+
+#: functions/customizer/customizer-slider.php:62 theme_setup_data.php:26
+msgid "The state-of-the-art HTML5 powered flexible layout with lightspeed fast CSS3 transition effects. Works perfect in any modern mobile."
+msgstr "Işık hızında CSS3 geçiş efektleriyle en son teknolojiye sahip HTML5 ile güçlendirilmiş esnek yerleşim. Herhangi bir güncel mobil cihazlarda mükemmel çalışır."
+
+#: functions/customizer/customizer-slider.php:47 theme_setup_data.php:25
+msgid "Welcome to wallstreet"
+msgstr "Wallstreet'e hoş geldiniz"
+
+#: functions/customizer/customizer-slider.php:32 theme_setup_data.php:24
+msgid "Clean & fresh theme"
+msgstr "Temiz ve taze tema"
+
+#: functions/customizer/customizer-service.php:12
+#: functions/customizer/customizer-service.php:32
+msgid "Enable service section"
+msgstr "Servis bölümünü etkinleştir "
+
+#: functions/customizer/customizer-service.php:7
+msgid "Service settings"
+msgstr "Hizmet ayarları"
+
+#: theme_setup_data.php:41
+msgid "Responsive designs"
+msgstr "Duyarlı tasarımlar"
+
+#: functions/customizer/customizer-service.php:126 theme_setup_data.php:37
+msgid "WordPress themes"
+msgstr "WordPress temaları"
+
+#: functions/customizer/customizer-service.php:66 theme_setup_data.php:33
+msgid "Product Designing"
+msgstr "Ürün tasarımı"
+
+#: functions/customizer/customizer-project.php:34
+msgid "Enable portfolio section on home page(project section)."
+msgstr "Ana sayfada (proje bölümü) portfolyo bölümünü etkinleştir"
+
+#: functions/customizer/customizer-project.php:60
+#: functions/customizer/customizer-project.php:129
+#: functions/customizer/customizer-project.php:189
+#: functions/customizer/customizer-project.php:249 theme_setup_data.php:48
+#: theme_setup_data.php:52 theme_setup_data.php:56 theme_setup_data.php:60
+msgid "A wonderful serenity has taken possession of my entire soul, like these sweet mornings."
+msgstr "Bu tatlı sabahlar gibi harika bir huzur tüm ruhumu elinde tuttu."
+
+#: functions/customizer/customizer-project.php:44
+#: functions/customizer/customizer-project.php:114
+#: functions/customizer/customizer-project.php:174
+#: functions/customizer/customizer-project.php:234 theme_setup_data.php:47
+#: theme_setup_data.php:51 theme_setup_data.php:55 theme_setup_data.php:59
+msgid "WallStreet style"
+msgstr "Wall Street biçimi"
+
+#: functions/customizer/customizer-heading.php:141
+msgid "Portfolio Description"
+msgstr "Portfolyo açıklaması"
+
+#: functions/customizer/customizer-heading.php:122
+#: functions/customizer/customizer-typography.php:396
+msgid "Portfolio title"
+msgstr "Portfolyo başlığı"
+
+#: functions/customizer/customizer-heading.php:104
+msgid "Services Description"
+msgstr "Hizmetler açıklaması"
+
+#: functions/customizer/customizer-heading.php:85
+msgid "Services Title"
+msgstr "Hizmetler başlığı"
+
+#: functions/customizer/customizer-heading.php:9
+msgid "Section Heading"
+msgstr "Bölüm başlığı"
+
+#: functions/customizer/customizer-heading.php:113 theme_setup_data.php:72
+msgid "Featured portfolio project"
+msgstr "Öne çıkan portfolyo projesi"
+
+#: theme_setup_data.php:71
+msgid "We offer great services to our clients "
+msgstr "Müşterilerimize harika hizmetler sunarız"
+
+#: functions/customizer/customizer-heading.php:76 theme_setup_data.php:70
+msgid "Our services"
+msgstr "Hizmetlerimiz"
+
+#: functions/customizer/customizer-social.php:54
+msgid "Enable social media links on footer section"
+msgstr "Alt kısımda sosyal medya bağlantılarını etkinleştir"
+
+#: functions/customizer/customizer-social.php:35
+msgid "Enable social media links on header section"
+msgstr "Üst kısımda sosyal medya bağlantılarını etkinleştir"
+
+#: archive.php:49 author.php:39 category.php:40
+#: functions/breadcrumbs/breadcrumbs.php:98 functions.php:53 index.php:43
+#: single.php:42 tag.php:39
+msgid "Page"
+msgstr "Sayfa"
+
+#: functions/breadcrumbs/breadcrumbs.php:90
+msgid "Articles posted by"
+msgstr "Makaleleri gönderen "
+
+#: functions/breadcrumbs/breadcrumbs.php:85
+msgid "Posts tagged"
+msgstr "Etiketlenmiş yazılar"
+
+#: functions/breadcrumbs/breadcrumbs.php:27
+msgid "Search results for"
+msgstr "Arama sonuçları "
+
+#: functions/breadcrumbs/breadcrumbs.php:24
+msgid "Archive by category"
+msgstr "Kategoriye göre arşiv "
+
+#: functions/breadcrumbs/breadcrumbs.php:5
+#: functions/menu/default_menu_walker.php:23
+msgid "Home"
+msgstr "Ana sayfa"
+
+#: comments.php:50
+msgid "Send Message"
+msgstr "Mesajı gönder"
+
+#: comments.php:48
+msgid "Logged in as"
+msgstr "Giriş yapıldı "
+
+#: comments.php:26
+msgid "Comments are closed"
+msgstr "Yorumlar kapalı"
+
+#: comments.php:22
+msgid "Newer Comments &rarr;"
+msgstr "Yeni yorumlar &arr;"
+
+#: comments.php:21
+msgid "&larr; Older Comments"
+msgstr "&arr; Eski yorumlar"
+
+#: comments.php:20
+msgid "Comment navigation"
+msgstr "Yorum dolaşımı"
+
+#: comments.php:10
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "&ldquo;%2$s&rdquo; üzerine bir düşünce"
+msgstr[1] "&ldquo;%2$s&rdquo; üzerine %1$s düşünce"
+
+#: comments.php:2
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr "Bu yazı parola korumalı. Yorumları görmek için parola girin."
+
+#: archive.php:48 author.php:38 category.php:39 functions.php:87
+#: index-blog.php:46 index.php:42 search.php:41 tag.php:38
+msgid "Read More"
+msgstr "Daha fazlasını oku"
+
+#: archive.php:16
+msgid "Blog Archive"
+msgstr "Blog arşivi"
+
+#: archive.php:14
+msgid "Yearly Archive"
+msgstr "Yıllık arşiv"
+
+#: archive.php:12
+msgid "Monthly Archive"
+msgstr "Aylık arşiv"
+
+#: archive.php:10
+msgid "Daily Archive"
+msgstr "Günlük arşiv"
+
+#: 404.php:22
+msgid "We are sorry, but the page you are looking for does not exist."
+msgstr "Üzgünüz ancak aradığınız sayfa mevcut değil."
+
+#: 404.php:21
+msgid "Oops! Page not found"
+msgstr "Off! Bu sayfa bulunamadı"
+
+#: 404.php:8 404.php:20 functions/breadcrumbs/breadcrumbs.php:93
+msgid "Error 404"
+msgstr "Hata 404"
+
+#. Author URI of the plugin/theme
+msgid "http://www.webriti.com"
+msgstr "http://www.webriti.com"
+
+#. Theme URI of the plugin/theme
+msgid "http://webriti.com/wallstreet-lite-version-details-page/"
+msgstr "http://webriti.com/wallstreet-lite-version-details-page/"
+
+#. Author of the plugin/theme
+msgid "webriti"
+msgstr "webriti"

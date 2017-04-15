@@ -1,0 +1,44 @@
+# Translation of Themes - Wallstreet Light in Turkish
+# This file is distributed under the same license as the Themes - Wallstreet Light package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-01-25 13:52:13+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: GlotPress/2.3.0-alpha\n"
+"Language: tr\n"
+"Project-Id-Version: Themes - Wallstreet Light\n"
+
+#. Description of the plugin/theme
+msgid "A Business theme which is ideal for creating a corporate / business website. Wallstreet Light theme is a child theme of Wallstreet theme and it is the lite color variation. Those who need the white background based theme they can use this child  theme and if you want dark background based then directly use the parent theme. Wallstreet Light theme comes with Spanish translation. Other translations / locals yet to come."
+msgstr "Kurumsal / işletme web sitesi oluşturmak için ideal olan bir iş teması. Wallstreet Light teması Wallstreet temasının alt temasıdır ve onun lite renk varyasyonudur. Beyaz zeminli temaya ihtiyaç duyanlar bu alt temayı kullanabilir ve eğer karanlık arka plan isterseniz doğrudan ana temayı kullanın. Wallstreet Light teması Türkçe çeviri ile gelir."
+
+#. Theme Name of the plugin/theme
+msgid "Wallstreet Light"
+msgstr "Wallstreet Light"
+
+#: blog-fullwidth.php:49
+msgid "Page"
+msgstr "Sayfa"
+
+#. Template Name of the plugin/theme
+msgid "Blog-FullWidth"
+msgstr "Blog tam genişlik"
+
+#: blog-fullwidth.php:48
+msgid "Read More"
+msgstr "Daha fazlasını oku"
+
+#. Author URI of the plugin/theme
+msgid "http://www.webriti.com"
+msgstr "http://www.webriti.com"
+
+#. Author of the plugin/theme
+msgid "webriti"
+msgstr "webriti"
+
+#. Theme URI of the plugin/theme
+msgid "http://webriti.com/wallstreet-lite-version-details-page/"
+msgstr "http://webriti.com/wallstreet-lite-version-details-page/"

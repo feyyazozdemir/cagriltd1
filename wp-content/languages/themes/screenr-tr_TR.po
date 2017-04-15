@@ -1,0 +1,1358 @@
+# Translation of Themes - Screenr in Turkish
+# This file is distributed under the same license as the Themes - Screenr package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-02-13 11:44:39+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: GlotPress/2.3.0-alpha\n"
+"Language: tr\n"
+"Project-Id-Version: Themes - Screenr\n"
+
+#. Description of the plugin/theme
+msgid "Big - Bold and stylish, Screenr is a multiuse fullscreen theme well suited for business, portfolio, digital agency, product showcase, freelancers and everyone else who appreciate good design. Also with the flexible of the header and navigation, it can be use for one page or multiple pages website. The theme was built on Bootstrap 4, so you know it contains clean, precise code that makes for a highly streamlined site. (Live preview : http://www.famethemes.com/preview/?theme=Screenr)"
+msgstr "Screenr iş, portfolyo, dijital ajans, ürün vitrini, serbest çalışanlar ve iyi tasarım için teşekkür eden herkes için çok uygun, tam ekran, büyük, kalın ve şık  bir temadır. Ayrıca esnek üst kısım ve dolaşım menüsü ile tek veya çoklu sayfalı web sitesi için kullanılabilir. Tema Bootstrap 4 üzerine inşa edildi, bu nedenle oldukça akıcı bir site oluşturmak için temiz ve hassas kod içerdiğini biliyorsunuz. (Canlı ön izleme : http://www.famethemes.com/preview/?theme=Screenr)"
+
+#: inc/dashboard.php:482
+msgid "How can I contribute?"
+msgstr "Nasıl katkıda bulunabilirim?"
+
+#: inc/dashboard.php:324
+msgid "Create a support ticket"
+msgstr "Bir destek kaydı oluştur"
+
+#: inc/dashboard.php:467
+msgid "FameThemes Demo Importer"
+msgstr "Famethemes demo içe aktarıcı"
+
+#: inc/dashboard.php:465
+msgid "Hey, you will need to install and activate the %1$s plugin first."
+msgstr "Hey, ilk önce %1$s eklentisini kurmanız ve etkinleştirmeniz gerekecek."
+
+#: inc/dashboard.php:350
+msgid "Recommend Plugins"
+msgstr "Önerilen eklentiler"
+
+#: inc/dashboard.php:225
+msgid "Details"
+msgstr "Detaylar"
+
+#: inc/dashboard.php:205 inc/dashboard.php:449
+msgid "Active Now"
+msgstr "Şimdi etkin"
+
+#: inc/dashboard.php:183 inc/dashboard.php:427
+msgid "Install Now"
+msgstr "Şimdi kur"
+
+#: inc/customizer.php:2997
+msgid "Upgrade to Screenr Plus to unlock this feature."
+msgstr "Bu özelliğin kilidini açmak için Screenr Plus'a yükseltin."
+
+#: inc/customizer.php:1862
+msgid "Enable Lightbox"
+msgstr "Lightboxı etkinleştir"
+
+#: inc/customizer.php:1848
+msgid "Number items"
+msgstr "Öge sayısı"
+
+#: inc/customizer.php:1823
+msgid "Layout columns"
+msgstr "Yerleşim sütunları"
+
+#: inc/customizer.php:1807
+msgid "Row Height"
+msgstr "Satır yüksekliği"
+
+#: inc/customizer.php:1791
+msgid "Item Spacing"
+msgstr "Öge aralığı"
+
+#: inc/customizer.php:1777
+msgid "Masonry"
+msgstr "Yığma"
+
+#: inc/customizer.php:1776
+msgid "Justified"
+msgstr "İki yana yaslı"
+
+#: inc/customizer.php:1775
+msgid "Slider"
+msgstr "Kaydırıcı"
+
+#: inc/customizer.php:1774
+msgid "Carousel"
+msgstr "Karusel"
+
+#: inc/customizer.php:1773
+msgid "Grid"
+msgstr "Izgara"
+
+#: inc/customizer.php:1768
+msgid "Display"
+msgstr "Gösterim"
+
+#: inc/customizer.php:1754
+msgid "Full Width"
+msgstr "Tam genişlik"
+
+#: inc/customizer.php:1753
+msgid "Default, inside container"
+msgstr "Varsayılan, iç kapsayıcı"
+
+#: inc/customizer.php:1748
+msgid "Layout"
+msgstr "Yerleşim"
+
+#: inc/customizer.php:1734
+msgid "Select a page which have content contain [gallery] shortcode."
+msgstr "[gallery] kısa kodunu içeren bir sayfa seç."
+
+#: inc/customizer.php:1729
+msgid "Select Gallery Page"
+msgstr "Galeri sayfasını seç"
+
+#: inc/customizer.php:1712
+msgid "Page"
+msgstr "Sayfa"
+
+#: inc/customizer.php:1707
+msgid "Select Gallery Source"
+msgstr "Galeri kaynağını seç"
+
+#: inc/customizer.php:1680
+msgid "Section Description"
+msgstr "Bölüm açıklaması"
+
+#: inc/customizer.php:1664
+msgid "Section Subtitle"
+msgstr "Bölüm alt başlığı"
+
+#: inc/customizer.php:1649
+msgid "Section Title"
+msgstr "Bölüm başlığı"
+
+#: inc/customizer.php:1629
+msgid "gallery"
+msgstr "galeri"
+
+#: inc/customizer.php:1593 inc/customizer.php:1644
+#: section-parts/section-gallery.php:3
+msgid "Gallery"
+msgstr "Galeri"
+
+#: functions.php:106
+msgid "Contact Form 7"
+msgstr "Contact Form 7"
+
+#: inc/dashboard.php:296
+msgid "One Click Demo Import"
+msgstr "Tek tıklama ile demo içe aktarma"
+
+#: inc/dashboard.php:151
+msgid "Import Demo Data"
+msgstr "Demo veriyi içe aktar"
+
+#: inc/dashboard.php:151
+msgid "Save time by import our demo data, your website will be set up and ready to customize in minutes. %s"
+msgstr "Demo verilerimizi içe aktararak zamandan kazanın, web siteniz kurulacak ve birkaç dakika içinde özelleşmeye hazır olacak. %s"
+
+#: inc/customizer.php:737
+msgid "Footer copyright border top color"
+msgstr "Alt kısım telif hakkı üst kenarlık rengi"
+
+#: inc/customizer.php:719
+msgid "Footer widgets link hover color"
+msgstr "Alt kısım bileşenleri bağlantı vurgu rengi"
+
+#: inc/customizer.php:701
+msgid "Footer widgets link color"
+msgstr "Alt kısım bileşenleri bağlantı rengi"
+
+#: inc/customizer.php:665
+msgid "Footer widgets heading"
+msgstr "Alt kısım bileşenleri başlığı"
+
+#: inc/customizer.php:550
+msgid "Select your site layout"
+msgstr "Site yerleşimini seç"
+
+#: inc/customizer.php:548
+msgid "Left Sidebar"
+msgstr "Sol kenar çubuğu"
+
+#: inc/customizer.php:547
+msgid "Right Sidebar"
+msgstr "Sağ kenar çubuğu"
+
+#: inc/customizer.php:543
+msgid "Site Layout"
+msgstr "Site yerleşimi"
+
+#: inc/dashboard.php:504
+msgid "Rate our theme on <a target=\"_blank\" href=\"https://wordpress.org/support/theme/screenr/reviews/?filter=5#postform\">WordPress.org</a>. We'd really appreciate it!"
+msgstr "Temamızı <a target=\"_blank\" href=\"https://wordpress.org/support/theme/screenr/reviews/?filter=5#postform\">WordPress.org</a> üzerinde değerlendirin. Gerçekten minnettar oluruz."
+
+#: inc/dashboard.php:503
+msgid "Are you enjoying Screenr theme?"
+msgstr "Screenr temasından hoşlanıyor musun?"
+
+#: inc/dashboard.php:497
+msgid "Translate Screenr"
+msgstr "Screenr'ı çevirin"
+
+#: inc/dashboard.php:495
+msgid "Get involved at WordPress.org."
+msgstr "WordPress.org'a katılın."
+
+#: inc/dashboard.php:494
+msgid "Are you a polyglot? Want to translate Screenr into your own language?"
+msgstr "Bir polyglot musunuz? Screenr'ı kendi dilinize çevirmek ister misiniz?"
+
+#: inc/dashboard.php:488
+msgid "Screenr on GitHub"
+msgstr "GitHub üzerinde Screenr"
+
+#: inc/dashboard.php:486
+msgid "GitHub is the place to go!"
+msgstr "GitHub gidilecek yer!"
+
+#: inc/dashboard.php:485
+msgid "Found a bug? Want to contribute with a fix or create a new feature?"
+msgstr "Hata mı buldunuz? Bir düzeltme ile katkıda bulunmak mı istersiniz, yoksa yeni bir özellik oluşturmak mı?"
+
+#: inc/dashboard.php:297
+msgid "Contribute"
+msgstr "Katkıda bulun"
+
+#: inc/customizer.php:2836
+msgid "Call To Action"
+msgstr "Eylem çağrısı"
+
+#: inc/customizer.php:2826
+msgid "Pricing"
+msgstr "Fiyatlandırma"
+
+#: inc/customizer.php:2816
+msgid "Team"
+msgstr "Ekip"
+
+#: inc/customizer.php:2806
+msgid "Testimonials"
+msgstr "Referanslar"
+
+#: inc/customizer.php:2796
+msgid "Projects"
+msgstr "Projeler"
+
+#: inc/customizer.php:866
+msgid "Check out the %1s version for full control over the section styling which includes background color, image, video, parallax effect, custom style and more ..."
+msgstr "Arka plan rengi, görseli, video,su paralaks efekti, özel biçimlendirmesi ve daha fazlasını içeren bölüm biçimlendirme üzerinde tam kontrol için %1s sürümüne göz atın!"
+
+#: inc/customizer.php:864
+msgid "Advandced Section Styling"
+msgstr "Gelişmiş bölüm biçimlendirme"
+
+#: inc/customizer.php:851
+msgid "Check out the %1s version for full control over the frontpage SECTIONS ORDER!"
+msgstr "Ön sayfa bölüm sırasının üzerinde tam kontrol için %1s sürümüne göz atın!"
+
+#: inc/customizer.php:849
+msgid "Drag & Drop Section Orders"
+msgstr "Sürükle ve bırak bölüm sıralaması"
+
+#: inc/customizer.php:834
+msgid "Frontpage Sections Order & Styling"
+msgstr "Ön sayfa bölümleri sıralama ve biçimlendirme"
+
+#: inc/customizer.php:802 inc/customizer.php:819
+msgid "Custom CSS"
+msgstr "Özel CSS"
+
+#: inc/customizer.php:791
+msgid "Upgrade to %1s in order to change site footer copyright information and hide theme author link via Customizer."
+msgstr "Site alt kısım telif hakkı bilgilerini değiştirmek ve Özelleştirici aracılığıyla tema yazarını gizlemek için %1s temasına yükseltin."
+
+#: inc/customizer.php:789
+msgid "Change Footer Copyright Text and Hide Theme Author Link"
+msgstr "Alt kısım telif hakkı metnini değiştir ve tema yazar bağlantısını gizle"
+
+#: inc/customizer.php:132 inc/customizer.php:2799 inc/customizer.php:2809
+#: inc/customizer.php:2819 inc/customizer.php:2829 inc/customizer.php:2839
+msgid "Go Plus"
+msgstr "Plus'a git"
+
+#: inc/customizer.php:129
+msgid "Typography"
+msgstr "Tipografi"
+
+#: inc/customizer.php:118
+msgid "Primary color"
+msgstr "Birincil renk"
+
+#: inc/customizer.php:99
+msgid "Styling"
+msgstr "Biçimlendirme"
+
+#: inc/customizer.php:74
+msgid "Upgrade Now"
+msgstr "Şimdi yükselt"
+
+#. Template Name of the plugin/theme
+msgid "Full-Width Page"
+msgstr "Tam genişlikte sayfa"
+
+#: inc/extras.php:779
+msgid "%1$s by %2$s"
+msgstr "%2$s tarafından %1$s"
+
+#: inc/extras.php:776
+msgid "Copyright %1$s %2$s %3$s. All Rights Reserved."
+msgstr "Tüm hakları saklıdır %1$s %2$s %3$s."
+
+#: inc/extras.php:629
+msgid "%s 404 Not Found!"
+msgstr "%s 404 bulunamadı!"
+
+#: inc/dashboard.php:286
+msgid "Be sure to check out the %1s or %2s to see some of the possibilities."
+msgstr "Olasılıkların bazılarını görmek için %1s veya %2s temasını kontrol ettiğinizden emin olun."
+
+#: inc/dashboard.php:283
+msgid "Big - Bold and stylish, Screenr is a multiuse parallax fullscreen theme well suited for business, portfolio, digital agency, freelancers and everyone else who appreciate good design."
+msgstr "Büyük, kalın ve şık olan Screenr, iş, portföy, dijital ajans, serbest çalışanlar ve iyi tasarıma teşekkür eden herkes için çok uygun bir çok kullanımlı paralaks tam ekran temadır."
+
+#: inc/customizer.php:1514 section-parts/section-videolightbox.php:4
+msgid "Parallax & Video Lightbox - Perfected"
+msgstr "Paralaks ve video lightbox - mükemmelleştirildi"
+
+#: inc/customizer.php:1233 inc/customizer.php:2002 inc/customizer.php:2196
+#: inc/customizer.php:2373 inc/customizer.php:2767
+msgid "Upgrade to %1$s to be able to add more items and unlock other premium features!"
+msgstr "Daha fazla öge ekleyebilmek ve diğer ayrıcalıklı özelliklerin kilidini açmak için %1$s sürümüne yükseltin!"
+
+#: inc/customizer.php:1042
+msgid "Check this box to enable parallax effect for hero section."
+msgstr "Hero bölümünde paralaks efektini etkinleştirmek için bu kutuyu işaretle."
+
+#: inc/customizer.php:1040
+msgid "Enable parallax effect"
+msgstr "Paralaks efektini etkinleştir"
+
+#: inc/customizer.php:983
+msgid "Content"
+msgstr "İçerik"
+
+#: inc/customizer.php:72 inc/customizer.php:980 inc/customizer.php:1233
+#: inc/customizer.php:2002 inc/customizer.php:2196 inc/customizer.php:2373
+#: inc/customizer.php:2767
+msgid "Screenr Plus"
+msgstr "Screenr Plus"
+
+#: inc/customizer.php:980
+msgid "Upgrade to %1$s to be able to add more items (display as a slider) and self-hosted background video option."
+msgstr "Daha fazla öge (kaydırıcı olarak görüntüleme) ve kendi barındırdığınız arka plan video seçeneği ekleyebilmek için %1$s temasına yükseltin."
+
+#. Template Name of the plugin/theme
+msgid "Frontpage"
+msgstr "Ön sayfa"
+
+#. translators: %s: Name of current post.
+#: template-parts/content-single.php:39
+msgid "Continue reading %s"
+msgstr "Okumaya devam et %s"
+
+#: template-parts/content-search.php:29 template-parts/content.php:36
+msgid "read more"
+msgstr "daha fazlasını oku"
+
+#: template-parts/content-page.php:18 template-parts/content-single.php:44
+msgid "Pages:"
+msgstr "Sayfalar:"
+
+#: template-parts/content-none.php:31
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Görünen o ki bakındığınız her ne ise bulamıyoruz. Belki arama yardımcı olabilir."
+
+#: template-parts/content-none.php:25
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Üzgünüz, arama terimlerinizle hiçbir şey eşleşmedi. Lütfen farklı anahtar kelimelerle tekrar deneyin."
+
+#: template-parts/content-none.php:21
+msgid "Get started here"
+msgstr "Buradan başlayın"
+
+#: template-parts/content-none.php:21
+msgid "Ready to publish your first post? %1$s."
+msgstr "İlk yazınızı yayımlamak için hazır mısınız?  %1$s."
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Hiçbir şey bulunamadı"
+
+#: section-parts/section-services.php:3
+msgid "Our Services"
+msgstr "Hizmetlerimiz"
+
+#: section-parts/section-news.php:70
+msgid "Load More News"
+msgstr "Daha fazla haber yükle"
+
+#: section-parts/section-news.php:67
+msgid "Read Our Blog"
+msgstr "Blogumuzu okuyun"
+
+#: inc/template-tags.php:325
+msgid "Your comment is awaiting moderation."
+msgstr "Yorumunuz denetim için bekliyor."
+
+#: inc/template-tags.php:319
+msgid "Edit"
+msgstr "Düzenle:"
+
+#. translators: 1: date, 2: time
+#: inc/template-tags.php:318
+msgid "Reply"
+msgstr "Yanıtla"
+
+#: inc/template-tags.php:310
+msgid "Post author"
+msgstr "Yazar"
+
+#: inc/template-tags.php:291
+msgid "(Edit)"
+msgstr "(Düzenle)"
+
+#: inc/template-tags.php:291
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: inc/template-tags.php:216 template-parts/content-grid.php:40
+msgid "Read On"
+msgstr "Okumaya devam et"
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:131 template-parts/content-page.php:29
+msgid "Edit %s"
+msgstr "%s düzenle"
+
+#: inc/template-tags.php:124
+msgid "% Comments"
+msgstr "% yorum"
+
+#: inc/template-tags.php:124
+msgid "1 Comment"
+msgstr "1 Yorum"
+
+#: inc/template-tags.php:124
+msgid "Leave a comment"
+msgstr "Bir yorum bırakın"
+
+#: inc/template-tags.php:118
+msgid "Tagged %1$s"
+msgstr "%1$s olarak etiketlendi"
+
+#: inc/template-tags.php:112
+msgid "Posted in %1$s"
+msgstr "%1$s içinde yayınlandı"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:110 inc/template-tags.php:116
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:63
+msgctxt "category"
+msgid "Category: %s"
+msgstr "Kategori: %s"
+
+#: inc/template-tags.php:54
+msgctxt "post author"
+msgid "Author: %s"
+msgstr "Yazar: %s"
+
+#: inc/extras.php:746
+msgid "This widget area is currently disabled. You can enable it Customizer &rarr; Theme Options &rarr; Footer section."
+msgstr "Bu bileşen alanı şu an devre dışı. Özelleştirici &rarr; Tema seçenekleri &rarr; Alt kısım bölümü'nden etkinleştirebilirsiniz."
+
+#: inc/extras.php:625
+msgid "Search Results for: %s"
+msgstr "%s için arama sonucu"
+
+#: inc/dashboard.php:412
+msgid "Hooray! There are no required actions for you right now."
+msgstr "Yaşasın! Sizin için şu anda gerekli bir işlem yok."
+
+#: inc/dashboard.php:411
+msgid "Keep update with %s"
+msgstr "%s ile güncel tutun"
+
+#: inc/dashboard.php:401
+msgid "Change homepage page template"
+msgstr "Ana sayfa şablonunu değiştir"
+
+#: inc/dashboard.php:388
+msgid "In order to change homepage section contents, you will need to set template \"Frontpage\" for your homepage."
+msgstr "Ana sayfa bölüm içeriklerini değiştirmek yerine, ana sayfanız için şablonu \"Ön sayfa\" olarak ayarlamanız gerekecek."
+
+#: inc/dashboard.php:385
+msgid "Set your homepage page template to \"Frontpage\"."
+msgstr "Ana sayfa şablonunuzu \"Ön sayfa\" olarak ayarlayın."
+
+#: inc/dashboard.php:371 inc/dashboard.php:395
+msgid "Setup front page displays"
+msgstr "Ön sayfa görünümünü yapılandır"
+
+#: inc/dashboard.php:368
+msgid "In order to have the one page look for your website, please go to Customize -&gt; Static Front Page and switch \"Front page displays\" to \"A static page\"."
+msgstr "Web siteniz için tek sayfa görünümüne sahip olmak için Özelleştir -&gt; Sabit ön sayfa ekranına gidin ve \"Ön sayfa görünümü\"nü \"Sabit bir sayfa\" olarak değiştirin."
+
+#: inc/dashboard.php:366
+msgid "Switch \"Front page displays\" to \"A static page\""
+msgstr "\"Ön sayfa görünümü\"nü \"Sabit bir sayfa\" olarak değiştir"
+
+#: inc/dashboard.php:322
+msgid "Support for %s WordPress theme is conducted through FameThemes support ticket system."
+msgstr "%s WordPress teması için destek, FameThemes destek kaydı sistemi ile gerçekleştirilir."
+
+#: inc/dashboard.php:321
+msgid "Having Trouble, Need Support?"
+msgstr "Sorun yaşıyorsunuz, desteğe mi ihtiyacınız var?"
+
+#: inc/dashboard.php:316
+msgid "Screenr Documentation"
+msgstr "Screenr belgelendirmesi"
+
+#: inc/dashboard.php:314
+msgid "Need any help to setup and configure %s? Please have a look at our documentations instructions."
+msgstr "%s kurulumu ve yapılandırması için yardıma mı ihtiyacınız var? Lütfen belgelendirme talimatlarımıza göz atın."
+
+#: inc/dashboard.php:313
+msgid "Theme Documentation"
+msgstr "Tema belgelendirmesi"
+
+#: inc/dashboard.php:309
+msgid "Start Customize"
+msgstr "Özelleştirmeye başla"
+
+#: inc/dashboard.php:307
+msgid "%s supports the Theme Customizer for all theme settings. Click \"Customize\" to start customize your site."
+msgstr "%s tüm tema ayarları için tema özelleştiricisini destekler. Sitenizi özelleştirmek için Özelleştir'e tıklayın."
+
+#: inc/dashboard.php:306
+msgid "Theme Customizer"
+msgstr "Tema özelleştirici"
+
+#: inc/dashboard.php:294
+msgid "Actions Required"
+msgstr "Eylem gerekli"
+
+#. #-#-#-#-#  screenr.pot (Screenr 1.1.3)  #-#-#-#-#
+#. Theme Name of the plugin/theme
+#: inc/dashboard.php:293
+msgid "Screenr"
+msgstr "Screenr"
+
+#: inc/dashboard.php:281
+msgid "Welcome to Screenr - Version %1s"
+msgstr "Screenr %1$ sürümüne hoş geldiniz"
+
+#: inc/dashboard.php:141
+msgid "Welcome Page"
+msgstr "Hoş geldin sayfası"
+
+#: inc/dashboard.php:141
+msgid "Welcome! Thank you for choosing %1$s! To fully take advantage of the best our theme can offer please make sure you visit our %2$s"
+msgstr "Hoş geldiniz. %1$s temasını seçtiğiniz için teşekkürler. Temamızın sağladığı tüm imkanlardan faydalanabilmek için lütfen %2$s ziyaret edin."
+
+#: inc/dashboard.php:122
+msgid "Screenr Dashboard"
+msgstr "Screenr başlangıç ekranı"
+
+#: inc/dashboard.php:119
+msgid "Screenr Theme"
+msgstr "Screenr teması"
+
+#: inc/dashboard.php:117
+msgid "Screenr Theme %s"
+msgstr "Screenr teması %s"
+
+#: inc/dashboard.php:115
+msgid "%1$s action required"
+msgid_plural "%1$s actions required"
+msgstr[0] "%1$s eylem gerekli"
+msgstr[1] "%1$s eylem gerekli"
+
+#: inc/customizer.php:2866
+msgid "Font Awesome"
+msgstr "Font Awesome"
+
+#: inc/customizer.php:2862
+msgid "Search"
+msgstr "Ara"
+
+#: inc/customizer.php:2784
+msgid "Custom url"
+msgstr "Özel bağlantı"
+
+#: inc/customizer.php:2782
+msgid "URL"
+msgstr "Bağlantı"
+
+#: inc/customizer.php:2761
+msgid "Contact Detail Items"
+msgstr "İletişim detayı ögeleri"
+
+#: inc/customizer.php:2739
+msgid "You can install any contact form plugin such as Contact Form 7 and then paste the shortcode of the form here."
+msgstr "Contact Form 7 gibi herhangi bir iletişim formu eklentisini kuruabilir ve daha sonra kısa kodunu buraya yapıştırabilirsiniz."
+
+#: inc/customizer.php:2736
+msgid "Content:"
+msgstr "İçerik:"
+
+#: inc/customizer.php:2704 section-parts/section-contact.php:5
+msgid "Fill out the form below and you will hear from us shortly."
+msgstr "Aşağıdaki formu doldurun ve bizden kısa süre sonra haber alacaksınız."
+
+#: inc/customizer.php:2690 section-parts/section-contact.php:4
+msgid "Keep in touch"
+msgstr "Temasa geçin"
+
+#: inc/customizer.php:2676 section-parts/section-contact.php:3
+msgid "Contact Us"
+msgstr "Bize ulaşın"
+
+#: inc/customizer.php:2661
+msgid "contact"
+msgstr "iletişim"
+
+#: inc/customizer.php:2625
+msgid "Contact"
+msgstr "İletişim"
+
+#: inc/customizer.php:2614
+msgid "Link to your posts page."
+msgstr "Yazılar sayfasınza bağlantı."
+
+#: inc/customizer.php:2612
+msgid "Custom load more posts link"
+msgstr "Özel daha fazla yazı yükle bağlantısı"
+
+#: inc/customizer.php:2599
+msgid "Custom load more button label"
+msgstr "Özel daha fazla yükle düğme etiketi"
+
+#: inc/customizer.php:2586
+msgid "Hide"
+msgstr "Gizle"
+
+#: inc/customizer.php:2585
+msgid "Custom link"
+msgstr "Özel bağlantı"
+
+#: inc/customizer.php:2584
+msgid "Ajax load"
+msgstr "Ajax yüklemesi"
+
+#: inc/customizer.php:2580
+msgid "Load more posts button"
+msgstr "Daha fazla yazı yükle düğmesi"
+
+#: inc/customizer.php:2545
+msgid "How many posts you want to show."
+msgstr "Kaç yane yazı göstermek istersiniz."
+
+#: inc/customizer.php:2543
+msgid "Number Posts:"
+msgstr "Yazı adedi:"
+
+#: inc/customizer.php:2471
+msgid "news"
+msgstr "haberler"
+
+#: inc/customizer.php:2435 inc/customizer.php:2485
+#: section-parts/section-news.php:2
+msgid "Latest News"
+msgstr "Son haberler"
+
+#: inc/customizer.php:2398
+msgid "Custom background color"
+msgstr "Özel arka plan rengi"
+
+#: inc/customizer.php:2394
+msgid "After number"
+msgstr "Sayıdan sonra"
+
+#: inc/customizer.php:2390
+msgid "Before number"
+msgstr "Sayıdan önce"
+
+#: inc/customizer.php:2381
+msgid "Number"
+msgstr "Sayı"
+
+#: inc/customizer.php:2313 section-parts/section-counter.php:3
+msgid "Some Fun Facts about our agency?"
+msgstr "Ajansımız hakkında bazı eğlenceli gerçekler."
+
+#: inc/customizer.php:2284
+msgid "counter"
+msgstr "sayaç"
+
+#: inc/customizer.php:2248
+msgid "Counter"
+msgstr "Sayaç"
+
+#: inc/customizer.php:2230
+msgid "Items layout settings"
+msgstr "Ögelerin yerleşim seçenekleri"
+
+#: inc/customizer.php:2211
+msgid "Client URL"
+msgstr "Müşteri bağlantısı"
+
+#: inc/customizer.php:2206
+msgid "Client logo"
+msgstr "Müşteri logosu"
+
+#: inc/customizer.php:2201 inc/customizer.php:2377 inc/customizer.php:2772
+msgid "Title"
+msgstr "Başlık"
+
+#: inc/customizer.php:2159
+msgid "Section description:"
+msgstr "Bölüm açıklaması:"
+
+#: inc/customizer.php:2139 section-parts/section-clients.php:3
+msgid "We had been featured on"
+msgstr "Üzerinde yer alıyorduk"
+
+#: inc/customizer.php:2110
+msgid "clients"
+msgstr "müşteriler"
+
+#: inc/customizer.php:2074 inc/customizer.php:2190
+msgid "Clients"
+msgstr "Müşteriler"
+
+#: inc/customizer.php:2057 inc/customizer.php:2418
+msgid "Number columns to display."
+msgstr "Gösterilecek sütun adedi."
+
+#: inc/customizer.php:2035 section-parts/section-services.php:69
+msgid "More detail &rarr;"
+msgstr "Daha fazla detay &rarr;"
+
+#: inc/customizer.php:2027
+msgid "Show readmore link"
+msgstr "Daha fazla oku bağlantısını göster"
+
+#: inc/customizer.php:2018
+msgid "No thumbnail"
+msgstr "Küçük resim yok"
+
+#: inc/customizer.php:2016
+msgid "Featured image top"
+msgstr "Öze çıkan görsel üzeri"
+
+#: inc/customizer.php:2013
+msgid "Item style"
+msgstr "Öge biçimi"
+
+#: inc/customizer.php:1947 inc/customizer.php:2144 inc/customizer.php:2318
+#: inc/customizer.php:2503 inc/customizer.php:2695
+msgid "Section subtitle:"
+msgstr "Bölüm alt başlığı:"
+
+#: inc/customizer.php:1942 inc/customizer.php:2498
+#: section-parts/section-news.php:3 section-parts/section-services.php:4
+msgid "Section subtitle"
+msgstr "Bölüm alt başlığı"
+
+#: inc/customizer.php:1933 inc/customizer.php:2130 inc/customizer.php:2304
+#: inc/customizer.php:2490 inc/customizer.php:2681
+msgid "Section title:"
+msgstr "Bölüm başlığı:"
+
+#: inc/customizer.php:1913
+msgid "services"
+msgstr "hizmetler"
+
+#: inc/customizer.php:1877 inc/customizer.php:1928
+msgid "Services"
+msgstr "Hizmetler"
+
+#: inc/customizer.php:1562
+msgid "Parallax image:"
+msgstr "Paralaks görseli:"
+
+#: inc/customizer.php:1546
+msgid "Youtube or Vimeo url, e.g: https://www.youtube.com/watch?v=xxxxx"
+msgstr "Youtube veya Vimeo bağlantısı, örn: https://www.youtube.com/watch?v=xxxxx"
+
+#: inc/customizer.php:1544
+msgid "Video URL:"
+msgstr "Video bağlantısı:"
+
+#: inc/customizer.php:1521
+msgid "Short text about this section."
+msgstr "Bu bölüm hakkında kısa metin."
+
+#: inc/customizer.php:1519
+msgid "Title:"
+msgstr "Başlık:"
+
+#: inc/customizer.php:1498
+msgid "video"
+msgstr "video"
+
+#: inc/customizer.php:1462
+msgid "Video Lightbox"
+msgstr "Video lightbox"
+
+#: inc/customizer.php:1451
+msgid "Select content type of page above to display on this section."
+msgstr "Bu bölümde gösterilecek sayfa tipini yukarıdan seçin."
+
+#: inc/customizer.php:1449
+msgid "Page Content"
+msgstr "Sayfa içeriği"
+
+#: inc/customizer.php:1448
+msgid "Page excerpt"
+msgstr "Sayfa özeti"
+
+#: inc/customizer.php:1444
+msgid "Page content type:"
+msgstr "Sayfa içerik tipi:"
+
+#: inc/customizer.php:1431
+msgid "Select page to display on this section."
+msgstr "Bu bölümde gösterilecek sayfayı seç."
+
+#: inc/customizer.php:1427
+msgid "Display page:"
+msgstr "Görüntüleme sayfası:"
+
+#: inc/customizer.php:1396 section-parts/section-about.php:5
+msgid "We provide creative solutions that get attention and meaningful to clients around the world."
+msgstr "Tüm dünyadaki müşterilere dikkat çekici ve anlamlı olan yaratıcı çözümler sunuyoruz."
+
+#: inc/customizer.php:1368 section-parts/section-about.php:3
+msgid "About us"
+msgstr "Hakkımızda"
+
+#: inc/customizer.php:1353
+msgid "about"
+msgstr "hakkında"
+
+#: inc/customizer.php:1317
+msgid "About"
+msgstr "Hakkında"
+
+#: inc/customizer.php:1300 inc/customizer.php:2232 inc/customizer.php:2560
+#: inc/customizer.php:2582
+msgid "Number item per row to display."
+msgstr "Her satırda gösterilecek öge adedi."
+
+#: inc/customizer.php:528 inc/customizer.php:1298 inc/customizer.php:2055
+#: inc/customizer.php:2416 inc/customizer.php:2558
+msgid "Layout Settings"
+msgstr "Yerleşim seçenekleri"
+
+#: inc/customizer.php:1272 section-parts/section-features.php:44
+#: section-parts/section-features.php:94
+msgid "Read More"
+msgstr "Daha fazlasını oku"
+
+#: inc/customizer.php:1270 inc/customizer.php:2033
+msgid "Read more text"
+msgstr "Daha fazla oku metni"
+
+#: inc/customizer.php:1264
+msgid "Show readmore button"
+msgstr "Daha fazla oku düğmesini göster"
+
+#: inc/customizer.php:1260
+msgid "Paste svg icon code here"
+msgstr "SVG simge kodunu buraya yapıştırın"
+
+#: inc/customizer.php:1253 inc/customizer.php:2017 inc/customizer.php:2022
+#: inc/customizer.php:2385 inc/customizer.php:2777
+msgid "Font icon"
+msgstr "Yazı tipi simgesi"
+
+#: inc/customizer.php:1249 inc/customizer.php:1258
+msgid "SVG icon code"
+msgstr "SVG simge kodu"
+
+#: inc/customizer.php:1248
+msgid "Font Icon"
+msgstr "Yazı tipi simgesi"
+
+#: inc/customizer.php:1247
+msgid "Featured image"
+msgstr "Öne çıkan görsel"
+
+#: inc/customizer.php:1244
+msgid "Thumbnail type"
+msgstr "Küçük resim tipi"
+
+#: inc/customizer.php:1238 inc/customizer.php:2007
+msgid "Content page"
+msgstr "İçerik sayfası"
+
+#: inc/customizer.php:1227 inc/customizer.php:1996 inc/customizer.php:2367
+msgid "Content Items"
+msgstr "İçerik ögeleri"
+
+#: inc/customizer.php:1198 inc/customizer.php:1412 inc/customizer.php:1529
+#: inc/customizer.php:1691 inc/customizer.php:1972 inc/customizer.php:2169
+#: inc/customizer.php:2343 inc/customizer.php:2528 inc/customizer.php:2720
+msgid "Section Content"
+msgstr "Bölüm içeriği:"
+
+#: inc/customizer.php:1188 inc/customizer.php:1402 inc/customizer.php:1962
+#: inc/customizer.php:2333 inc/customizer.php:2518 inc/customizer.php:2710
+msgid "Section Description:"
+msgstr "Bölüm açıklaması:"
+
+#: inc/customizer.php:1173 inc/customizer.php:1387
+msgid "Section Subtitle:"
+msgstr "Bölüm alt başlığı:"
+
+#: inc/customizer.php:1159 inc/customizer.php:1373
+msgid "Section Title:"
+msgstr "Bölüm başlığı:"
+
+#: inc/customizer.php:1139
+msgid "features"
+msgstr "özellikler"
+
+#: inc/customizer.php:1114 inc/customizer.php:1328 inc/customizer.php:1473
+#: inc/customizer.php:1603 inc/customizer.php:1888 inc/customizer.php:2085
+#: inc/customizer.php:2259 inc/customizer.php:2446 inc/customizer.php:2636
+msgid "Section Settings"
+msgstr "Bölüm ayarları"
+
+#: inc/customizer.php:1104
+msgid "Features"
+msgstr "Özellikler"
+
+#: inc/customizer.php:1091
+msgid "The slider content padding bottom in percent (%)."
+msgstr "Kaydırıcı içeriği yüzde (%) olarak alt dolgusu."
+
+#: inc/customizer.php:1075
+msgid "The slider content padding top in percent (%)."
+msgstr "Kaydırıcı içeriği yüzde (%) olarak üst dolgusu."
+
+#: inc/customizer.php:1058
+msgid "Check this box to make hero section full screen."
+msgstr "Hero bölümünü tam ekran yapmak için bu kutuyu işaretle."
+
+#: inc/customizer.php:1056
+msgid "Make hero section full screen"
+msgstr "Hero bölümünü tam ekran yap"
+
+#: inc/customizer.php:1024 inc/customizer.php:1580
+msgid "Background Overlay Color"
+msgstr "Arka plan kaplama rengi"
+
+#: inc/customizer.php:1002
+msgid "Right"
+msgstr "Sağ"
+
+#: inc/customizer.php:1001
+msgid "Left"
+msgstr "Sol"
+
+#: inc/customizer.php:1000
+msgid "Center"
+msgstr "Orta"
+
+#: inc/customizer.php:997
+msgid "Content align"
+msgstr "İçerik hizalama"
+
+#: inc/customizer.php:989
+msgid "Background Image"
+msgstr "Arka plan görseli"
+
+#: inc/extras.php:758
+msgid "Screenr is a multiuse fullscreen WordPress theme."
+msgstr "Screenr çok kullanımlı tam ekran WordPress temasıdır."
+
+#: inc/customizer.php:978 inc/customizer.php:1231 inc/customizer.php:2000
+#: inc/customizer.php:2194 inc/customizer.php:2371 inc/customizer.php:2765
+msgid "[live_title]"
+msgstr "[live_title]"
+
+#: inc/customizer.php:974
+msgid "Hero Item"
+msgstr "Hero ögesi"
+
+#: inc/customizer.php:946 inc/customizer.php:1146 inc/customizer.php:1360
+#: inc/customizer.php:1505 inc/customizer.php:1636 inc/customizer.php:1920
+#: inc/customizer.php:2117 inc/customizer.php:2291 inc/customizer.php:2478
+#: inc/customizer.php:2668
+msgid "The section id, we will use this for link anchor."
+msgstr "Bölüm idsi, bağlantı çapası için kullanacağız."
+
+#: inc/customizer.php:944 inc/customizer.php:1144 inc/customizer.php:1358
+#: inc/customizer.php:1503 inc/customizer.php:1634 inc/customizer.php:1918
+#: inc/customizer.php:2115 inc/customizer.php:2289 inc/customizer.php:2476
+#: inc/customizer.php:2666
+msgid "Section ID:"
+msgstr "Bölüm ID:"
+
+#: inc/customizer.php:939
+msgid "hero"
+msgstr "hero"
+
+#: inc/customizer.php:931 inc/customizer.php:1621
+msgid "Check this box to hide this section."
+msgstr "Bu bölümü gizlemek için bu kutuyu işaratle."
+
+#: inc/customizer.php:929 inc/customizer.php:1130 inc/customizer.php:1344
+#: inc/customizer.php:1489 inc/customizer.php:1619 inc/customizer.php:1904
+#: inc/customizer.php:2101 inc/customizer.php:2275 inc/customizer.php:2462
+#: inc/customizer.php:2652
+msgid "Hide this section?"
+msgstr "Bu bölüm gizlensin mi?"
+
+#: inc/customizer.php:913
+msgid "Hero"
+msgstr "Hero"
+
+#: inc/customizer.php:880 inc/customizer.php:898
+msgid "Frontpage Sections"
+msgstr "Ön sayfa bölümleri"
+
+#: inc/customizer.php:774
+msgid "Footer copyright color"
+msgstr "Alt kısım telif hakkı rengi"
+
+#: inc/customizer.php:756
+msgid "Footer copyright background color"
+msgstr "Alt kısım telif hakkı arka plan rengi"
+
+#: inc/customizer.php:683
+msgid "Footer widgets text color"
+msgstr "Alt kısım bileşenleri metin rengi"
+
+#: inc/customizer.php:647
+msgid "Footer widgets background color"
+msgstr "Alt kısım bileşenleri arka plan rengi"
+
+#: inc/customizer.php:628
+msgid "Custom footer 4 columns width"
+msgstr "Özel alt kısım 4 sütun genişliği"
+
+#: inc/customizer.php:613
+msgid "Custom footer 3 columns width"
+msgstr "Özel alt kısım 3 sütun genişliği"
+
+#: inc/customizer.php:600 inc/customizer.php:615 inc/customizer.php:630
+msgid "Enter int numbers and sum of them must smaller or equal 12, separated by \"+\""
+msgstr "Sayıları girin ve bunların toplamı \"+\" ile ayrılmış şekilde 12 veya daha küçük olmalı"
+
+#: inc/customizer.php:598
+msgid "Custom footer 2 columns width"
+msgstr "Özel alt kısım 2 sütun genişliği"
+
+#: inc/customizer.php:583
+msgid "Disable footer widgets"
+msgstr "Alt kısım bileşenlerini etkisizleştir"
+
+#: inc/customizer.php:577
+msgid "Number footer columns to display."
+msgstr "Gösterilecek alt kısım sütn adedi."
+
+#: inc/customizer.php:575
+msgid "Footer Layout"
+msgstr "Alt kısım yerleşimi"
+
+#: inc/customizer.php:559
+msgid "Footer"
+msgstr "Alt kısım"
+
+#: inc/customizer.php:518
+msgid "Display post category on single post or posts listing page."
+msgstr "Tek yazıda veya yazı listeleme sayfasında, kategoriyi göster."
+
+#: inc/customizer.php:515
+msgid "Display post category"
+msgstr "Yazı kategorisini göster"
+
+#: inc/customizer.php:502
+msgid "Display post comments on single post or posts listing page."
+msgstr "Tek yazıda veya yazı listeleme sayfasında, yorumları göster."
+
+#: inc/customizer.php:499
+msgid "Display post comments"
+msgstr "Yorumları göster"
+
+#: inc/customizer.php:485
+msgid "Display post author on single post or posts listing page."
+msgstr "Tek yazıda veya yazı listeleme sayfasında, yazarı göster."
+
+#: inc/customizer.php:482
+msgid "Display post author"
+msgstr "Yazarı göster"
+
+#: inc/customizer.php:469
+msgid "Display post date on single post or posts listing page."
+msgstr "Tek yazıda veya yazı listeleme sayfasında, yazı tarihini göster."
+
+#: inc/customizer.php:466
+msgid "Display post date"
+msgstr "Yazı tarihini göster"
+
+#: inc/customizer.php:450
+msgid "Disable featured image in single post"
+msgstr "Tek yazıda öne çıkan görseli etkisizleştir"
+
+#: inc/customizer.php:436
+msgid "Custom page header title on single posts."
+msgstr "Tek yazılarda özel sayfa üst kısım başlığı"
+
+#: inc/customizer.php:434
+msgid "Blog title"
+msgstr "Blog başlığı"
+
+#: inc/customizer.php:429 inc/extras.php:620 inc/extras.php:627
+msgid "The Blog"
+msgstr "Blog"
+
+#: inc/customizer.php:419
+msgid "Blog Settings"
+msgstr "Blog ayarları"
+
+#: inc/customizer.php:407
+msgid "The page header padding bottom in percent (%)."
+msgstr "Sayfa üst kısmı yüzde (%) olarak alt dolgusu"
+
+#: inc/customizer.php:405 inc/customizer.php:1089
+msgid "Padding bottom"
+msgstr "Alt dolgu"
+
+#: inc/customizer.php:392
+msgid "The page header padding top in percent (%)."
+msgstr "Sayfa üst kısmı yüzde (%) olarak üst dolgusu"
+
+#: inc/customizer.php:390 inc/customizer.php:1073
+msgid "Padding top"
+msgstr "Üst dolgu"
+
+#: inc/customizer.php:374
+msgid "Background image overlay color"
+msgstr "Arka plan kaplama rengi"
+
+#: inc/customizer.php:361
+msgid "Background color"
+msgstr "Arka plan rengi"
+
+#: inc/customizer.php:343
+msgid "Responsive Menu Button Color"
+msgstr "Duyarlı menü düğme rengi"
+
+#: inc/customizer.php:330
+msgid "Only set if you don't use an image logo."
+msgstr "Yalnızca bir logo kullanmazsanız ayarlayın."
+
+#: inc/customizer.php:328
+msgid "Site Title Color"
+msgstr "Site başlık rengi"
+
+#: inc/customizer.php:294
+msgid "Menu Link Hover/Active border color"
+msgstr "Menü bağlantı vurgu/etkin kernarlık rengi"
+
+#: inc/customizer.php:227 inc/customizer.php:310
+msgid "Menu Link Hover/Active BG Color"
+msgstr "Menü bağlantı vurgu/etkin arka plan rengi"
+
+#: inc/customizer.php:211 inc/customizer.php:278
+msgid "Menu Link Hover/Active Color"
+msgstr "Menü bağlantı vurgu/etkin rengi"
+
+#: inc/customizer.php:196 inc/customizer.php:263
+msgid "Menu Link Color"
+msgstr "Menü bağlantı rengi"
+
+#: inc/customizer.php:180 inc/customizer.php:247 inc/customizer.php:1277
+msgid "Background Color"
+msgstr "Arka plan rengi"
+
+#: inc/customizer.php:164
+msgid "Fixed & Transparent"
+msgstr "Sabitlenmiş ve saydam"
+
+#: inc/customizer.php:163
+msgid "Fixed"
+msgstr "Sabitlenmiş"
+
+#: inc/customizer.php:162
+msgid "Default"
+msgstr "Varsayılan"
+
+#: inc/customizer.php:159
+msgid "Header style"
+msgstr "Üst kısım biçimi"
+
+#: inc/customizer.php:143
+msgid "Header"
+msgstr "Üst kısım"
+
+#: inc/customizer.php:88
+msgid "Theme Options"
+msgstr "Tema seçenekleri"
+
+#: inc/customizer.php:60
+msgid "Hide site tagline"
+msgstr "Site sloganını gizle"
+
+#: inc/customizer.php:44
+msgid "Hide site title"
+msgstr "Site başlığını gizle"
+
+#: inc/customizer.php:29
+msgid "Select page"
+msgstr "Sayfa seç"
+
+#: inc/customizer-controls.php:576
+msgid "Close"
+msgstr "Kapat"
+
+#: inc/customizer-controls.php:548
+msgid "Change"
+msgstr "Değiştir"
+
+#: inc/customizer-controls.php:548
+msgid "Add"
+msgstr "Ekle"
+
+#: inc/customizer-controls.php:547 inc/customizer-controls.php:561
+#: inc/customizer-controls.php:574
+msgid "Remove"
+msgstr "Kaldır"
+
+#: inc/customizer-controls.php:407
+msgid "Add an item"
+msgstr "Öge ekle"
+
+#: inc/customizer-controls.php:298 inc/customizer-controls.php:426
+msgid "Item"
+msgstr "Öge"
+
+#: inc/class-slider.php:70 inc/extras.php:760
+msgid "Contact Now"
+msgstr "Şimdi iletişime geç"
+
+#: inc/class-slider.php:70 inc/extras.php:759
+msgid "Get Started"
+msgstr "Başlayın"
+
+#: inc/class-slider.php:69
+msgid "Screenr is a multiuse fullscreen WordPress theme"
+msgstr "Screenr çok kullanımlı tam ekran bir WordPress temasıdır"
+
+#: inc/class-slider.php:68 inc/extras.php:757
+msgid "Your business, your website"
+msgstr "Szin işiniz, sizin websiteniz"
+
+#: header.php:59
+msgid "Menu"
+msgstr "Menü"
+
+#: header.php:25
+msgid "Skip to content"
+msgstr "İçeriğe geç"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Montserrat, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:286
+msgctxt "Montserrat font: on or off"
+msgid "on"
+msgstr "on"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Open Sans, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:280
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:176
+msgid "Footer 4"
+msgstr "Alt kısım 4"
+
+#: functions.php:167
+msgid "Footer 3"
+msgstr "Alt kısım 3"
+
+#: functions.php:158
+msgid "Footer 2"
+msgstr "Alt Kısım 2"
+
+#: functions.php:149
+msgid "Footer 1"
+msgstr "Alt Kısım 1"
+
+#: functions.php:138
+msgid "Sidebar"
+msgstr "Kenar çubuğu"
+
+#: functions.php:65
+msgid "Primary"
+msgstr "Birincil"
+
+#: comments.php:77
+msgid "Comments are closed."
+msgstr "Yorumlar kapatıldı."
+
+#: comments.php:44 comments.php:64
+msgid "Newer Comments"
+msgstr "Yeni yorumlar"
+
+#: comments.php:43 comments.php:63
+msgid "Older Comments"
+msgstr "Eski yorumlar"
+
+#: comments.php:40 comments.php:60
+msgid "Comment navigation"
+msgstr "Yorum dolaşımı"
+
+#: comments.php:31
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "&ldquo;%2$s&rdquo; için bir yorum"
+msgstr[1] "&ldquo;%2$s&rdquo; için %1$s yorum"
+
+#: 404.php:26
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Burada hiçbir şeyin bulunmadığı görülüyor. Belki alttaki bağlantılardan birini veya bir arama yapmayı denemelisin?"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Amanın! O sayfa bulunamadı."
+
+#. Author URI of the plugin/theme
+msgid "https://www.famethemes.com"
+msgstr "https://www.famethemes.com"
+
+#. Author of the plugin/theme
+msgid "FameThemes"
+msgstr "FameThemes"
+
+#. Theme URI of the plugin/theme
+msgid "https://www.famethemes.com/themes/screenr"
+msgstr "https://www.famethemes.com/themes/screenr"

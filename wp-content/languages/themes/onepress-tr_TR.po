@@ -1,0 +1,1411 @@
+# Translation of Themes - OnePress in Turkish
+# This file is distributed under the same license as the Themes - OnePress package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-02-13 11:42:49+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: tr\n"
+"Project-Id-Version: Themes - OnePress\n"
+
+#. Description of the plugin/theme
+msgid "OnePress is an outstanding creative and flexible WordPress one page theme well suited for business website, portfolio, digital agency, product showcase, freelancers and everyone else who appreciate good design. The theme overall is an elegant and classic one, a fine example of Bootstrap 4 WordPress theme which compatibility with latest version of WooCommerce. (Live preview : http://www.famethemes.com/preview/?theme=OnePress)"
+msgstr "OnePress, iş web sitesi, portfolyo, dijital ajans, ürün vitrini, serbest çalışanlar ve iyi tasarım için teşekkür eden herkes için seçkin, yaratıcı ve esnek bir tek sayfa WordPress temasıdır. Tema geneli zarif ve klasik bir WooCommerce son sürümü ile uyumlu Bootstrap 4 WordPress temasının güzel bir örneğidir. (Canlı ön izleme: http://www.famethemes.com/preview/?theme=OnePress)"
+
+#. #-#-#-#-#  onepress.pot (OnePress 1.3.4)  #-#-#-#-#
+#. Theme Name of the plugin/theme
+#: inc/dashboard.php:327
+msgid "OnePress"
+msgstr "OnePress"
+
+#: inc/dashboard.php:379
+msgid "Child theme uses it’s own theme setting name, would you like to copy setting data from parent theme to this child theme?"
+msgstr "Alt tema kendi tema ayar adını kullanır, ebeveyn temadan bu alt temaya ayar verisini kopyalamak ister misiniz?"
+
+#: inc/customizer.php:2967
+msgid "Font Awesome"
+msgstr "Font Awesome"
+
+#: inc/customizer.php:2963
+msgid "Search"
+msgstr "Ara"
+
+#: inc/dashboard.php:558
+msgid "Are you sure want to copy ?"
+msgstr "Kopyalamak istediğinize emin misiniz?"
+
+#: inc/dashboard.php:419
+msgid "Recommend Plugins"
+msgstr "Önerilen eklentiler"
+
+#: inc/dashboard.php:402
+msgid "Your settings copied."
+msgstr "Ayarlarınız kopyalandı."
+
+#: inc/dashboard.php:399
+msgid "Copy now"
+msgstr "Şimdi kopyala"
+
+#: inc/dashboard.php:391
+msgid "To Theme"
+msgstr "Alan tema"
+
+#: inc/dashboard.php:385
+msgid "From Theme"
+msgstr "Gönderen tema"
+
+#: inc/dashboard.php:377
+msgid "You're using %1$s theme, It's a child theme of OnePress"
+msgstr "%1$s temasını kullanıyorsunuz, OnePress temasının alt temasıdır."
+
+#: inc/dashboard.php:238
+msgid "Details"
+msgstr "Detaylar"
+
+#: inc/dashboard.php:166
+msgid "Import Demo Data"
+msgstr "Demo veriyi içe aktar"
+
+#: inc/dashboard.php:166
+msgid "Save time by import our demo data, your website will be set up and ready to customize in minutes. %s"
+msgstr "Demo verilerimizi içe aktararak zamandan kazanın, web siteniz kurulacak ve birkaç dakika içinde özelleşmeye hazır olacak. %s"
+
+#: inc/customizer.php:1528
+msgid "Read More Text"
+msgstr "Daha fazla oku metni"
+
+#: inc/customizer.php:1523 section-parts/section-gallery.php:37
+msgid "View More"
+msgstr "Daha falzasını görüntüle"
+
+#: inc/customizer.php:1513
+msgid "Read More Link"
+msgstr "Daha fazla oku bağlantısı"
+
+#: inc/customizer.php:132
+msgid "No sidebar"
+msgstr "Kenar çubuğu yok"
+
+#: inc/customizer.php:131
+msgid "Left sidebar"
+msgstr "Sol kenar çubuğu"
+
+#: inc/customizer.php:130
+msgid "Right sidebar"
+msgstr "Sağ kenar çubuğu"
+
+#: inc/customizer.php:127
+msgid "Site Layout, apply for all pages, exclude home page and custom page templates."
+msgstr "Site yerleşimi, tüm sayfalar için uygulayın, ana sayfayı ve özel sayfa şablonlarını hariç tutun."
+
+#: inc/customizer.php:126
+msgid "Site Layout"
+msgstr "Site yerleşimi"
+
+#: functions.php:105
+msgid "Famethemes Demo Importer"
+msgstr "Famethemes demo içe aktarıcı"
+
+#: functions.php:101
+msgid "Contact Form 7"
+msgstr "Contact Form 7"
+
+#: functions.php:148
+msgid "WooCommerce Sidebar"
+msgstr "WooCommerce kenar çubuğu"
+
+#: inc/customizer.php:2925
+msgid "Upgrade to OnePress Plus to unlock this feature."
+msgstr "Bu özelliğin kilidini açmak için OnePress Plus'a yükseltin."
+
+#: inc/customizer.php:2040
+msgid "1 Column"
+msgstr "1 sütun"
+
+#: inc/customizer.php:1497
+msgid "Enable Lightbox"
+msgstr "Lightboxı etkinleştir"
+
+#: inc/customizer.php:1483
+msgid "Number items"
+msgstr ";Öge sayısı"
+
+#: inc/customizer.php:1458
+msgid "Layout columns"
+msgstr "Yerleşim sütunları"
+
+#: inc/customizer.php:1442
+msgid "Row Height"
+msgstr "Satır yüksekliği"
+
+#: inc/customizer.php:1426
+msgid "Item Spacing"
+msgstr "Öge aralığı"
+
+#: inc/customizer.php:1412
+msgid "Masonry"
+msgstr "Yığma"
+
+#: inc/customizer.php:1411
+msgid "Justified"
+msgstr "İki yana yaslı"
+
+#: inc/customizer.php:1410
+msgid "Slider"
+msgstr "Kaydırıcı"
+
+#: inc/customizer.php:1409
+msgid "Carousel"
+msgstr "Karusel"
+
+#: inc/customizer.php:1408
+msgid "Grid"
+msgstr "Izgara"
+
+#: inc/customizer.php:1403
+msgid "Display"
+msgstr "Gösterim"
+
+#: inc/customizer.php:1388
+msgid "Default, inside container"
+msgstr "Varsayılan, iç kapsayıcı"
+
+#: inc/customizer.php:1383
+msgid "Layout"
+msgstr "Yerleşim"
+
+#: inc/customizer.php:1369
+msgid "Select a page which have content contain [gallery] shortcode."
+msgstr "[gallery] kısa kodunu içeren bir sayfa seç."
+
+#: inc/customizer.php:1364
+msgid "Select Gallery Page"
+msgstr "Galeri sayfasını seç"
+
+#: inc/customizer.php:1347
+msgid "Page"
+msgstr "Sayfa"
+
+#: inc/customizer.php:1342
+msgid "Select Gallery Source"
+msgstr "Galeri kaynağını seç"
+
+#: inc/customizer.php:1281 section-parts/section-gallery.php:4
+msgid "Gallery"
+msgstr "Galeri"
+
+#: inc/customizer.php:1266 section-parts/section-gallery.php:2
+msgid "gallery"
+msgstr "galeri"
+
+#: inc/customizer.php:1231
+msgid "Section: Gallery"
+msgstr "Bölüm: Galeri"
+
+#: inc/customizer.php:385
+msgid "Scroll to top when click to the site logo or site title, only apply on front page."
+msgstr "Site logosuna veya başlığına tıklayarak üste kaydır, sadece ön sayfaya uygula."
+
+#: inc/dashboard.php:538
+msgid "FameThemes Demo Importer"
+msgstr "Famethemes demo içe aktarıcı"
+
+#: inc/dashboard.php:537
+msgid "Hey."
+msgstr "Merhaba,"
+
+#: inc/dashboard.php:535
+msgid "%1$s you will need to install and activate the %2$s plugin first."
+msgstr "%1$s ilk önce %2$s eklentisini kurmanız ve etkinleştirmeniz gerekecek. "
+
+#: inc/dashboard.php:218 inc/dashboard.php:519
+msgid "Active Now"
+msgstr "Şimdi etkin"
+
+#: inc/dashboard.php:196 inc/dashboard.php:497
+msgid "Install Now"
+msgstr "Şimdi kur"
+
+#: inc/dashboard.php:329
+msgid "One Click Demo Import"
+msgstr "Tek tıklama ile demo içe aktarma"
+
+#: inc/customizer.php:1065
+msgid "Button #2 style"
+msgstr "Düğme #2 biçimi"
+
+#: inc/customizer.php:2586
+msgid "More News Button Text"
+msgstr "Daha fazla haber düğme metni"
+
+#: inc/customizer.php:2575
+msgid "It should be your blog page link."
+msgstr "Blog sayfanızın bağlantısı olmalı."
+
+#: inc/customizer.php:1023 inc/customizer.php:1076
+msgid "Danger"
+msgstr "Tehlike"
+
+#: inc/customizer.php:1022 inc/customizer.php:1075
+msgid "Warning"
+msgstr "Uyarı"
+
+#: inc/customizer.php:1021 inc/customizer.php:1074
+msgid "Info"
+msgstr "Bilgi"
+
+#: inc/customizer.php:1020 inc/customizer.php:1073
+msgid "Success"
+msgstr "Başarı"
+
+#: inc/customizer.php:1019 inc/customizer.php:1072
+msgid "Primary"
+msgstr "Birincil"
+
+#: inc/customizer.php:1018 inc/customizer.php:1071
+msgid "Button"
+msgstr "Düğme"
+
+#: inc/customizer.php:1017 inc/customizer.php:1070
+msgid "Button Secondary"
+msgstr "İkincil düğme"
+
+#: inc/customizer.php:1016 inc/customizer.php:1069
+msgid "Button Primary"
+msgstr "Birincil düğme"
+
+#: inc/customizer.php:1012
+msgid "Button #1 style"
+msgstr "Düğme biçimi #1"
+
+#: inc/customizer.php:703
+msgid "The hero content padding bottom in percent (%)."
+msgstr "Hero içeriği yüzde (%) olarak alt dolgusu"
+
+#: inc/customizer.php:687
+msgid "The hero content padding top in percent (%)."
+msgstr "Hero içeriği yüzde (%) olarak üst dolgusu"
+
+#: inc/customizer.php:759
+msgid "The delay between the changing of each phrase in milliseconds."
+msgstr "Her cümlenin milisaniye cinsinden değişimi arasındaki gecikme."
+
+#: inc/customizer.php:540
+msgid "The newsletter form use MailChimp, please follow <a target=\"_blank\" href=\"http://goo.gl/uRVIst\">this guide</a> to know how to get MailChimp Action URL. Example <i>//famethemes.us8.list-manage.com/subscribe/post?u=521c400d049a59a4b9c0550c2&amp;id=83187e0006</i>"
+msgstr "Haber bülteni formunda MailChimp kullanılıyor, lütfen MailChimp işlem bağlantısının nasıl edinileceğini öğrenmek için <a target=\"_blank\" href=\"http://goo.gl/uRVIst\">bu kılavuzu</a> takip edin. Örneğin <i>//famethemes.us8.list-manage.com/subscribe/post?u=521c400d049a59a4b9c0550c2&amp;id=83187e0006</i>"
+
+#: inc/customizer.php:232
+msgid "Footer Info Background"
+msgstr "Alt kısım bilgi arka planı"
+
+#: inc/customizer.php:217
+msgid "Footer Background"
+msgstr "Alt kısım arka planı"
+
+#: inc/customizer.php:84
+msgid "Hide site tagline"
+msgstr "Site sloganını gizle"
+
+#: inc/customizer.php:69
+msgid "Hide site title"
+msgstr "Site başlığını gizle"
+
+#: inc/customizer.php:1873 inc/customizer.php:2083
+msgid "image"
+msgstr "görsel"
+
+#: inc/customizer.php:739
+msgid "Text animation"
+msgstr "Metin animasyonu"
+
+#: inc/dashboard.php:132
+msgid "OnePress Theme %s"
+msgstr "OnePress teması %s"
+
+#: inc/dashboard.php:130
+msgid "%1$s action required"
+msgid_plural "%1$s actions required"
+msgstr[0] "%1$s eylem gerekli"
+msgstr[1] "%1$s eylem gerekli"
+
+#: inc/customizer.php:553 inc/customizer.php:571
+msgid "Custom CSS"
+msgstr "Özel CSS"
+
+#: section-parts/section-features.php:5
+msgid "Why choose Us"
+msgstr "Neden bizi seçmelisiniz"
+
+#: inc/customizer.php:2032
+msgid "Services Layout Setting"
+msgstr "Hizmetler yerleşim ayarı"
+
+#: inc/customizer.php:1891 inc/customizer.php:2425
+msgid "Custom Link"
+msgstr "Özel bağlantı"
+
+#: inc/customizer.php:1887
+msgid "Description"
+msgstr "Açıklama"
+
+#: inc/customizer.php:1856
+msgid "Features content"
+msgstr "Özellikler içeriği"
+
+#: inc/customizer.php:1820
+msgid "Features Layout Setting"
+msgstr "Özellikler yerleşim ayarı"
+
+#: inc/customizer.php:1767 section-parts/section-features.php:4
+msgid "Features"
+msgstr "Özellikler"
+
+#: inc/customizer.php:1752 section-parts/section-features.php:2
+msgid "features"
+msgstr "özellikler"
+
+#: inc/customizer.php:1717
+msgid "Section: Features"
+msgstr "Bölüm: Özellikler"
+
+#: inc/customizer.php:1318 inc/customizer.php:1629 inc/customizer.php:1804
+#: inc/customizer.php:2015 inc/customizer.php:2204 inc/customizer.php:2360
+#: inc/customizer.php:2530 inc/customizer.php:2685
+msgid "Section Description"
+msgstr "Bölüm açıklaması"
+
+#: inc/customizer.php:1114 inc/customizer.php:1882 inc/customizer.php:2092
+msgid "Image"
+msgstr "Görsel"
+
+#: inc/customizer.php:1096
+msgid "Content Text"
+msgstr "İçerik metni"
+
+#: inc/customizer.php:934
+msgid "Layout 2"
+msgstr "Yerleşim 2"
+
+#: inc/customizer.php:933
+msgid "Layout 1"
+msgstr "Yerleşim 1"
+
+#: inc/customizer.php:928
+msgid "Display Layout"
+msgstr "Yerleşimi görüntüle"
+
+#: inc/customizer.php:477
+msgid "URL"
+msgstr "Bağlantı"
+
+#: inc/customizer.php:473 inc/customizer.php:1872 inc/customizer.php:1877
+#: inc/customizer.php:2082 inc/customizer.php:2087
+msgid "Icon"
+msgstr "Simge"
+
+#: inc/customizer.php:469
+msgid "Social network"
+msgstr "Sosyal ağ"
+
+#: inc/customizer.php:460
+msgid "Socials"
+msgstr "Sosyal medya"
+
+#: inc/customizer.php:371
+msgid "Apply for front page template only."
+msgstr "Sadece ön sayfa şablonu için uygula."
+
+#: inc/customizer.php:369
+msgid "Header Transparent"
+msgstr "Saydam üst kısım"
+
+#: footer.php:34
+msgid "Subscribe"
+msgstr "Takip"
+
+#: footer.php:33
+msgid "Enter your e-mail address"
+msgstr "E-posta adresinizi girin"
+
+#: inc/dashboard.php:355
+msgid "Support for %s WordPress theme is conducted through FameThemes support ticket system."
+msgstr "%s WordPress teması için destek, FameThemes destek kaydı sistemi ile gerçekleştirilir."
+
+#: inc/dashboard.php:349
+msgid "OnePress Documentation"
+msgstr "OnePress belgelendirmesi"
+
+#: inc/customizer.php:1827 inc/customizer.php:2039 inc/customizer.php:2383
+msgid "2 Columns"
+msgstr "2 sütun"
+
+#: inc/customizer.php:1826 inc/customizer.php:2038 inc/customizer.php:2382
+msgid "3 Columns"
+msgstr "3 sütun"
+
+#: inc/customizer.php:1825 inc/customizer.php:2037 inc/customizer.php:2381
+msgid "4 Columns"
+msgstr "4 sütun"
+
+#: inc/customizer.php:2376
+msgid "Team Layout Setting"
+msgstr "Ekip yerleşim ayarı"
+
+#: inc/customizer.php:1705 inc/customizer.php:1916
+msgid "Page Excerpt"
+msgstr "Sayfa özeti"
+
+#: inc/customizer.php:1704 inc/customizer.php:1915
+msgid "Full Page Content"
+msgstr "Tam sayfa içeriği"
+
+#: inc/customizer.php:1699 inc/customizer.php:1910
+msgid "Item content source"
+msgstr "Öge içerik kaynağı"
+
+#: inc/customizer.php:1660
+msgid "About content page"
+msgstr "Hakkında bölümü içerik sayfası"
+
+#: inc/customizer.php:884
+msgid "Enable parallax effect (apply for first BG image only)"
+msgstr "Paralaks efektini etkinleştir (sadece ilk arka plan görseline uygula)"
+
+#: inc/customizer.php:354
+msgid "If you use logo and your logo is too tall, check this box to auto vertical align menu."
+msgstr "Eğer logo kullanırsanız ve logonuz çok uzunsa, menüyü dikey olarak hizalamak için bu kutuyu işaratle"
+
+#: inc/customizer.php:352
+msgid "Center vertical align for menu"
+msgstr "Menü için dikey hizalamayı ortala"
+
+#: inc/customizer.php:336
+msgid "Responsive Menu Button Color"
+msgstr "Duyarlı menü düğme rengi"
+
+#: inc/customizer.php:321
+msgid "Menu Link Hover/Active BG Color"
+msgstr "Menü bağlantı vurgu/etkin arka plan rengi"
+
+#: inc/customizer.php:305
+msgid "Menu Link Hover/Active Color"
+msgstr "Menü bağlantı vurgu/etkin rengi"
+
+#: inc/customizer.php:290
+msgid "Menu Link Color"
+msgstr "Menü bağlantı rengi"
+
+#: inc/customizer.php:277
+msgid "Only set if you don't use an image logo."
+msgstr "Yalnızca bir logo kullanmazsanız ayarlayın."
+
+#: inc/customizer.php:275
+msgid "Site Title Color"
+msgstr "Site başlığı rengi"
+
+#: inc/customizer.php:259
+msgid "Background Color"
+msgstr "Arka plan rengi"
+
+#: inc/customizer.php:244
+msgid "Header"
+msgstr "Başlık"
+
+#: inc/customizer.php:201
+msgid "Primary Color"
+msgstr "Birincil renk"
+
+#: inc/customizer.php:192
+msgid "Site Colors"
+msgstr "Site renkleri"
+
+#: inc/customizer.php:2420
+msgid "User media"
+msgstr "Kullanıcı ortamı"
+
+#: inc/customizer.php:1219
+msgid "Background image"
+msgstr "Arka plan görseli"
+
+#: inc/customizer.php:1204
+msgid "Paste Youtube or Vimeo url here"
+msgstr "Youtube veya Vimeo bağlantısını buraya yapıştırın"
+
+#: inc/customizer.php:1202
+msgid "Video url"
+msgstr "Video bağlantısı"
+
+#: inc/customizer.php:1187
+msgid "Section heading"
+msgstr "Bölüm başlığı"
+
+#: inc/customizer.php:656 inc/customizer.php:1171 inc/customizer.php:1273
+#: inc/customizer.php:1584 inc/customizer.php:1759 inc/customizer.php:2159
+#: inc/customizer.php:2485 inc/customizer.php:2640
+msgid "The section id, we will use this for link anchor."
+msgstr "Bölüm idsi, bağlantı çapası için kullanacağız."
+
+#: inc/customizer.php:1129
+msgid "Section: Video Lightbox"
+msgstr "Bölüm: Video lightbox"
+
+#: inc/dashboard.php:482
+msgid "Hooray! There are no required actions for you right now."
+msgstr "Yaşasın! Sizin için şu anda gerekli bir işlem yok."
+
+#: inc/dashboard.php:481
+msgid "Keep update with %s"
+msgstr "%s ile güncel tutun"
+
+#: inc/dashboard.php:472
+msgid "Change homepage page template"
+msgstr "Ana sayfa şablonunu değiştir"
+
+#: inc/dashboard.php:458
+msgid "In order to change homepage section contents, you will need to set template \"Frontpage\" for your homepage."
+msgstr "Ana sayfa bölüm içeriklerini değiştirmek yerine, ana sayfanız için şablonu \"Ön sayfa\" olarak ayarlamanız gerekecek."
+
+#: inc/dashboard.php:455
+msgid "Set your homepage page template to \"Frontpage\"."
+msgstr "Ana sayfa şablonunuzu \"Ön sayfa\" olarak ayarlayın."
+
+#: inc/dashboard.php:441 inc/dashboard.php:465
+msgid "Setup front page displays"
+msgstr "Ön sayfa görünümünü yapılandır"
+
+#: inc/dashboard.php:438
+msgid "In order to have the one page look for your website, please go to Customize -&gt; Static Front Page and switch \"Front page displays\" to \"A static page\"."
+msgstr "Web siteniz için tek sayfa görünümüne sahip olmak için Özelleştir -&gt; Sabit ön sayfa ekranına gidin ve \"Ön sayfa görünümü\"nü \"Sabit bir sayfa\" olarak değiştirin."
+
+#: inc/dashboard.php:436
+msgid "Switch \"Front page displays\" to \"A static page\""
+msgstr "\"Ön sayfa görünümü\"nü \"Sabit bir sayfa\" olarak değiştir"
+
+#: inc/dashboard.php:429 inc/dashboard.php:448
+msgid "Dismiss"
+msgstr "Gizle"
+
+#: inc/dashboard.php:328
+msgid "Actions Required"
+msgstr "Eylem gerekli"
+
+#: inc/dashboard.php:323
+msgid "Welcome to OnePress - Version %1s"
+msgstr "OnePress %1$ sürümüne hoş geldiniz"
+
+#: inc/dashboard.php:157
+msgid "Welcome! Thank you for choosing %1$s! To fully take advantage of the best our theme can offer please make sure you visit our <a href=\"%2$s\">Welcome page</a>"
+msgstr "Hoş geldiniz. %1$s temasını tercih ettiğiniz için teşekkür ederiz. Temanızın sunduğu en iyi avantajı tam olarak kullanmak için lütfen <a href=\"%2$s\">hoşgeldin sayfamızı</a> ziyaret ettiğinizden emin olun."
+
+#: inc/dashboard.php:134
+msgid "OnePress Theme"
+msgstr "OnePress teması"
+
+#: inc/dashboard.php:137
+msgid "OnePress Dashboard"
+msgstr "OnePress başlangıç ekranı"
+
+#: inc/customizer.php:865
+msgid "Background Overlay Color"
+msgstr "Arka plan kaplama rengi"
+
+#: inc/customizer.php:586
+msgid "Section Order & Styling"
+msgstr "Bölüm sıralaması ve biçimlendirmesi"
+
+#: inc/customizer.php:149
+msgid "Check this box to disable sticky header when scroll."
+msgstr "Kaydırma sırasında yapışkan üst kısmı etkisizleştirmek için bu kutuyu işaretle."
+
+#: inc/customizer.php:147
+msgid "Disable Sticky Header?"
+msgstr "Yapışkan üst kısım etkisizleştirilsin mi?"
+
+#. Template Name of the plugin/theme
+msgid "Left Sidebar"
+msgstr "Sol Menü"
+
+#. #-#-#-#-#  onepress.pot (OnePress 1.3.4)  #-#-#-#-#
+#. Template Name of the plugin/theme
+#: inc/customizer.php:1389
+msgid "Full Width"
+msgstr "Tam genişlik"
+
+#. Template Name of the plugin/theme
+msgid "Frontpage"
+msgstr "Ön sayfa"
+
+#: template-parts/content-none.php:27
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Görünen o ki bakındığınız her ne ise bulamıyoruz. Belki arama özelliği yardımcı olabilir."
+
+#: template-parts/content-none.php:22
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Üzgünüz, arama terimlerinizle hiçbir şey eşleşmedi. Lütfen farklı anahtar kelimelerle tekrar deneyin."
+
+#: template-parts/content-none.php:18
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "İlk yazınızı yayımlamak için hazır mısınız? <a href=\"%1$s\">Buradan başlayın</a>."
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Hiçbir şey bulunamadı"
+
+#: template-parts/content-list.php:38 template-parts/content-page.php:21
+#: template-parts/content-single.php:25 template-parts/content.php:39
+msgid "Pages:"
+msgstr "Sayfalar:"
+
+#: section-parts/section-hero.php:80
+msgid "#services"
+msgstr "#hizmetler"
+
+#: section-parts/section-contact.php:48
+msgid "You can install %1$s plugin and go to Customizer &rarr; Section: Contact &rarr; Section Content to show a working contact form here."
+msgstr "%1$s eklentisini kurabilir ve Özelleştirici &rarr; Bölüm: İletişim &rarr; Bölüm içeriği'ne gidip buradan çalışan iletişim formunu gösterebilirsiniz."
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "%s için arama sonuçları"
+
+#: inc/template-tags.php:248
+msgid "Your comment is awaiting moderation."
+msgstr "Yorumunuz denetim bekliyor."
+
+#: inc/template-tags.php:243
+msgid "Edit"
+msgstr "Düzenle"
+
+#: inc/template-tags.php:242
+msgid "Reply"
+msgstr "Yanıtla"
+
+#. translators: 1: date, 2: time
+#: inc/template-tags.php:240
+msgid "%1$s"
+msgstr "%1$s"
+
+#: inc/template-tags.php:234
+msgid "Post author"
+msgstr "Yazar"
+
+#: inc/template-tags.php:215
+msgid "(Edit)"
+msgstr "(Düzenle)"
+
+#: inc/template-tags.php:215
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: inc/template-tags.php:144
+msgid "% Comments"
+msgstr "% yorum"
+
+#: inc/template-tags.php:144
+msgid "1 Comment"
+msgstr "1 Yorum"
+
+#: inc/template-tags.php:144
+msgid "Leave a comment"
+msgstr "Bir yorum bırakın"
+
+#: inc/template-tags.php:138
+msgid "Tagged %1$s"
+msgstr "%1$s olarak etiketlendi"
+
+#: inc/template-tags.php:132
+msgid "Posted in %1$s"
+msgstr "%1$s içinde yayınlandı"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:130 inc/template-tags.php:136
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:112
+msgctxt "post author"
+msgid "by %s"
+msgstr "%s tarafından"
+
+#: inc/template-tags.php:107
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "%s tarihinde yayınlandı"
+
+#: inc/dashboard.php:354
+msgid "Having Trouble, Need Support?"
+msgstr "Sorun yaşıyorsunuz, desteğe mi ihtiyacınız var?"
+
+#: inc/dashboard.php:347
+msgid "Need any help to setup and configure %s? Please have a look at our documentations instructions."
+msgstr "%s kurulumu ve yapılandırması için yardıma mı ihtiyacınız var? Lütfen belgelendirme talimatlarımıza göz atın."
+
+#: inc/dashboard.php:346
+msgid "Theme Documentation"
+msgstr "Tema belgelendirmesi"
+
+#: inc/dashboard.php:342
+msgid "Start Customize"
+msgstr "Özelleştirmeye başla"
+
+#: inc/dashboard.php:340
+msgid "%s supports the Theme Customizer for all theme settings. Click \"Customize\" to start customize your site."
+msgstr "%s tüm tema ayarları için tema özelleştiricisini destekler. Sitenizi özelleştirmek için Özelleştir'e tıklayın"
+
+#: inc/dashboard.php:339
+msgid "Theme Customizer"
+msgstr "Tema özelleştirici"
+
+#: inc/dashboard.php:324
+msgid "OnePress is a creative and flexible WordPress ONE PAGE theme well suited for business, portfolio, digital agency, product showcase, freelancers websites."
+msgstr "OnePress, iş, portfolyo, dijital ajans, ürün vitrini, serbest çalışanların web siteleri için çok uygun, yaratıcı ve esnek bir WordPress \"tek sayfa\" temasıdır."
+
+#: inc/customizer.php:2840
+msgid "Fax"
+msgstr "Faks"
+
+#: inc/customizer.php:2825
+msgid "Email"
+msgstr "E-posta"
+
+#: inc/customizer.php:2810
+msgid "Phone"
+msgstr "Telefon"
+
+#: inc/customizer.php:2795
+msgid "Address"
+msgstr "Adres"
+
+#: inc/customizer.php:2780
+msgid "Contact Box Title"
+msgstr "İletişim kutusu başlığı"
+
+#: inc/customizer.php:2756
+msgid "Contact Text"
+msgstr "İletişim metni"
+
+#: inc/customizer.php:2741
+msgid "Check this box to hide contact form."
+msgstr "İletişim formunu gizlemek için bu kutuyu işaretle."
+
+#: inc/customizer.php:2739
+msgid "Hide contact form completely."
+msgstr "İletişim formunu tamamen gizle."
+
+#: inc/customizer.php:2723
+msgid "Contact Form 7 Shortcode."
+msgstr "Contact Form 7 kısa kodu."
+
+#: inc/customizer.php:2648 section-parts/section-contact.php:4
+msgid "Get in touch"
+msgstr "Temasa geçin"
+
+#: inc/customizer.php:2633 section-parts/section-contact.php:2
+msgid "contact"
+msgstr "iletişim"
+
+#: inc/customizer.php:2598
+msgid "Section: Contact"
+msgstr "Bölüm: İletişim"
+
+#: inc/customizer.php:2581 section-parts/section-news.php:8
+msgid "Read Our Blog"
+msgstr "Blogumuzu okuyun"
+
+#: inc/customizer.php:2573
+msgid "More News button link"
+msgstr "Daha fazla haber düğme bağlantısı"
+
+#: inc/customizer.php:2558
+msgid "Number of post to show"
+msgstr "Gösterilecek yazı adedi"
+
+#: inc/customizer.php:2493 section-parts/section-news.php:4
+msgid "Latest News"
+msgstr "Son haberler"
+
+#: inc/customizer.php:2478 section-parts/section-news.php:2
+msgid "news"
+msgstr "haberler"
+
+#: inc/customizer.php:2443
+msgid "Section: News"
+msgstr "Bölüm: Haberler"
+
+#: inc/customizer.php:2411
+msgid "Team members"
+msgstr "Ekip üyeleri"
+
+#: inc/customizer.php:2323 section-parts/section-team.php:4
+msgid "Our Team"
+msgstr "Ekibimiz"
+
+#: inc/customizer.php:2308 section-parts/section-team.php:2
+msgid "team"
+msgstr "ekip"
+
+#: inc/customizer.php:2274
+msgid "Section: Team"
+msgstr "Bölüm: Ekip"
+
+#: inc/customizer.php:2258
+msgid "After number"
+msgstr "Sayıdan sonra"
+
+#: inc/customizer.php:2253
+msgid "Before number"
+msgstr "Sayıdan önce"
+
+#: inc/customizer.php:2248
+msgid "Number"
+msgstr "Sayı"
+
+#: inc/customizer.php:2245
+msgid "Your counter label"
+msgstr "Sayacınızın etiketi"
+
+#: inc/customizer.php:1865 inc/customizer.php:2242
+msgid "Title"
+msgstr "Başlık"
+
+#: inc/customizer.php:2233
+msgid "Counter content"
+msgstr "Sayaç içeriği"
+
+#: inc/customizer.php:2167 section-parts/section-counter.php:4
+msgid "Our Numbers"
+msgstr "Sayılarımız"
+
+#: inc/customizer.php:2152 section-parts/section-counter.php:2
+msgid "counter"
+msgstr "sayaç"
+
+#: inc/customizer.php:2118
+msgid "Section: Counter"
+msgstr "Bölüm: Sayaç"
+
+#: inc/customizer.php:1869 inc/customizer.php:2079
+msgid "Custom icon"
+msgstr "Özel simge"
+
+#: inc/customizer.php:2069
+msgid "Service content"
+msgstr "Hizmet içeriği"
+
+#: inc/customizer.php:1978 section-parts/section-hero.php:79
+#: section-parts/section-services.php:4
+msgid "Our Services"
+msgstr "Hizmetlerimiz"
+
+#: inc/customizer.php:1963 section-parts/section-services.php:2
+msgid "services"
+msgstr "hizmetler"
+
+#: inc/customizer.php:1928
+msgid "Section: Services"
+msgstr "Bölüm: Hizmetler"
+
+#: inc/customizer.php:1680 inc/customizer.php:2103
+msgid "Link to single page"
+msgstr "Tek sayfaya bağlantı"
+
+#: inc/customizer.php:1676
+msgid "Hide item title"
+msgstr "Öge başlığını gizle"
+
+#: inc/customizer.php:1671 inc/customizer.php:2098
+msgid "Select a page"
+msgstr "Sayfa seç"
+
+#: inc/customizer.php:464 inc/customizer.php:1664 inc/customizer.php:1860
+#: inc/customizer.php:2073 inc/customizer.php:2237 inc/customizer.php:2415
+msgid "[live_title]"
+msgstr "[live_title]"
+
+#: inc/customizer.php:1327 inc/customizer.php:1639 inc/customizer.php:1836
+#: inc/customizer.php:2049 inc/customizer.php:2213 inc/customizer.php:2391
+#: inc/customizer.php:2695
+msgid "Section Content"
+msgstr "Bölüm içeriği"
+
+#: inc/customizer.php:1301 inc/customizer.php:1612 inc/customizer.php:1787
+#: inc/customizer.php:1998 inc/customizer.php:2187 inc/customizer.php:2343
+#: inc/customizer.php:2513 inc/customizer.php:2668
+msgid "Section Subtitle"
+msgstr "Bölüm alt başlığı"
+
+#: inc/customizer.php:1296 inc/customizer.php:1607 inc/customizer.php:1782
+#: inc/customizer.php:1993 inc/customizer.php:2182 inc/customizer.php:2338
+#: inc/customizer.php:2508 inc/customizer.php:2663
+#: section-parts/section-about.php:5 section-parts/section-contact.php:5
+#: section-parts/section-counter.php:5 section-parts/section-gallery.php:5
+#: section-parts/section-news.php:5 section-parts/section-services.php:5
+#: section-parts/section-team.php:5
+msgid "Section subtitle"
+msgstr "Bölüm alt başlığı"
+
+#: inc/customizer.php:1286 inc/customizer.php:1597 inc/customizer.php:1772
+#: inc/customizer.php:1983 inc/customizer.php:2172 inc/customizer.php:2328
+#: inc/customizer.php:2498 inc/customizer.php:2653
+msgid "Section Title"
+msgstr "Bölüm başlığı"
+
+#: inc/customizer.php:1577 section-parts/section-about.php:2
+msgid "about"
+msgstr "hakkında"
+
+#: inc/customizer.php:1138 inc/customizer.php:1240 inc/customizer.php:1551
+#: inc/customizer.php:1726 inc/customizer.php:1937 inc/customizer.php:2127
+#: inc/customizer.php:2283 inc/customizer.php:2452 inc/customizer.php:2607
+msgid "Section Settings"
+msgstr "Bölüm ayarları"
+
+#: inc/customizer.php:1542
+msgid "Section: About"
+msgstr "Bölüm: Hakkında"
+
+#: inc/customizer.php:1051
+msgid "Button #2 Link"
+msgstr "Düğme #2 bağlantısı"
+
+#: inc/customizer.php:1046 section-parts/section-hero.php:82
+msgid "#contact"
+msgstr "#iletisim"
+
+#: inc/customizer.php:1037
+msgid "Button #2 Text"
+msgstr "Düğme #2 metni"
+
+#: inc/customizer.php:1032 section-parts/section-hero.php:81
+msgid "Get Started"
+msgstr "Başlayın"
+
+#: inc/customizer.php:999
+msgid "Button #1 Link"
+msgstr "düğme bağlantısı #1"
+
+#: inc/customizer.php:994
+msgid "#about"
+msgstr "#hakkinda"
+
+#: inc/customizer.php:985
+msgid "Button #1 Text"
+msgstr "Düğme metni #1"
+
+#: inc/customizer.php:980 inc/customizer.php:1592
+#: section-parts/section-about.php:4
+msgid "About Us"
+msgstr "Hakkımızda"
+
+#: inc/customizer.php:972
+msgid "You can use text rotate slider in this textarea too."
+msgstr "Bu metin kutusunda, metin döndürme kaydırıcısını da kullanabilirsiniz."
+
+#: inc/customizer.php:969
+msgid "Small Text"
+msgstr "Küçük metin"
+
+#: inc/customizer.php:954
+msgid "Text Rotating Guide: Put your rotate texts separate by \"|\" into <span class=\"js-rotating\">...</span>, go to Customizer->Site Option->Animate to control rotate animation."
+msgstr "Metin döndürme rehberi: Dönecek metinleri \"|\" ile ayırarak <span class=\"js-rotating\">...</span> içine koyun. Dönme animasyonunu kontrol etmek için Özelleştirici->Site seçenekleri->Animasyon ekranına gidin."
+
+#: inc/customizer.php:952
+msgid "Large Text"
+msgstr "Büyük metin"
+
+#: inc/customizer.php:912
+msgid "Hero Content Layout"
+msgstr "Hero içerik yerleşimi"
+
+#: inc/customizer.php:839
+msgid "Background Image"
+msgstr "Arka plan görseli"
+
+#: inc/customizer.php:834
+msgid "Background"
+msgstr "Arka plan"
+
+#: inc/customizer.php:830
+msgid "Background Images"
+msgstr "Arka plan görselleri"
+
+#: inc/customizer.php:804
+msgid "Hero Background Media"
+msgstr "Hero arka plan ortamı"
+
+#: inc/customizer.php:701
+msgid "Padding Bottom:"
+msgstr "Alt dolgu:"
+
+#: inc/customizer.php:685
+msgid "Padding Top:"
+msgstr "Üst dolgu:"
+
+#: inc/customizer.php:680 inc/customizer.php:696
+msgid "10"
+msgstr "10"
+
+#: inc/customizer.php:672
+msgid "Check this box to make hero section full screen."
+msgstr "Hero bölümünü tam ekran yapmak için bu kutuyu işaretle"
+
+#: inc/customizer.php:670
+msgid "Make hero section full screen"
+msgstr "Hero bölümünü tam ekran yap"
+
+#: inc/customizer.php:654 inc/customizer.php:1169 inc/customizer.php:1271
+#: inc/customizer.php:1582 inc/customizer.php:1757 inc/customizer.php:1968
+#: inc/customizer.php:2157 inc/customizer.php:2313 inc/customizer.php:2483
+#: inc/customizer.php:2638
+msgid "Section ID:"
+msgstr "Bölüm ID:"
+
+#: inc/customizer.php:649 section-parts/section-hero.php:2
+msgid "hero"
+msgstr "hero"
+
+#: inc/customizer.php:642 inc/customizer.php:1156 inc/customizer.php:1258
+#: inc/customizer.php:1569 inc/customizer.php:1744 inc/customizer.php:1955
+#: inc/customizer.php:2144 inc/customizer.php:2301 inc/customizer.php:2470
+#: inc/customizer.php:2625
+msgid "Check this box to hide this section."
+msgstr "Bu bölümü gizlemek için bu kutuyu işaratle."
+
+#: inc/customizer.php:640 inc/customizer.php:1154 inc/customizer.php:1256
+#: inc/customizer.php:1567 inc/customizer.php:1742 inc/customizer.php:1953
+#: inc/customizer.php:2142 inc/customizer.php:2299 inc/customizer.php:2468
+#: inc/customizer.php:2623
+msgid "Hide this section?"
+msgstr "Bu bölüm gizlensin mi?"
+
+#: inc/customizer.php:624
+msgid "Hero Settings"
+msgstr "Hero ayarları"
+
+#: inc/customizer.php:614
+msgid "Section: Hero"
+msgstr "Bölüm: Hero"
+
+#: inc/customizer.php:538
+msgid "MailChimp Action URL"
+msgstr "MailChimp eylem bağlantısı"
+
+#: inc/customizer.php:522
+msgid "Newsletter Form Title"
+msgstr "Haber bülteni form başlığı"
+
+#: inc/customizer.php:508
+msgid "Check this box to hide footer newsletter form."
+msgstr "Alt kısım haber bülteni gizlemek için bu kutuyu işaretle."
+
+#: inc/customizer.php:506
+msgid "Hide Footer Newsletter?"
+msgstr "Alt kısım haber bülteni gizlensin mi?"
+
+#: inc/customizer.php:491
+msgid "Newsletter"
+msgstr "Haber bülteni"
+
+#: inc/customizer.php:440
+msgid "Social Footer Title"
+msgstr "Sosyal bölüm alt kısım başlığı"
+
+#: inc/customizer.php:426
+msgid "These social profiles setting below will display at the footer of your site."
+msgstr "Aşağıda belirtilen bu sosyal ağ profilleri sitenizin alt kısmında görüntülenecektir."
+
+#: inc/customizer.php:413
+msgid "Check this box to hide footer social section."
+msgstr "Alt kısımdaki sosyal ağ bölümünü gizlemek için bu kutuyu işaretle."
+
+#: inc/customizer.php:411
+msgid "Hide Footer Social?"
+msgstr "Alt kısım sosyal ağ simgelerini gizle"
+
+#: inc/customizer.php:395
+msgid "Social Profiles"
+msgstr "Sosyal ağ profilleri"
+
+#: inc/customizer.php:182
+msgid "Check this box to hide footer back to top button."
+msgstr "Alt kısımdaki üste dön düğmesini gizlemek için bu kutuyu işaretle."
+
+#: inc/customizer.php:180
+msgid "Hide footer back to top?"
+msgstr "Alt kısımdaki üste dön gizlensin mi?"
+
+#: inc/customizer.php:165
+msgid "Check this box to disable all element animation when scroll."
+msgstr "Kaydırma sırasında tüm elemanların animasyonlarını etkisizleştirmek için bu kutuyu işaretle."
+
+#: inc/customizer.php:163
+msgid "Disable animation effect?"
+msgstr "Animasyon efekti etkisizleştirilsin im?"
+
+#: inc/customizer.php:109
+msgid "Global"
+msgstr "Genel"
+
+#: inc/customizer.php:99
+msgid "Theme Options"
+msgstr "Tema seçenekleri"
+
+#: inc/customizer.php:49
+msgid "Select member"
+msgstr "Üye seç"
+
+#: inc/customizer.php:38
+msgid "Select page"
+msgstr "Sayfa seç"
+
+#: inc/customizer.php:25
+msgid "Site Title, Tagline & Logo"
+msgstr "Site başlığı, sloganı ve logosu"
+
+#: inc/customizer-controls.php:675
+msgid "Close"
+msgstr "Kapat"
+
+#: inc/customizer-controls.php:640
+msgid "Change"
+msgstr "Değiştir"
+
+#: inc/customizer-controls.php:640
+msgid "Add"
+msgstr "Ekle"
+
+#: inc/customizer-controls.php:639 inc/customizer-controls.php:661
+#: inc/customizer-controls.php:673
+msgid "Remove"
+msgstr "Kaldır"
+
+#: inc/customizer-controls.php:408 inc/customizer-controls.php:523
+msgid "Item"
+msgstr "Öge"
+
+#: inc/customizer-controls.php:508
+msgid "Add an item"
+msgstr "Öge ekle"
+
+#: inc/template-tags.php:73
+msgid "Menu"
+msgstr "Menü"
+
+#: header.php:25
+msgid "Skip to content"
+msgstr "İçeriğe geç"
+
+#: functions.php:356
+msgid "Please contact the administrator of this site for help."
+msgstr "Lütfen yardım için bu sitenin yöneticisi ile iletişim kurun."
+
+#: functions.php:355
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Tüm eklentiler başarıyla kuruldu ve etkinleştirildi. %1$s"
+
+#: functions.php:354
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "Eklenti etkinleştirilmedi. Bu tema için %s eklentisinin daha yeni bir sürümü gerekiyor. Lütfen eklentiyi güncelleyin."
+
+#: functions.php:353
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Hiçbir eylem yapılmadı. %1$s eklentisi zaten etkindi."
+
+#: functions.php:352
+msgid "The following plugin was activated successfully:"
+msgstr "Takibeden eklenti başarıyla aktif ettirildi."
+
+#: functions.php:351
+msgid "Plugin activated successfully."
+msgstr "Eklenti başarıyla etkinleştirildi."
+
+#: functions.php:350
+msgid "Return to Required Plugins Installer"
+msgstr "Gerekli Eklenti Kurulumuna Dön"
+
+#: functions.php:349
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Eklentiyi etkinleştirmeye başlayın"
+msgstr[1] "Eklentileri etkinleştirmeye başlayın"
+
+#: functions.php:348
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Eklentiyi güncellemeye başlayın"
+msgstr[1] "Eklentileri güncellemeye başlayın"
+
+#: functions.php:347
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Eklentiyi kurmaya başlayın"
+msgstr[1] "Eklentileri kurmaya başlayın"
+
+#: functions.php:346
+msgid "Sorry, but you do not have the correct permissions to activate the %1$s plugin."
+msgid_plural "Sorry, but you do not have the correct permissions to activate the %1$s plugins."
+msgstr[0] "Üzgünüm ancak %1$s eklentisini etkinleştirmek için doğru izinlere sahip değilsiniz."
+msgstr[1] "Üzgünüm ancak %1$s eklentilerini etkinleştirmek için doğru izinlere sahip değilsiniz."
+
+#: functions.php:345
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "Şu önerilen eklenti şu anda pasif durumda: %1$s."
+msgstr[1] "Şu önerilen eklentiler şu anda pasif durumda: %1$s."
+
+#: functions.php:344
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "Şu gerekli eklenti şu anda pasif durumda: %1$s."
+msgstr[1] "Şu gerekli eklentiler şu anda pasif durumda: %1$s."
+
+#: functions.php:343
+msgid "Sorry, but you do not have the correct permissions to update the %1$s plugin."
+msgid_plural "Sorry, but you do not have the correct permissions to update the %1$s plugins."
+msgstr[0] "Üzgünüm ancak %1$s eklentisini güncellemek için doğru izinlere sahip değilsiniz."
+msgstr[1] "Üzgünüm ancak %1$s eklentilerini güncellemek için doğru izinlere sahip değilsiniz."
+
+#: functions.php:342
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "%1$s için güncelleme mevcut."
+msgstr[1] "Şu eklentiler için güncellemeler mevcut: %1$s."
+
+#: functions.php:341
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] "Bu temayla en fazla uyumu sağlamak için aşağıdaki eklentinin en son sürüme güncellenmesi gerekli: %1$s."
+msgstr[1] "Bu temayla en fazla uyumu sağlamak için aşağıdaki eklentilerin en son sürüme güncellenmesi gerekli: %1$s."
+
+#: functions.php:340
+msgid "Sorry, but you do not have the correct permissions to install the %1$s plugin."
+msgid_plural "Sorry, but you do not have the correct permissions to install the %1$s plugins."
+msgstr[0] "Üzgünüm ancak %1$s eklentisini yüklemek için doğru izinlere sahip değilsiniz."
+msgstr[1] "Üzgünüm ancak %1$s eklentilerini yüklemek için doğru izinlere sahip değilsiniz."
+
+#: functions.php:339
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Bu tema şu eklentiyi önerir: %1$s."
+msgstr[1] "Bu tema şu eklentileri önerir: %1$s."
+
+#: functions.php:338
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Bu tema şu eklentiyi gerektirir: %1$s."
+msgstr[1] "Bu tema şu eklentileri gerektirir: %1$s."
+
+#: functions.php:337
+msgid "Something went wrong with the plugin API."
+msgstr "Eklenti API'siyle ilgili bir şeyler yanlış gitti."
+
+#: functions.php:336
+msgid "Installing Plugin: %s"
+msgstr "Eklenti Kuruluyor: %s"
+
+#: functions.php:335
+msgid "Install Plugins"
+msgstr "Eklenti Kur"
+
+#: functions.php:334
+msgid "Install Required Plugins"
+msgstr "Gerekli Eklentileri Kur"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Raleway, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:253
+msgctxt "Raleway font: on or off"
+msgid "on"
+msgstr "on"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Open Sans, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:247
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr "aç"
+
+#: functions.php:137
+msgid "Sidebar"
+msgstr "Kenar çubuğu"
+
+#: functions.php:59
+msgid "Primary Menu"
+msgstr "Birincil menü"
+
+#: inc/template-tags.php:958
+msgid "%1$s theme by %2$s"
+msgstr "%2$s tarafından %1$s teması"
+
+#: inc/template-tags.php:956
+msgid "Copyright %1$s %2$s %3$s"
+msgstr "Telif hakkı %1$s %2$s %3$s"
+
+#: footer.php:94
+msgid "Back To Top"
+msgstr "En üste dön"
+
+#: footer.php:19 inc/customizer.php:516
+msgid "Join our Newsletter"
+msgstr "Haber bültenimize katılın"
+
+#: footer.php:15 inc/customizer.php:434
+msgid "Keep Updated"
+msgstr "Güncellenmiş tutun"
+
+#: comments.php:76
+msgid "Comments are closed."
+msgstr "Yorumlar kapatıldı."
+
+#: comments.php:44 comments.php:64
+msgid "Newer Comments"
+msgstr "Yeni yorumlar"
+
+#: comments.php:43 comments.php:63
+msgid "Older Comments"
+msgstr "Eski yorumlar"
+
+#: comments.php:40 comments.php:60
+msgid "Comment navigation"
+msgstr "Yorum navigasyonu"
+
+#: comments.php:31
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "&ldquo;%2$s&rdquo; için bir yorum"
+msgstr[1] "&ldquo;%2$s&rdquo; için %1$s yorum"
+
+#. translators: %1$s: smiley
+#: 404.php:51
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Aylık arşivleri deneyin. %1$s"
+
+#: 404.php:34
+msgid "Most Used Categories"
+msgstr "En çok kullanılan kategoriler"
+
+#: 404.php:26
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Burada hiçbir şeyin bulunmadığı görülüyor. Belki alttaki bağlantılardan birini veya bir arama yapmayı denemelisin?"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Amanın! O sayfa bulunamadı."
+
+#. Author URI of the plugin/theme
+msgid "http://www.famethemes.com"
+msgstr "http://www.famethemes.com"
+
+#. Author of the plugin/theme
+msgid "FameThemes"
+msgstr "FameThemes"
+
+#. Theme URI of the plugin/theme
+msgid "https://www.famethemes.com/themes/onepress/"
+msgstr "https://www.famethemes.com/themes/onepress/"
