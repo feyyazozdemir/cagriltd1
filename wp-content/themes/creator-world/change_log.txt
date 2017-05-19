@@ -1,0 +1,15 @@
+Version 1.0.0
+i) Intial version Release
+
+Version 1.1.0
+i) change theme name as per reviewer
+
+Version 1.2.0
+i) Removed Deprecated tag.
+ii) Removed Security errors.
+
+Version 1.3.0
+i)  Changeble body background image
+ii)  Solved Escaping errors.
+iii) Footer widgetise
+iv) solved all issue as per reviewer pointed.
